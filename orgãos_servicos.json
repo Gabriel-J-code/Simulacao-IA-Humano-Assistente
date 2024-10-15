@@ -1,0 +1,592 @@
+{
+    "detran": [
+        {
+            "servico": "PRIMEIRA HABILITAÇÃO",
+            "descricao": "É O PROCESSO PARA ADQUIRIR A CARTEIRA NACIONAL DE HABILITAÇÃO.",
+            "publico_alvo": "CIDADÃO",
+            "quem_pode_acessar": "Publico geral",
+            "exigencias": [
+                "SER MAIOR DE 18 ANOS",
+                "SABER LER E ESCREVER",
+                "SER PENALMENTE IMPUTÁVEL",
+                "POSSUIR CADASTRO DE PESSOA FÍSICA (CPF)",
+                "CASO O CONDUTOR SEJA DE OUTRO ESTADO E JÁ INICIOU O PROCESSO EM OUTRO ESTADO, SERÁ NECESSÁRIO REALIZAR A TRANSFERÊNCIA DE PRONTUÁRIO: - NO SITE DE AGENDAMENTO DO DETRAN, AGENDE O SERVIÇO 'RENOVAÇÃO DE CNH COM TRANSFERÊNCIA E DEMAIS SERVIÇOS DE OUTROS ESTADOS' - COMPAREÇA NO DIA E LOCAL AGENDADO, PAGUE A GUIA EMITIDA NO LOCAL E CASO NÃO TENHA IMPEDIMENTOS NO PRONTUÁRIO, CONTINUE COM AS ETAPAS DO SERVIÇO.",
+                "CASO O CONDUTOR QUEIRA INCLUIR PCD (PESSOA COM DEFICIÊNCIA), SIGA OS PASSOS: - DURANTE A REALIZAÇÃO DO SERVIÇO, AGENDE NO PORTAL DE SERVIÇOS HTTPS://WSDETRAN.PB.GOV.BR/DETRAN-PORTAL-SERVICOS/SERVLET/EASYNAT-APP , NA ABA HABILITAÇÃO, O EXAME MÉDICO. - COMPAREÇA AO EXAME MÉDICO COM DOCUMENTOS COMPROBATÓRIOS. - APÓS EXAME MÉDICO, AGENDE A JUNTA MÉDICA NO PORTAL DE SERVIÇOS. - COMPAREÇA A JUNTA MÉDICA, E APÓS CONCLUÍDA, CONTINUE NORMALMENTE COM O SERVIÇO."
+            ],
+            "tempo": "ATÉ 1 ANO",
+            "informacao_adicional": [
+                "DOCUMENTOS TAMBÉM ACEITOS PARA IDENTIFICAÇÃO PESSOAL (SEMPRE ACOMPANHADO DE CÓPIA): PASSAPORTE, CERTIFICADO DE RESERVISTA OU DISPENSA DE CORPORAÇÃO, CARTEIRA EXPEDIDA POR COMANDOS MILITARES, CARTEIRA DE ÓRGÃOS DE CLASSE E FISCALIZADORES DE EXERCÍCIO PROFISSIONAL E IDENTIDADE DE ESTRANGEIROS EXPEDIDA PELA POLÍCIA FEDERAL (RNM OU RNE)",
+                "HORÁRIOS DE ATENDIMENTO: HTTPS://DETRAN.PB.GOV.BR/INSTITUCIONAL-1/POSTOS",
+                "CONTATOS: HTTPS://DETRAN.PB.GOV.BR/INSTITUCIONAL-1/TELEFONES-UTEIS"
+            ],
+            "etapas": [
+                "PROCURE UMA AUTOESCOLA PARA INÍCIO DO PROCESSO DE PRIMEIRA HABILITAÇÃO",
+                "SIGA O FLUXO EXPLICADO NA AUTOESCOLA (FOTO E BIOMETRIA, EXAME PSICOTÉCNICO, EXAME MÉDICO, AULAS TEÓRICAS, PROVA DE LEGISLAÇÃO, AULAS PRÁTICAS, PROVA PRÁTICA)",
+                "CASO SEJA APENAS CATEGORIA A PROCURAR INSTITUIÇÃO CREDENCIADA PELO DETRAN PARA CURSO DE MOTOTÁXI E MOTOFRETISTA, APÓS ISSO, REALIZAR PROVA",
+                "ACOMPANHE A SITUAÇÃO DA CNH NO PORTAL DE SERVIÇOS. QUANDO A EMISSÃO FOR CONFIRMADA, AGENDE O RECEBIMENTO NO MESMO LOCAL EM QUE APARECE NO CAMPO OBSERVAÇÕES",
+                "COMPAREÇA PARA RECEBIMENTO DA CNH"
+            ],
+            "forma_prestacao": "PARCIALMENTE_ONLINE",
+            "orgao_prestador": "Departamento Estadual de Trânsito da Paraíba"
+        },
+        {
+            "servico": "INDICAÇÃO DE CONDUTOR INFRATOR",
+            "descricao": "O SERVIÇO CONSISTE QUANDO O PROPRIETÁRIO DO VEICULO AUTUADO SEM ABORDAGEM DESEJA INDICAR O REAL CONDUTOR INFRATOR.",
+            "publico_alvo": "CIDADÃO",
+            "quem_pode_acessar": "Publico geral",
+            "exigencias": [
+                "A AUTUAÇÃO DEVE TER SIDO REALIZADA PELO DETRAN",
+                "DEVE SER INFRAÇÕES SEM ABORDAGEM DO VEÍCULO",
+                "O REQUERENTE DEVE SER PROPRIETÁRIO DO VEICULO",
+                "O INFRATOR DEVERÁ TER CNH"
+            ],
+            "tempo": "ATÉ 5 DIAS ÚTEIS",
+            "informacao_adicional": [
+                "O PROPRIETÁRIO POSSUI UM PRAZO DE 30 DIAS PARA INDICAR O INFRATOR, CASO ESSE PRAZO SEJA EXCEDIDO, A SOLICITAÇÃO NÃO PODERÁ SER REALIZADA.",
+                "DOCUMENTOS TAMBÉM ACEITOS PARA IDENTIFICAÇÃO PESSOAL DO PROPRIETÁRIO (SEMPRE ACOMPANHADO DE CÓPIA): PASSAPORTE, CERTIFICADO DE RESERVISTA OU DISPENSA DE CORPORAÇÃO, CARTEIRA EXPEDIDA POR COMANDOS MILITARES, CARTEIRA DE ÓRGÃOS DE CLASSE E FISCALIZADORES DE EXERCÍCIO PROFISSIONAL E IDENTIDADE DE ESTRANGEIROS EXPEDIDA PELA POLÍCIA FEDERAL (RNM OU RNE)",
+                "INFORMAÇÕES ADICIONAIS SOBRE PROCURAÇÃO PÚBLICA E PARTICULAR - HTTPS://DETRAN.PB.GOV.BR/PORTARIA-INSTRUCOES-NORMATIVAS/PORTARIAS-2021",
+                "PARA REPRESENTAÇÃO POR PROCURAÇÃO DE OUTROS ESTADOS, A PROCURAÇÃO PRECISA POSSUIR AVERBAÇÃO EM CARTÓRIO.",
+                "O DOCUMENTO DE IDENTIFICAÇÃO DO INFRATOR DEVERÁ SER A CNH (CARTEIRA NACIONAL DE HABILITAÇÃO).",
+                "HORÁRIOS DE ATENDIMENTO: HTTPS://DETRAN.PB.GOV.BR/INSTITUCIONAL-1/POSTOS",
+                "CONTATOS: HTTPS://DETRAN.PB.GOV.BR/INSTITUCIONAL-1/TELEFONES-UTEIS"
+            ],
+            "etapas": {
+                "presencial": [
+                    "PREENCHA O REQUERIMENTO DISPONÍVEL NO SITE DO DETRAN COM ASSINATURA DO PROPRIETÁRIO E DO INFRATOR",
+                    "REALIZE O AGENDAMENTO NO SITE DO DETRAN",
+                    "COMPAREÇA AO PROTOCOLO DO DETRAN",
+                    "AGUARDE A ANÁLISE DA SOLICITAÇÃO QUE SERÁ ENVIADA PELO E-MAIL INFORMADO NO CADASTRO"
+                ],
+                "correios": [
+                    "PREENCHA O REQUERIMENTO DISPONÍVEL NO SITE DO DETRAN COM ASSINATURA DO PROPRIETÁRIO E DO INFRATOR",
+                    "COMPAREÇA AOS CORREIOS PARA A POSTAGEM DA DOCUMENTAÇÃO NECESSÁRIA",
+                    "AGUARDE A ANÁLISE DA SOLICITAÇÃO QUE SERÁ ENVIADA PELO E-MAIL INFORMADO NO CADASTRO"
+                ]
+            },
+            "forma_prestacao": "PRESENCIAL,PRESENCIAL_AGENDAMENTO",
+            "orgao_prestador": "Departamento Estadual de Trânsito da Paraíba"
+        },
+        {
+            "servico": "MUDANÇA DE CATEGORIA - HABILITAÇÃO",
+            "descricao": "É O PROCESSO DE MUDANÇA DE CATEGORIA PARA CONDUTORES INICIALMENTE HABILITADOS NA CATEGORIA B E QUE DESEJAM ALTERAR PARA C, D OU E.",
+            "publico_alvo": "CIDADÃO",
+            "quem_pode_acessar": "Publico geral",
+            "exigencias": [
+                {
+                    "REQUISITOS PARA SOLICITAR A CATEGORIA C": [
+                        "TER PELO MENOS 1 ANO DE HABILITAÇÃO NA CATEGORIA B.",
+                        "NÃO TER COMETIDO MAIS DE UMA INFRAÇÃO GRAVÍSSIMA NOS ÚLTIMOS 12 MESES.",
+                        "CONSEGUIR APROVAÇÃO EM EXAME DE APTIDÃO FÍSICA E MENTAL.",
+                        "REALIZAR CURSO PRÁTICO DE 20 HORAS/AULA BEM COMO TESTE DE DIREÇÃO VEICULAR."
+                    ]
+                },
+                {
+                    "REQUISITOS PARA SOLICITAR A CATEGORIA D": [
+                        "SER HABILITADO NA CATEGORIA “C” POR PELO MENOS 1 ANO, OU NO MÍNIMO, 2 ANOS NA CATEGORIA “B”.",
+                        "TER MAIS DE 21 ANOS BEM COMO SER APROVADO EM EXAME DE APTIDÃO FÍSICA E MENTAL.",
+                        "NÃO TER COMETIDO MAIS DE UMA INFRAÇÃO GRAVÍSSIMA NOS ÚLTIMOS 12 MESES.",
+                        "REALIZAR CURSO PRÁTICO DE 20 HORAS/AULA E TESTE DE DIREÇÃO VEICULAR."
+                    ]
+                },
+                {
+                    "REQUISITOS PARA SOLICITAR A CATEGORIA E": [
+                        "ESTAR HABILITADO HÁ PELO MENOS UM ANO NA CATEGORIA “C”. QUANDO O CONDUTOR, ORIUNDO DA CATEGORIA B, PRETENDER MUDAR DA CATEGORIA D PARA E, DEVE ESTAR HABILITADO HÁ, NO MÍNIMO, UM ANO NA CATEGORIA D (RES.789/20).",
+                        "TER MAIS DE 21 ANOS BEM COMO SER APROVADO EM EXAME DE APTIDÃO FÍSICA E MENTAL.",
+                        "NÃO TER COMETIDO MAIS DE UMA INFRAÇÃO GRAVÍSSIMA NOS ÚLTIMOS 12 MESES.",
+                        "REALIZAR CURSO PRÁTICO DE 20 HORAS/AULA BEM COMO TESTE DE DIREÇÃO VEICULAR."
+                    ]
+                },
+                "CASO O CONDUTOR SEJA DE OUTRO ESTADO, SERÁ NECESSÁRIO REALIZAR A TRANSFERÊNCIA DE PRONTUÁRIO: - NO SITE DE AGENDAMENTO DO DETRAN, AGENDE O SERVIÇO 'RENOVAÇÃO DE CNH COM TRANSFERÊNCIA E DEMAIS SERVIÇOS DE OUTROS ESTADOS' - COMPAREÇA NO DIA E LOCAL AGENDADO, PAGUE A GUIA EMITIDA NO LOCAL E CASO NÃO TENHA IMPEDIMENTOS NO PRONTUÁRIO, CONTINUE COM AS ETAPAS DO SERVIÇO.",
+                "CASO O CONDUTOR QUEIRA INCLUIR PCD (PESSOA COM DEFICIÊNCIA), SIGA OS PASSOS: - DURANTE A REALIZAÇÃO DO SERVIÇO, AGENDE NO PORTAL DE SERVIÇOS HTTPS://WSDETRAN.PB.GOV.BR/DETRAN-PORTAL-SERVICOS/SERVLET/EASYNAT-APP , NA ABA HABILITAÇÃO, O EXAME MÉDICO. - COMPAREÇA AO EXAME MÉDICO COM DOCUMENTOS COMPROBATÓRIOS. - APÓS EXAME MÉDICO, AGENDE A JUNTA MÉDICA NO PORTAL DE SERVIÇOS. - COMPAREÇA A JUNTA MÉDICA, E APÓS CONCLUÍDA, CONTINUE NORMALMENTE COM O SERVIÇO."
+            ],
+            "tempo": "ATÉ 5 ANOS",
+            "informacao_adicional": [
+                "O EXAME TOXICOLÓGICO EXIGIDO NECESSARIAMENTE PRECISA ESTAR NO PRAZO DE COLETA DE ATÉ 90 DIAS. A ABERTURA DA SOLICITAÇÃO DO SERVIÇO PODE SER REALIZADA EM QUALQUER UNIDADE DO DETRAN COM AGENDAMENTO.",
+                "HORÁRIOS DE ATENDIMENTO: HTTPS://DETRAN.PB.GOV.BR/INSTITUCIONAL-1/POSTOS",
+                "CONTATOS: HTTPS://DETRAN.PB.GOV.BR/INSTITUCIONAL-1/TELEFONES-UTEIS"
+            ],
+            "etapas": [
+                "PROCURE UMA AUTOESCOLA PARA INÍCIO DO PROCESSO DE MUDANÇA DE CATEGORIA",
+                "SIGA O FLUXO EXPLICADO NA AUTOESCOLA (FOTO E BIOMETRIA, EXAME TOXICOLÓGICO EM CLÍNICA CREDENCIADA PELO SENATRAN, EXAME PSICOTÉCNICO, EXAME MÉDICO, AULAS PRÁTICAS, PROVA PRÁTICA)",
+                "ACOMPANHE A SITUAÇÃO DA CNH NO PORTAL DE SERVIÇOS. QUANDO A EMISSÃO FOR CONFIRMADA, AGENDE O RECEBIMENTO NO MESMO LOCAL EM QUE FOI REALIZADA A PROVA PRÁTICA",
+                "COMPAREÇA PARA RECEBIMENTO DA CNH"
+            ],
+            "forma_prestacao": "PRESENCIAL_AGENDAMENTO,PRESENCIAL",
+            "orgao_prestador": "Departamento Estadual de Trânsito da Paraíba"
+        },
+        {
+            "servico": "RENOVAÇÃO DA CNH SIMPLES",
+            "descricao": "PROCESSO DE RENOVAÇÃO DE VALIDADE DA CARTEIRA NACIONAL DE HABILITAÇÃO.",
+            "publico_alvo": "CIDADÃO",
+            "quem_pode_acessar": "Publico geral",
+            "exigencias": [
+                "POSSUIR CADASTRO NO PORTAL DOS SERVIÇOS",
+                "CNH SOB DOMÍNIO DO ESTADO DA PARAÍBA",
+                "CASO O CONDUTOR SEJA DE OUTRO ESTADO, SERÁ NECESSÁRIO REALIZAR A TRANSFERÊNCIA DE PRONTUÁRIO",
+                "- NO SITE DE AGENDAMENTO DO DETRAN, AGENDE O SERVIÇO 'RENOVAÇÃO DE CNH COM TRANSFERÊNCIA E DEMAIS SERVIÇOS DE OUTROS ESTADOS'",
+                "- COMPAREÇA NO DIA E LOCAL AGENDADO",
+                "- PAGUE A GUIA EMITIDA NO LOCAL E CASO NÃO TENHA IMPEDIMENTOS NO PRONTUÁRIO, CONTINUE COM AS ETAPAS DO SERVIÇO.",
+                "CASO O CONDUTOR QUEIRA INCLUIR PCD (PESSOA COM DEFICIÊNCIA), SIGA OS PASSOS:",
+                "- DURANTE A REALIZAÇÃO DO SERVIÇO, AGENDE NO PORTAL DE SERVIÇOS HTTPS://WSDETRAN.PB.GOV.BR/DETRAN-PORTAL-SERVICOS/SERVLET/EASYNAT-APP, NA ABA HABILITAÇÃO, O EXAME MÉDICO",
+                "- COMPAREÇA AO EXAME MÉDICO COM DOCUMENTOS COMPROBATÓRIOS",
+                "- APÓS EXAME MÉDICO, AGENDE A JUNTA MÉDICA NO PORTAL DE SERVIÇOS",
+                "- COMPAREÇA A JUNTA MÉDICA, E APÓS CONCLUÍDA, CONTINUE NORMALMENTE COM O SERVIÇO"
+            ],
+            "tempo": "ATÉ 5 DIAS ÚTEIS",
+            "informacao_adicional": [
+                "DOCUMENTOS ACEITOS PARA IDENTIFICAÇÃO PESSOAL (SEMPRE ACOMPANHADO DE CÓPIA): PASSAPORTE, CERTIFICADO DE RESERVISTA, CARTEIRA EXPEDIDA POR COMANDOS MILITARES, CARTEIRA DE ÓRGÃOS DE CLASSE, IDENTIDADE DE ESTRANGEIROS EXPEDIDA PELA POLÍCIA FEDERAL (RNM OU RNE)",
+                "- PARA REPRESENTAÇÃO POR PROCURAÇÃO DE OUTROS ESTADOS, A PROCURAÇÃO PRECISA POSSUIR AVERBAÇÃO EM CARTÓRIO.",
+                "- HORÁRIOS DE ATENDIMENTO: HTTPS://DETRAN.PB.GOV.BR/INSTITUCIONAL-1/POSTOS",
+                "- CONTATOS: HTTPS://DETRAN.PB.GOV.BR/INSTITUCIONAL-1/TELEFONES-UTEIS"
+            ],
+            "etapas": [
+                "ACESSE/CADASTRE-SE NO PORTAL DE SERVIÇOS DO DETRAN PB: HTTPS://WSDETRAN.PB.GOV.BR/DETRAN-PORTAL-SERVICOS/SERVLET/EASYNAT-APP",
+                "VÁ EM SERVIÇOS, DENTRO DO CAMPO HABILITAÇÃO E ACESSE O SERVIÇO S21 EMISSÃO DE BOLETOS 2º VIA",
+                "EMITA A GUIA DE RENOVAÇÃO CNH",
+                "PAGUE E GUARDE O BOLETO",
+                "ACESSE O PORTAL DE SERVIÇOS DO DETRAN-PB, NA ABA HABILITAÇÃO, VÁ EM S18-SOLICITAÇÃO DE RENOVAÇÃO DE CNH",
+                "PREENCHA OS DADOS, GERE E GUARDE O SEU RENACH (REGISTRO NACIONAL DE CONDUTOR HABILITADO)",
+                "AGENDE O SERVIÇO NO SITE DE AGENDAMENTO (CAPTURA ONLINE - FOTO E BIOMETRIA PRESENCIAL)",
+                "COMPAREÇA NO LOCAL, DATA E HORÁRIO AGENDADO COM OS DOCUMENTOS INDICADOS",
+                "REALIZE O EXAME TOXICOLÓGICO (CATEGORIAS C, D, E)",
+                "PARA QUEM EXERCE ATIVIDADE REMUNERADA (EAR), REALIZE O EXAME PSICOTÉCNICO",
+                "REALIZE O EXAME MÉDICO",
+                "ACOMPANHE A EMISSÃO DA CNH NO PORTAL DE SERVIÇOS",
+                "QUANDO A EMISSÃO FOR CONFIRMADA, AGENDE O RECEBIMENTO NO MESMO LOCAL",
+                "COMPAREÇA E RECEBA A CNH RENOVADA"
+            ],
+            "forma_prestacao": "PARCIALMENTE_ONLINE",
+            "orgao_prestador": "Departamento Estadual de Trânsito da Paraíba"
+        }
+    ],
+    "cagepa": [
+        {
+            "servico": "LIGAÇÃO DE ÁGUA",
+            "descricao": "Meio para utilização da rede pública de abastecimento de água pelo cliente, através da interligação do ramal do imóvel com a rede de abastecimento de água.",
+            "publico_alvo": [
+                "CIDADAO",
+                "PRODUTOR_RURAL",
+                "ORGAO_ENTIDADE_PUBLICA",
+                "ENTIDADE_SEM_FIM_LUCRATIVO",
+                "EMPRESA"
+            ],
+            "quem_pode_acessar": "Qualquer Pessoa Física, Jurídica ou Órgão Público",
+            "exigencias": [
+                "Ser o responsável pelo imóvel, apresentando documentação comprobatória:",
+                "- Matrícula/Inscrição de referência ou overlay da prefeitura",
+                "- Documento que comprove o vínculo com o Imóvel",
+                "- Identidade/CPF (Pessoa Física)",
+                "- CNPJ, identidade do sócio + CPF, contrato social ou consulta ao quadro societário na Receita Federal (Pessoa Jurídica)"
+            ],
+            "tempo": "10 dias úteis",
+            "informacao_adicional": [
+                "Necessário que o solicitante instale a caixa de proteção do hidrômetro no muro ou mureta no padrão da Cagepa para possibilitar a execução do serviço.",
+                "Valor da taxa é variável de acordo com o porte do cliente (diâmetro da tubulação de ligação), entre R$ 496,04 (ligação individual de 20 mm) até R$ 1499,75."
+            ],
+            "etapas": [
+                "Solicitação através dos canais de atendimento",
+                "Comparecimento de equipe de cadastro ao imóvel",
+                "Execução da ligação"
+            ],
+            "forma_prestacao": [
+                "PRESENCIAL_AGENDAMENTO",
+                "PRESENCIAL",
+                "ONLINE"
+            ],
+            "orgao_prestador": "Companhia de Águas e Esgotos da Paraíba"
+        },
+        {
+            "servico": "SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO",
+            "descricao": "Obtenha rapidamente a segunda via da sua conta de água e esgoto através do nosso serviço online. Evite atrasos no pagamento e facilite sua vida, acessando sua fatura de forma rápida e conveniente, a qualquer hora e em qualquer lugar.",
+            "publico_alvo": [
+                "CIDADAO"
+            ],
+            "quem_pode_acessar": "Público Geral",
+            "exigencias": "Nenhuma",
+            "tempo": "Não especificado",
+            "informacao_adicional": "Nenhuma",
+            "etapas": [
+                "Preenchimento da solicitação",
+                "Processamento",
+                "Finalização"
+            ],
+            "forma_prestacao": [
+                "ONLINE"
+            ],
+            "orgao_prestador": "Companhia de Água e Esgotos da Paraíba"
+        },
+        {
+            "servico": "DESOBSTRUÇÃO DE RAMAL DE ESGOTO",
+            "descricao": "Desobstrução do ramal predial de esgoto.",
+            "publico_alvo": [
+                "CIDADAO",
+                "PRODUTOR_RURAL",
+                "ORGAO_ENTIDADE_PUBLICA",
+                "EMPRESA",
+                "SERVIDOR_PUBLICO",
+                "ENTIDADE_SEM_FIM_LUCRATIVO"
+            ],
+            "quem_pode_acessar": "Qualquer Pessoa Física, Jurídica ou Órgão Público",
+            "exigencias": "Informar matrícula ou CPF do titular ou endereço do imóvel.",
+            "tempo": "24 horas",
+            "informacao_adicional": "Para desobstrução do ramal de esgoto pela Cagepa é necessário que a ligação seja regular e que a rede esteja liberada para uso.",
+            "etapas": [
+                "Solicitação em um dos canais de atendimento",
+                "Execução do serviço"
+            ],
+            "forma_prestacao": [
+                "ONLINE",
+                "PRESENCIAL",
+                "PRESENCIAL_AGENDAMENTO"
+            ],
+            "orgao_prestador": "Companhia de Águas e Esgotos da Paraíba"
+        },
+        {
+            "servico": "ATUALIZAÇÃO CADASTRAL",
+            "descricao": "Atualização de cadastro do titular no sistema comercial com dados como e-mail, telefone, data de nascimento, etc.",
+            "publico_alvo": [
+                "CIDADAO",
+                "PRODUTOR_RURAL",
+                "ORGAO_ENTIDADE_PUBLICA",
+                "EMPRESA",
+                "SERVIDOR_PUBLICO",
+                "ENTIDADE_SEM_FIM_LUCRATIVO"
+            ],
+            "quem_pode_acessar": "Qualquer Pessoa Física, Jurídica ou Órgão Público",
+            "exigencias": [
+                "Ser o responsável legal pelo imóvel perante a Cagepa e apresentar:",
+                "Identidade/CPF (se for Pessoa Física)",
+                "CNPJ, identidade do sócio + CPF, contrato social ou consulta ao quadro societário na Receita Federal (se for Pessoa Jurídica)",
+                "Documento do imóvel",
+                "Se síndico, ATA de eleição registrada em cartório"
+            ],
+            "tempo": "Imediata",
+            "informacao_adicional": "*",
+            "etapas": [
+                "Solicitação através dos canais de atendimento",
+                "Execução da alteração"
+            ],
+            "forma_prestacao": [
+                "ONLINE",
+                "PRESENCIAL",
+                "PRESENCIAL_AGENDAMENTO"
+            ],
+            "orgao_prestador": "Companhia de Águas e Esgotos da Paraíba"
+        }
+    ],
+    "funade": [
+        {
+            "servico": "AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA",
+            "descricao": "Emissão de Carteiras de Identificação da Pessoa com Transtorno do Espectro Autista (CIPTEA) de acordo com a Lei Federal nº 13.977/2020 e Lei n°11.210/2018.",
+            "publico_alvo": [
+                "CIDADAO",
+                "ENTIDADE_SEM_FIM_LUCRATIVO",
+                "SERVIDOR_PUBLICO",
+                "PRODUTOR_RURAL"
+            ],
+            "quem_pode_acessar": "Ser pessoa com autismo para adquirir Carteira de Identificação, preconizada pela Lei nº 13.977/2020.",
+            "exigencias": [
+                {
+                    "Documentação necessária": [
+                        "- Foto (3x4)",
+                        "- RG",
+                        "- CPF",
+                        "- Comprovante de Residência",
+                        "- Cópia do Laudo Médico atualizado do SUS",
+                        "- Cartão do SUS",
+                        "- Comprovante do tipo sanguíneo (Fator RH)"
+                    ]
+                },
+                {
+                    "Observações": [
+                        "- Anexar documentos da pessoa responsável pela criança ou adolescente:",
+                        "  - Cópia da carteira de identidade (RG)",
+                        "  - Cópia do cadastro de pessoa física (CPF)",
+                        "  - Telefone",
+                        "  - Email",
+                        "- O Laudo médico de avaliação deve ser fornecido por profissional habilitado no SUS com CID 10 da Deficiência ou laudo particular no modelo de Laudo Médico padrão disponível no site institucional da FUNAD.",
+                        "- Cópia da carteira de identificação do TEA vencida ou a vencer, quando for o caso de segunda via ou renovação.",
+                        "- B.O. - Boletim de Ocorrência, quando for o caso de 2ª Via por perda, roubo ou extravio."
+                    ]
+                }
+            ],
+            "tempo": "O processo de requerimento até a emissão pode durar até 90 dias.",
+            "informacao_adicional": [
+                "Estar munido de toda a documentação necessária para o requerimento online.",
+                "O Laudo Médico deve ser emitido pela rede SUS ou particular, que conste o CID da deficiência.",
+                "Email para dúvidas: passelivre@funad.pb.gov.br",
+                "Horários de atendimento: Para informações: 07:30 às 11:30h e de 13:30 às 17:00h.",
+                "Horário para a recebimento das carteiras: 08:00 às 11:00h e de 13:30h às 16:00h."
+            ],
+            "etapas": [
+                "Acesso o Sistema através do link no site institucional https://funad.pb.gov.br/",
+                "Preencher Formulário e Anexar documentos necessários no requerimento online para análise",
+                "Aguardar o deferimento da solicitação para emissão da Carteira de Passe-Livre e Identificação do Autista",
+                "Após deferimento, realizar o agendamento no Sistema de Requerimento",
+                "Retirada da carteira presencialmente na FUNAD na data e turno agendado"
+            ],
+            "forma_prestacao": [
+                "ONLINE",
+                "PRESENCIAL_AGENDAMENTO"
+            ],
+            "orgao_prestador": "Fundação Centro Integrado de Apoio ao Portador de Deficiência"
+        },
+        {
+            "servico": "Serviço de Informação ao Cidadão",
+            "descricao": "O SIC (Serviço de Informações ao Cidadão) do Governo do Estado da Paraíba permite que o cidadão encaminhe pedidos de informação para órgãos e entidades do Poder Executivo. Por este sistema, você acompanha o prazo pelo número de protocolo gerado e recebe a sua informação nos locais de realização do pedido, ou pelo e-mail cadastrado.",
+            "publico_alvo": [
+                "CIDADAO",
+                "EMPRESA",
+                "SERVIDOR_PUBLICO"
+            ],
+            "quem_pode_acessar": "Cidadão, empresas e servidor público",
+            "exigencias": [
+                "Ter acesso a internet."
+            ],
+            "tempo": "30 dias para resposta.",
+            "informacao_adicional": [
+                {
+                    "INFORMAÇÕES NECESSÁRIAS PARA ACESSAR O SERVIÇO": [
+                        {
+                            "PESSOA FÍSICA": [
+                                "- Nome",
+                                "- CPF",
+                                "- RG",
+                                "- E-mail",
+                                "- Endereço"
+                            ]
+                        },
+                        {
+                            "PESSOA JURÍDICA": [
+                                "- Razão Social",
+                                "- CNPJ",
+                                "- Nome do Representante",
+                                "- Cargo do Representante",
+                                "- E-mail",
+                                "- Endereço"
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "etapas": [
+                "Efetuar o cadastro no e-SIC",
+                "Formalizar o pedido de informação",
+                "Processar a informação",
+                "Entregar a informação"
+            ],
+            "forma_prestacao": [
+                "ONLINE"
+            ],
+            "orgao_prestador": "Fundação Centro Integrado de Apoio ao Portador de Deficiência"
+        },
+        {
+            "servico": "Serviço Especializado em Triagem e Diagnóstico",
+            "descricao": "Serviço de triagem e diagnóstico que realiza avaliação da Pessoa com deficiência única ou múltiplas (1° Consulta; Reagendamentos e Renovação de laudos da FUNAD).",
+            "publico_alvo": [
+                "CIDADAO",
+                "PRODUTOR_RURAL",
+                "SERVIDOR_PUBLICO"
+            ],
+            "quem_pode_acessar": "Cidadão, produtor rural e servidor público.",
+            "exigencias": [
+                "Pessoa com deficiência ou suspeita de deficiência de qualquer faixa etária.",
+                "Apresentar os formulários padrões de preenchimento externo na REDE SUS e na REDE Escolar (caso esteja frequentando a escola ou creche) no link de pré-agendamento online disponível no site da FUNAD."
+            ],
+            "tempo": "90 dias",
+            "informacao_adicional": [
+                "Ser encaminhado de algum serviço da rede pública ou privada mediante apresentação de documentos de encaminhamento disponíveis na plataforma digital de pré-agendamento.",
+                "Dúvidas ou informações: agendamento@funad.pb.gov.br"
+            ],
+            "etapas": [
+                "Acessar a site institucional da FUNAD (https://funad.pb.gov.br)",
+                "Criar um login e senha de acesso à plataforma digital",
+                "Validar o cadastro com o código enviado para o email informado",
+                "Baixar os modelos de formulários padrões de encaminhamento a serem preenchidos na rede de saúde SUS e nas creches/escolas, este último caso a consulta seja para uma criança/adolescente em fase escolar, solicitar o preenchimento em rede externa",
+                "De posse destes formulários devidamente preenchidos e assinados, o cidadão deverá retornar à plataforma digital e finalizar a solicitação, preenchendo todos os campos necessários com informações pessoais e por fim anexar os documentos solicitados, incluindo os encaminhamentos da rede SUS e escolar.",
+                "A documentação passará por uma análise pela equipe de triagem, e sendo deferida, será encaminhado o agendamento da consulta.",
+                "É necessário aguardar o retorno da equipe da FUNAD, que entrará em contato pelo mesmo e-mail cadastrado na plataforma FUNAD Digital, ou o cidadão pode acompanhar o status do requerimento dentro da plataforma, utilizando seu login de acesso. Caso haja pendências na documentação, o cidadão será alertado para que possa corrigi-las e reencaminhar a solicitação.",
+                "Comparecer a FUNAD para consulta agendada no setor específico de acordo com a suspeita de deficiência junto à equipe multidisciplinar.",
+                "Após conclusão da avaliação, receber o Laudo Médico com agendamento prévio.",
+                "Encaminhamento, quando necessário, para os serviços de reabilitação na Fundação ou na rede SUS."
+            ],
+            "forma_prestacao": [
+                "ONLINE"
+            ],
+            "orgao_prestador": "Fundação Centro Integrado de Apoio ao Portador de Deficiência"
+        },
+        {
+            "servico": "Aquisição da Carteira de Passe Livre Intermunicipal",
+            "descricao": "Fornecer a carteira para ter acesso gratuito no transporte público de acordo com a lei XX.",
+            "publico_alvo": [
+                "CIDADAO",
+                "PRODUTOR_RURAL",
+                "SERVIDOR_PUBLICO",
+                "ENTIDADE_SEM_FIM_LUCRATIVO"
+            ],
+            "quem_pode_acessar": "Pessoa com deficiência para adquirir carteira de passe livre intermunicipal.",
+            "exigencias": [
+                "Ser pessoa com deficiência para adquirir Carteira de Passe Livre Intermunicipal ou necessitar de atendimento em relação aos direitos das pessoas com deficiência.",
+                "Documentos necessários para o requerimento online: RG, CPF, Comprovante de Residência, Cópia do Laudo Médico atualizado do SUS, Cartão do SUS, Comprovante de tipo sanguíneo (Fator RH), Laudo médico de avaliação fornecido por profissional habilitado no SUS - com CID 10 da Deficiência (modelo disponível no site institucional da FUNAD).",
+                "Documentos complementares: Exame de audiometria (No caso de deficiência auditiva), Cópia da carteira do Passe Livre vencida ou a vencer, quando for o caso de segunda via ou renovação, B.O. - Boletim de Ocorrência, quando for o caso de 2ª Via por perda, roubo ou extravio."
+            ],
+            "tempo": "O processo de requerimento até a emissão da carteira pode durar até 90 dias.",
+            "informacao_adicional": [
+                "Estar munido de toda a documentação necessária para o requerimento online.",
+                "Para a carteira de passe livre intermunicipal, o Laudo Médico deve ser exclusivamente emitido pela rede SUS, que conste o CID da deficiência. O modelo de laudo está disponível no site institucional da FUNAD.",
+                "Email para dúvidas: passelivre@funad.pb.gov.br"
+            ],
+            "etapas": [
+                "Acesso o Sistema através do link no site institucional https://funad.pb.gov.br/",
+                "Cadastrar um email pessoal válido",
+                "Preencher Formulário e Anexar documentos necessários no requerimento online para análise",
+                "Aguardar o deferimento da solicitação para emissão da Carteira de Passe-Livre",
+                "Após Deferimento, realizar o agendamento no Sistema de Requerimento",
+                "Retirada da carteira presencialmente na FUNAD na data e turno agendado."
+            ],
+            "forma_prestacao": [
+                "PRESENCIAL_AGENDAMENTO",
+                "ONLINE"
+            ],
+            "orgao_prestador": "Fundação Centro Integrado de Apoio ao Portador de Deficiência"
+        }
+    ],
+    "cbmpb": [
+        {
+            "servico": "Socorro de Emergências",
+            "descricao": "O Atendimento de Emergência é o nosso serviço de resposta rápida em situações críticas, como incêndios, acidentes de trânsito, resgates em alturas, enchentes e outros eventos que exigem assistência imediata.",
+            "publico_alvo": [
+                "CIDADAO"
+            ],
+            "quem_pode_acessar": "Todas as pessoas na Paraíba.",
+            "exigencias": [
+                "A ocorrência de uma emergência como incêndios, acidentes de trânsito, resgates em alturas, enchentes e outros eventos que exigem assistência imediata."
+            ],
+            "tempo": "Atendimento imediato.",
+            "informacao_adicional": [
+                "O serviço é acessado através da ligação para o número 193."
+            ],
+            "etapas": [
+                "Ligar 193",
+                "Informar a localização exata e descrever a emergência."
+            ],
+            "forma_prestacao": [
+                "PRESENCIAL"
+            ],
+            "orgao_prestador": "Corpo de Bombeiros Militar da Paraíba"
+        },
+        {
+            "servico": "Análise de Projeto de Segurança contra Incêndio Simplificado",
+            "descricao": "Análise de Projeto de Segurança contra Incêndio Simplificado é uma abordagem que visa facilitar o processo de análise de segurança em edificações que atendem a critérios específicos.",
+            "publico_alvo": [
+                "EMPRESA"
+            ],
+            "quem_pode_acessar": "Responsáveis técnicos das edificações ou áreas de risco.",
+            "exigencias": [
+                "Área Total: A edificação deve ter uma área total máxima de 750m².",
+                "Altura Máxima: A altura da edificação não deve exceder 12 metros a partir do solo, incluindo até 01 subsolo exclusivo para estacionamento sem serviço de manutenção ou abastecimento.",
+                "Escadas Não Enclausuradas (NE): A edificação deve exigir apenas Escadas Não Enclausuradas (NE) e atender às especificações da Norma Técnica NT 11/2014.",
+                "Sistemas Especiais: A edificação não deve exigir a instalação de sistemas especiais, como sistema de proteção contra descargas atmosféricas (SPDA)."
+            ],
+            "tempo": "30 dias, prorrogável por mais 30.",
+            "informacao_adicional": [
+                "A análise de projetos é realizada pela equipe técnica qualificada, levando em consideração as leis e normas de segurança vigentes."
+            ],
+            "etapas": [
+                "Preencher o formulário de solicitação online",
+                "Anexar o Projeto Arquitetônico, ARTs e demais documentos",
+                "Pagar a taxa",
+                "Aguardar o Laudo de Análise"
+            ],
+            "forma_prestacao": [
+                "ONLINE"
+            ],
+            "orgao_prestador": "Corpo de Bombeiros Militar da Paraíba"
+        },
+        {
+            "servico": "Perícia de Incêndio e Explosão",
+            "descricao": "A Perícia de Incêndio e Explosão é um serviço especializado que consiste na investigação técnica e científica de incidentes envolvendo incêndios, explosões e outros eventos relacionados à segurança contra incêndio e pânico. O objetivo é determinar a causa raiz desses incidentes, avaliar danos e fornecer recomendações para evitar futuros ocorridos.",
+            "publico_alvo": ["CIDADAO", "EMPRESA", "SERVIDOR_PUBLICO", "ORGAO_ENTIDADE_PUBLICA", "PRODUTOR_RURAL", "ENTIDADE_SEM_FIM_LUCRATIVO"],
+            "quem_pode_acessar": "Todas as pessoas",
+            "exigencias": ["A ocorrência de um incêndio ou explosão"],
+            "tempo": "O tempo necessário para concluir a perícia pode variar dependendo da complexidade do incidente e da investigação requerida.",
+            "informacao_adicional": [
+                "A taxa de perícia de incêndio é 1,0 x UFR-PB."
+            ],
+            "etapas": [
+                "Solicitar a perícia através do sistema online",
+                "Aguardar a perícia",
+                "Aguardar o Laudo"
+            ],
+            "forma_prestacao": ["PARCIALMENTE_ONLINE"],
+            "orgao_prestador": "Corpo de Bombeiros Militar da Paraíba"
+        },
+        {
+            "servico": "Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança",
+            "descricao": "A Consulta Técnica é um serviço que visa esclarecer dúvidas relacionadas a Laudos Técnicos de Análise (LTA) ou Laudos Técnicos de Vistoria (LTV) emitidos pelo Corpo de Bombeiros. Se você tem questionamentos sobre os relatórios técnicos que envolvem a segurança contra incêndio e pânico em edificações e áreas de risco, estamos aqui para ajudar.",
+            "publico_alvo": ["CIDADAO", "ORGAO_ENTIDADE_PUBLICA", "EMPRESA"],
+            "quem_pode_acessar": [
+                "Responsáveis Técnicos: Engenheiros, arquitetos e urbanistas que supervisionam projetos de segurança contra incêndio e pânico e receberam um Laudo Técnico de Análise (LTA).",
+                "Proprietários e Representantes Legais: Aqueles que são responsáveis por edificações que receberam um Laudo Técnico de Vistoria (LTV)."
+            ],
+            "exigencias": ["Existência de dúvidas sobre algum Laudo emitido pelo Corpo de Bombeiros"],
+            "tempo": "O tempo necessário pode variar dependendo da complexidade das dúvidas e da disponibilidade de agendamentos, mas o objetivo é fornecer uma resposta o mais rápido possível.",
+            "informacao_adicional": [
+                "A Consulta Técnica visa exclusivamente ao esclarecimento de dúvidas sobre LTA ou LTV e não oferece instrução ou treinamento sobre normas técnicas, vistorias ou análises de projetos."
+            ],
+            "etapas": [
+                "Enviar a dúvida através do sistema online ou",
+                "Enviar a dúvida para o email dat@bombeiros.pb.gov.br / datcbmpb@gmail.com ou",
+                "Agendar atendimento através do telefone 83 9 87953131 (Whatsapp)"
+            ],
+            "forma_prestacao": ["PRESENCIAL", "PARCIALMENTE_ONLINE", "ONLINE"],
+            "orgao_prestador": "Corpo de Bombeiros Militar da Paraíba"
+        }
+    ],
+    "cinep":[
+        {
+            "servico": "Concessão de Incentivo Fiscal a Empresas",
+            "descricao": "É um fundo de apoio que tem como finalidade a concessão de estímulos financeiros para a implantação, ampliação, revitalização e relocalização de empresas/indústrias.",
+            "publico_alvo": ["EMPRESA"],
+            "quem_pode_acessar": ["Qualquer empresa que desenvolva atividade industrial."],
+            "exigencias": [
+                "Enviar toda a documentação solicitada no link http://www.cinep.pb.gov.br/portal/?page_id=291, item 'INCENTIVO FISCAL (Fain)' para o e-mail do protocolo da CINEP: protocolo@cinep.pb.gov.br."
+            ],
+            "tempo": "O prazo para divulgação da concessão ou não do incentivo fiscal é de até 3 meses.",
+            "informacao_adicional": [
+                "Todos os documentos cadastrados presencialmente no Protocolo da CINEP precisam ter o tamanho do papel A4."
+            ],
+            "etapas": [
+                "Enviar a documentação completa solicitada para o e-mail do protocolo da CINEP: protocolo@cinep.pb.gov.br;",
+                "Análise do projeto econômico-financeiro pelo Departamento de Administração de Incentivos (DEAI);",
+                "O parecer do DEAI, seja positivo ou negativo, é apreciado em reunião do Conselho Deliberativo do Fundo de Apoio ao Desenvolvimento Industrial da Paraíba (FAIN);",
+                "Se aprovado, resolução e decreto relativos ao incentivo são publicados no Diário Oficial do Estado da Paraíba;",
+                "Assinatura do Termo do Acordo ao Regime Especial (TARE) junto à Secretaria de Estado da Receita."
+            ],
+            "forma_prestacao": ["ONLINE", "PRESENCIAL"],
+            "orgao_prestador": "Companhia de Desenvolvimento da Paraíba"
+        },{
+            "servico": "Concessão de Incentivo Locacional a Empresas",
+            "descricao": "Cessão de terrenos para a implantação, ampliação e relocalização de empresas/indústrias.",
+            "publico_alvo": ["EMPRESA"],
+            "quem_pode_acessar": ["Empresas de pequeno, médio e grande porte."],
+            "exigencias": [
+                "Enviar toda a documentação solicitada no link http://www.cinep.pb.gov.br/portal/?page_id=291, item 'INCENTIVO LOCACIONAL', para o e-mail do protocolo da CINEP: protocolo@cinep.pb.gov.br."
+            ],
+            "tempo": "Cerca de 5 minutos para o envio da documentação e até 3 meses para o resultado da análise do pedido de área.",
+            "informacao_adicional": [
+                "Todos os documentos cadastrados presencialmente no Protocolo da CINEP precisam ter o tamanho do papel A4."
+            ],
+            "etapas": [
+                "Enviar a documentação completa solicitada para o e-mail do protocolo da CINEP: protocolo@cinep.pb.gov.br;",
+                "Avaliação da viabilidade econômico-financeira do projeto pela Diretoria de Desenvolvimento Econômico;",
+                "Caso o parecer seja positivo, a Diretoria de Operações identifica a área mais adequada e efetua o cálculo do valor do imóvel;",
+                "As informações são enviadas para decisão final em reunião de diretoria colegiada;",
+                "Pedido sendo aprovado, será assinada a Resolução de Diretoria;",
+                "Assinatura do contrato."
+            ],
+            "forma_prestacao": ["ONLINE", "PRESENCIAL"],
+            "orgao_prestador": "Companhia de Desenvolvimento da Paraíba"
+        }
+    ]
+}
