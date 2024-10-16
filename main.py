@@ -3,8 +3,10 @@ import numpy as np
 from faker import Faker
 import os
 import random
+import json
 
-
+json_data = open("orgaos_servicos.json","r",encoding='utf-8')
+servicos = json.load(json_data)
 
 def sortear_idade(tentencia_min = 20, tendencia_max = 50) -> int: 
     # Parâmetros para o sorteio
@@ -18,48 +20,45 @@ def sortear_idade(tentencia_min = 20, tendencia_max = 50) -> int:
     return max(18, min(100, int(idade)))    
 
 caminho_arquivo = "csv/human.csv"
+list_nomes_servicos = []
+for orgao in servicos:
+        for servico in servicos[orgao]:
+            list_nomes_servicos.append((orgao, servico["servico"]))
+
 
 fake = Faker("pt_br")
+def sortear_servico(exceto_servico = "") -> tuple[str,str]:
+    escolha = ""
+    is_diferente = False
+    while (not is_diferente):
+        escolha = fake.random_choices(list_nomes_servicos,length=1)
+        if (escolha != exceto_servico):
+            is_diferente = True
+    return escolha
 
-servicos = {
-    "DETRAN-PB": {
-        "PRIMEIRA HABILITAÇÃO",
-        "RENOVAÇÃO DA CNH SIMPLES",
-        "SOLICITAÇÃO DE EFEITO SUSPENSIVO DE MULTAS",
-        "LEILÃO DE VEÍCULOS DETRAN"
-    },
-    "PROCON": {
-        "ATENDIMENTO AO CONSUMIDOR",
-        "MEDIAÇÃO DE CONFLITOS ENTRE CONSUMIDOR E EMPRESA",
-        "FISCALIZAÇÃO DE PRÁTICAS ABUSIVAS",
-        "ORIENTAÇÃO JURÍDICA SOBRE DIREITOS DO CONSUMIDOR"
-    },
-    "CAGEPA": {
-        "SOLICITAÇÃO DE SEGUNDA VIA DE CONTA",
-        "PEDIDO DE LIGAÇÃO DE ÁGUA",
-        "RELATÓRIO DE QUALIDADE DA ÁGUA",
-        "REPARO DE VAZAMENTOS"
-    },
-    "PBGÁS": {
-        "INSTALAÇÃO DE REDE",
-        "CONSULTAR TARIFAS",
-        "INFORMAR VAZAMENTO",
-        "TIRAR DÚVIDAS SOBRE GÁS NATURAL"
-    },
-    "FUNDAC": {
-        "PROGRAMAS SOCIAIS PARA ADOLESCENTES",
-        "OFICINAS DE FORMAÇÃO PROFISSIONAL",
-        "ATENDIMENTO PSICOSSOCIAL",
-        "APOIO ÀS FAMÍLIAS DE ADOLESCENTES"
-    }
-}
+def sortear_2_servicos()-> tuple[tuple[str,str],tuple[str,str]]:
+    escolha1 = sortear_servico()
+    escolha2 = sortear_servico(escolha1)
+    return escolha1,escolha2
+  
+def gerar_persona():
+    nome = fake.name()
+    idade = sortear_idade()
+    cidade = fake.address()
+    [(orgao1,demanda1)],[(orgao2,demanda2)] = sortear_2_servicos()
+    return nome,idade,cidade,orgao1,demanda1,orgao2,demanda2
+    
 
 if os.path.exists(caminho_arquivo):
     humanos= pd.read_csv(caminho_arquivo)
 else:
-    humanos = pd.DataFrame(columns=["Nome","Idade","Cidade","Demanda1","Demanda2"])
-#humanos.add(
-print([fake.name(),sortear_idade(), fake.address()])
+    humanos = pd.DataFrame(columns=["Nome","Idade","Cidade","Orgao1","Demanda1","Orgao2","Demanda2"])
+    for i in range(0,1000):
+        humanos.loc[humanos.index.size+1]=gerar_persona()
+    humanos.to_csv(caminho_arquivo)
+
+print("shape tabela humanos",humanos.shape)
+print(humanos.head(5))
 
 
 

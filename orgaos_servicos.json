@@ -506,9 +506,18 @@
         {
             "servico": "Perícia de Incêndio e Explosão",
             "descricao": "A Perícia de Incêndio e Explosão é um serviço especializado que consiste na investigação técnica e científica de incidentes envolvendo incêndios, explosões e outros eventos relacionados à segurança contra incêndio e pânico. O objetivo é determinar a causa raiz desses incidentes, avaliar danos e fornecer recomendações para evitar futuros ocorridos.",
-            "publico_alvo": ["CIDADAO", "EMPRESA", "SERVIDOR_PUBLICO", "ORGAO_ENTIDADE_PUBLICA", "PRODUTOR_RURAL", "ENTIDADE_SEM_FIM_LUCRATIVO"],
+            "publico_alvo": [
+                "CIDADAO",
+                "EMPRESA",
+                "SERVIDOR_PUBLICO",
+                "ORGAO_ENTIDADE_PUBLICA",
+                "PRODUTOR_RURAL",
+                "ENTIDADE_SEM_FIM_LUCRATIVO"
+            ],
             "quem_pode_acessar": "Todas as pessoas",
-            "exigencias": ["A ocorrência de um incêndio ou explosão"],
+            "exigencias": [
+                "A ocorrência de um incêndio ou explosão"
+            ],
             "tempo": "O tempo necessário para concluir a perícia pode variar dependendo da complexidade do incidente e da investigação requerida.",
             "informacao_adicional": [
                 "A taxa de perícia de incêndio é 1,0 x UFR-PB."
@@ -518,18 +527,26 @@
                 "Aguardar a perícia",
                 "Aguardar o Laudo"
             ],
-            "forma_prestacao": ["PARCIALMENTE_ONLINE"],
+            "forma_prestacao": [
+                "PARCIALMENTE_ONLINE"
+            ],
             "orgao_prestador": "Corpo de Bombeiros Militar da Paraíba"
         },
         {
             "servico": "Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança",
             "descricao": "A Consulta Técnica é um serviço que visa esclarecer dúvidas relacionadas a Laudos Técnicos de Análise (LTA) ou Laudos Técnicos de Vistoria (LTV) emitidos pelo Corpo de Bombeiros. Se você tem questionamentos sobre os relatórios técnicos que envolvem a segurança contra incêndio e pânico em edificações e áreas de risco, estamos aqui para ajudar.",
-            "publico_alvo": ["CIDADAO", "ORGAO_ENTIDADE_PUBLICA", "EMPRESA"],
+            "publico_alvo": [
+                "CIDADAO",
+                "ORGAO_ENTIDADE_PUBLICA",
+                "EMPRESA"
+            ],
             "quem_pode_acessar": [
                 "Responsáveis Técnicos: Engenheiros, arquitetos e urbanistas que supervisionam projetos de segurança contra incêndio e pânico e receberam um Laudo Técnico de Análise (LTA).",
                 "Proprietários e Representantes Legais: Aqueles que são responsáveis por edificações que receberam um Laudo Técnico de Vistoria (LTV)."
             ],
-            "exigencias": ["Existência de dúvidas sobre algum Laudo emitido pelo Corpo de Bombeiros"],
+            "exigencias": [
+                "Existência de dúvidas sobre algum Laudo emitido pelo Corpo de Bombeiros"
+            ],
             "tempo": "O tempo necessário pode variar dependendo da complexidade das dúvidas e da disponibilidade de agendamentos, mas o objetivo é fornecer uma resposta o mais rápido possível.",
             "informacao_adicional": [
                 "A Consulta Técnica visa exclusivamente ao esclarecimento de dúvidas sobre LTA ou LTV e não oferece instrução ou treinamento sobre normas técnicas, vistorias ou análises de projetos."
@@ -539,16 +556,24 @@
                 "Enviar a dúvida para o email dat@bombeiros.pb.gov.br / datcbmpb@gmail.com ou",
                 "Agendar atendimento através do telefone 83 9 87953131 (Whatsapp)"
             ],
-            "forma_prestacao": ["PRESENCIAL", "PARCIALMENTE_ONLINE", "ONLINE"],
+            "forma_prestacao": [
+                "PRESENCIAL",
+                "PARCIALMENTE_ONLINE",
+                "ONLINE"
+            ],
             "orgao_prestador": "Corpo de Bombeiros Militar da Paraíba"
         }
     ],
-    "cinep":[
+    "cinep": [
         {
             "servico": "Concessão de Incentivo Fiscal a Empresas",
             "descricao": "É um fundo de apoio que tem como finalidade a concessão de estímulos financeiros para a implantação, ampliação, revitalização e relocalização de empresas/indústrias.",
-            "publico_alvo": ["EMPRESA"],
-            "quem_pode_acessar": ["Qualquer empresa que desenvolva atividade industrial."],
+            "publico_alvo": [
+                "EMPRESA"
+            ],
+            "quem_pode_acessar": [
+                "Qualquer empresa que desenvolva atividade industrial."
+            ],
             "exigencias": [
                 "Enviar toda a documentação solicitada no link http://www.cinep.pb.gov.br/portal/?page_id=291, item 'INCENTIVO FISCAL (Fain)' para o e-mail do protocolo da CINEP: protocolo@cinep.pb.gov.br."
             ],
@@ -563,13 +588,21 @@
                 "Se aprovado, resolução e decreto relativos ao incentivo são publicados no Diário Oficial do Estado da Paraíba;",
                 "Assinatura do Termo do Acordo ao Regime Especial (TARE) junto à Secretaria de Estado da Receita."
             ],
-            "forma_prestacao": ["ONLINE", "PRESENCIAL"],
+            "forma_prestacao": [
+                "ONLINE",
+                "PRESENCIAL"
+            ],
             "orgao_prestador": "Companhia de Desenvolvimento da Paraíba"
-        },{
+        },
+        {
             "servico": "Concessão de Incentivo Locacional a Empresas",
             "descricao": "Cessão de terrenos para a implantação, ampliação e relocalização de empresas/indústrias.",
-            "publico_alvo": ["EMPRESA"],
-            "quem_pode_acessar": ["Empresas de pequeno, médio e grande porte."],
+            "publico_alvo": [
+                "EMPRESA"
+            ],
+            "quem_pode_acessar": [
+                "Empresas de pequeno, médio e grande porte."
+            ],
             "exigencias": [
                 "Enviar toda a documentação solicitada no link http://www.cinep.pb.gov.br/portal/?page_id=291, item 'INCENTIVO LOCACIONAL', para o e-mail do protocolo da CINEP: protocolo@cinep.pb.gov.br."
             ],
@@ -585,8 +618,101 @@
                 "Pedido sendo aprovado, será assinada a Resolução de Diretoria;",
                 "Assinatura do contrato."
             ],
-            "forma_prestacao": ["ONLINE", "PRESENCIAL"],
+            "forma_prestacao": [
+                "ONLINE",
+                "PRESENCIAL"
+            ],
             "orgao_prestador": "Companhia de Desenvolvimento da Paraíba"
+        }
+    ],
+    "sudema": [
+        {
+            "servico": "Licença de Alteração - Divisão de Infraestrutura (DINFRA)",
+            "descricao": "É a licença que autoriza a ampliação, alteração ou reforma do empreendimento ou atividade, obedecendo à compatibilidade do processo de licenciamento com os critérios estabelecidos pelo Conselho de Proteção Ambiental (COPAM).",
+            "publico_alvo": [
+                "CIDADAO",
+                "ORGAO_ENTIDADE_PUBLICA",
+                "EMPRESA"
+            ],
+            "quem_pode_acessar": [
+                "Pessoas Físicas ou Jurídicas, incluindo empresas, entidades, instituições e sociedades de economia mista da administração pública Federal, Estadual e Municipal localizadas no Estado da Paraíba."
+            ],
+            "exigencias": [
+                "Requerimento da Autorização Ambiental com a apresentação do check-list;",
+                "Análise e enquadramento pelo corpo técnico da SUDEMA e realização de vistorias técnicas;",
+                "Solicitação de esclarecimentos e complementação pela SUDEMA, quando necessário;",
+                "Em caso de apresentação de EIA e RIMA, o processo será analisado por comissão multidisciplinar e obedecerá aos prazos legais e realização de Audiência Pública;",
+                "Entrega de parecer técnico conclusivo;",
+                "Aprovação ou negação da licença ambiental;",
+                "Comunicação ao requerente em caso de indeferimento;",
+                "Publicação do resultado."
+            ],
+            "tempo": "Até 180 dias",
+            "informacao_adicional": [
+                "Link para o Sistema de Agendamento de Atendimento Presencial (SAAP): https://sigma.pb.gov.br/saap/src/empreendedor/"
+            ],
+            "etapas": [
+                "Cadastrar-se no SIGMA para preenchimento dos dados solicitados ou agendar atendimento presencial."
+            ],
+            "forma_prestacao": [
+                "ONLINE",
+                "PRESENCIAL_AGENDAMENTO"
+            ],
+            "orgao_prestador": "Superintendência de Administração do Meio Ambiente"
+        },
+        {
+            "servico": "Licença por Adesão e Compromisso",
+            "descricao": "É a licença que autoriza a instalação e operação de atividade ou empreendimento de porte 'pequeno' e de potencial poluidor 'pequeno', mediante declaração de adesão e compromisso do empreendedor aos critérios, pré-condições e requisitos ambientais estabelecidos pela autoridade licenciadora.",
+            "publico_alvo": [
+                "CIDADAO",
+                "ORGAO_ENTIDADE_PUBLICA"
+            ],
+            "quem_pode_acessar": [
+                "Pessoas Físicas ou Jurídicas, incluindo empresas, entidades, instituições e sociedades de economia mista da administração pública Federal, Estadual e Municipal localizadas no estado da Paraíba."
+            ],
+            "exigencias": [
+                "Seguir o check-list;",
+                "Custo de Análise;",
+                "Vistoria Técnica."
+            ],
+            "tempo": "Até 180 dias",
+            "informacao_adicional": [
+                "Link para o Sistema de Agendamento de Atendimento Presencial (SAAP): https://sigma.pb.gov.br/saap/src/empreendedor/"
+            ],
+            "etapas": [
+                "Cadastrar-se no SIGMA para preenchimento dos dados solicitados ou realizar o agendamento presencial."
+            ],
+            "forma_prestacao": [
+                "ONLINE",
+                "PRESENCIAL_AGENDAMENTO"
+            ],
+            "orgao_prestador": "Superintendência de Administração do Meio Ambiente"
+        },
+        {
+            "servico": "Licença de Operação para Pesquisa Mineral",
+            "descricao": "É a licença que autoriza a atividade de pesquisa mineral, quando envolver o emprego de Guia de Utilização, conforme a legislação minerária vigente.",
+            "publico_alvo": [
+                "CIDADAO",
+                "ORGAO_ENTIDADE_PUBLICA"
+            ],
+            "quem_pode_acessar": [
+                "Pessoas Físicas ou Jurídicas, incluindo empresas, entidades, instituições e sociedades de economia mista da administração pública Federal, Estadual e Municipal localizadas no estado da Paraíba."
+            ],
+            "exigencias": [
+                "Consultar o setor de Atendimento do Órgão."
+            ],
+            "tempo": "Até 180 dias",
+            "informacao_adicional": [
+                "Link para o Sistema de Agendamento de Atendimento Presencial (SAAP): https://sigma.pb.gov.br/saap/src/empreendedor/"
+            ],
+            "etapas": [
+                "Cadastrar-se no SIGMA para preenchimento dos dados solicitados ou realizar o agendamento presencial."
+            ],
+            "forma_prestacao": [
+                "ONLINE",
+                "PRESENCIAL_AGENDAMENTO"
+            ],
+            "orgao_prestador": "Superintendência de Administração do Meio Ambiente"
         }
     ]
 }

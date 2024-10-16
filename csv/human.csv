@@ -1,0 +1,3001 @@
+,Nome,Idade,Cidade,Orgao1,Demanda1,Orgao2,Demanda2
+1,Dr. Davi Gomes,50,"Viela Pires, 3
+Salgado Filho
+99242470 Cunha das Pedras / RS",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença por Adesão e Compromisso
+2,Dr. José Casa Grande,47,"Praia Zoe Cirino, 818
+Liberdade
+40528637 Barros das Flores / SC",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cinep,Concessão de Incentivo Fiscal a Empresas
+3,Marcelo Ramos,19,"Lago Correia, 42
+São Sebastião
+99995-023 da Mata de Ribeiro / PE",sudema,Licença por Adesão e Compromisso,cagepa,ATUALIZAÇÃO CADASTRAL
+4,Eloá Macedo,41,"Fazenda Câmara, 46
+Jardim Montanhês
+32037899 Silva / SE",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+5,Natália das Neves,20,"Estrada Lucas Gabriel Silveira, 78
+Jardim Atlântico
+84843-195 Araújo dos Dourados / GO",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,Serviço Especializado em Triagem e Diagnóstico
+6,Luísa Borges,31,"Trevo Maria Liz Câmara, 5
+Prado
+02155616 Teixeira de Fernandes / RN",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cinep,Concessão de Incentivo Locacional a Empresas
+7,Henry Nascimento,20,"Vila Benicio Ribeiro, 71
+Venda Nova
+80728496 Marques do Oeste / PR",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+8,Helena Siqueira,23,"Praça Mariane Nascimento
+Maria Virgínia
+07685102 Sá / AM",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+9,Lorenzo Freitas,40,"Passarela Rezende
+Nova Esperança
+09090168 Nascimento / PE",detran,RENOVAÇÃO DA CNH SIMPLES,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+10,Eloá Brito,37,"Esplanada de Melo, 94
+Conjunto Califórnia Ii
+28109-163 Albuquerque / DF",funade,Serviço de Informação ao Cidadão,cbmpb,Socorro de Emergências
+11,Ravi da Mota,18,"Viaduto Enrico Correia
+Vila Sumaré
+96538-274 Dias de Rodrigues / AM",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,PRIMEIRA HABILITAÇÃO
+12,Cauê Garcia,30,"Trecho Barbosa, 27
+Antonio Ribeiro De Abreu 1ª Seção
+14882889 Barros / PA",cinep,Concessão de Incentivo Fiscal a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+13,José Pedro Gomes,44,"Ladeira Guerra, 89
+Jardim Do Vale
+79845-496 Cavalcanti do Sul / RR",cinep,Concessão de Incentivo Locacional a Empresas,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+14,Olivia Castro,34,"Vereda de Costa
+Madre Gertrudes
+12068-279 Abreu / AP",sudema,Licença por Adesão e Compromisso,cinep,Concessão de Incentivo Locacional a Empresas
+15,Cecilia Mendes,41,"Lago Evelyn Pereira, 87
+Etelvina Carneiro
+65387-310 Câmara da Prata / AC",detran,PRIMEIRA HABILITAÇÃO,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+16,Camila Fernandes,36,"Vale de Vargas, 300
+Vila Rica
+72529-237 Teixeira Grande / MT",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+17,Luiz Otávio Fogaça,44,"Esplanada de Fonseca, 155
+Vila Primeiro De Maio
+20766499 Nunes / SP",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+18,Gabriela Lopes,35,"Sítio de Fogaça, 2
+Parque São José
+68119-954 Lima / PB",cagepa,ATUALIZAÇÃO CADASTRAL,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+19,Ana Carolina Monteiro,29,"Via Ana Vitória Casa Grande, 40
+Salgado Filho
+31472384 da Luz das Flores / MA",cagepa,LIGAÇÃO DE ÁGUA,cinep,Concessão de Incentivo Fiscal a Empresas
+20,Francisco Monteiro,38,"Residencial Alícia da Luz, 85
+Gameleira
+10284599 Cavalcante Paulista / GO",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,ATUALIZAÇÃO CADASTRAL
+21,Caroline da Mota,26,"Via Anthony Gabriel Carvalho, 88
+Pompéia
+44373771 da Paz / PI",detran,PRIMEIRA HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+22,Olivia Azevedo,60,"Estação de Câmara, 94
+Vila Rica
+83609-249 Abreu / RS",cbmpb,Socorro de Emergências,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+23,Alana Ferreira,18,"Rua de Santos, 750
+Vila Califórnia
+01292-483 Pinto da Mata / BA",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cinep,Concessão de Incentivo Locacional a Empresas
+24,Sra. Rafaela Garcia,30,"Vale de Pastor, 21
+Jardim Montanhês
+18146-529 Caldeira da Serra / PI",cinep,Concessão de Incentivo Fiscal a Empresas,cinep,Concessão de Incentivo Locacional a Empresas
+25,Emanuel Porto,37,"Trevo Luna Santos, 47
+Universitário
+99464-291 Machado / CE",cbmpb,Socorro de Emergências,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+26,Mateus Guerra,22,"Quadra Vitor Fernandes, 4
+Xangri-Lá
+49291-582 Silveira / CE",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+27,Paulo Carvalho,39,"Viaduto João Pedro Nogueira
+Trevo
+41644-843 Melo / CE",cagepa,LIGAÇÃO DE ÁGUA,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+28,Eloah Vieira,29,"Praça de Moura
+Palmeiras
+49222-460 Silva / RO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Serviço de Informação ao Cidadão
+29,Leandro Machado,46,"Distrito Novaes, 860
+Barreiro
+12052-582 Azevedo / AL",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+30,Ana Luiza Leão,38,"Estrada Freitas, 74
+Zilah Sposito
+19616707 Vieira / SP",sudema,Licença por Adesão e Compromisso,cinep,Concessão de Incentivo Fiscal a Empresas
+31,Maria Júlia Moraes,36,"Estrada Joana Leão, 260
+Andiroba
+46345345 Rocha das Flores / SP",detran,RENOVAÇÃO DA CNH SIMPLES,cinep,Concessão de Incentivo Fiscal a Empresas
+32,Maitê Pimenta,33,"Pátio Garcia, 188
+Senhor Dos Passos
+24579808 das Neves / GO",cbmpb,Socorro de Emergências,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+33,Agatha Cirino,37,"Núcleo Eduardo Aragão, 29
+Vila Da Paz
+55667360 Novais / SE",cagepa,LIGAÇÃO DE ÁGUA,detran,PRIMEIRA HABILITAÇÃO
+34,Olivia Guerra,30,"Praia Cecília Vasconcelos, 5
+Embaúbas
+34529504 Porto do Amparo / GO",cagepa,ATUALIZAÇÃO CADASTRAL,detran,PRIMEIRA HABILITAÇÃO
+35,Luiz Henrique Pires,32,"Jardim de Mendonça, 51
+Ademar Maldonado
+13035-751 Duarte das Flores / RR",detran,RENOVAÇÃO DA CNH SIMPLES,funade,Serviço Especializado em Triagem e Diagnóstico
+36,Dra. Lívia Cassiano,32,"Jardim Cirino
+Nossa Senhora De Fátima
+06800856 Pastor / MA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,ATUALIZAÇÃO CADASTRAL
+37,Ravi Lucca Novais,18,"Favela Isabella Siqueira, 2
+Minas Caixa
+56945-306 Aragão do Oeste / RS",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Serviço de Informação ao Cidadão
+38,Kamilly Castro,30,"Conjunto Laura Araújo
+Pindorama
+14077-164 da Cunha / RO",sudema,Licença de Operação para Pesquisa Mineral,funade,Serviço Especializado em Triagem e Diagnóstico
+39,Sr. Pedro Lucas Peixoto,40,"Área de Cavalcanti, 2
+Canaa
+20012977 Albuquerque de Minas / ES",detran,INDICAÇÃO DE CONDUTOR INFRATOR,detran,RENOVAÇÃO DA CNH SIMPLES
+40,Sr. Benjamim Cavalcanti,35,"Residencial de Correia, 81
+Oeste
+13122-277 Novais / SP",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Perícia de Incêndio e Explosão
+41,Milena da Cunha,30,"Estação Cirino, 5
+Nova Floresta
+61686230 Novaes / AP",funade,Serviço de Informação ao Cidadão,funade,Serviço Especializado em Triagem e Diagnóstico
+42,Olivia Cunha,56,"Loteamento Gabriela Gonçalves, 46
+Sion
+46046727 Camargo Grande / BA",sudema,Licença por Adesão e Compromisso,cagepa,ATUALIZAÇÃO CADASTRAL
+43,Manuella Pimenta,33,"Residencial Eloá Andrade, 5
+Conjunto Califórnia I
+39497-630 Ramos / GO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+44,Sr. Caio Sá,37,"Colônia de Guerra, 81
+Grota
+52767-925 Caldeira / RO",funade,Serviço Especializado em Triagem e Diagnóstico,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+45,Pedro Lucas Siqueira,34,"Praça Davi Miguel Duarte
+Candelaria
+28092-451 Moura de Borges / AL",cinep,Concessão de Incentivo Locacional a Empresas,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+46,Cecilia Vasconcelos,21,"Pátio Correia
+Aarão Reis
+75727-397 Oliveira / ES",detran,PRIMEIRA HABILITAÇÃO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+47,Ana Sophia Vargas,29,"Quadra Novais, 587
+Ouro Preto
+40386-783 Nunes / MA",funade,Serviço Especializado em Triagem e Diagnóstico,cagepa,ATUALIZAÇÃO CADASTRAL
+48,Rodrigo Leão,19,"Vale de Rios, 584
+Estoril
+02276961 Pimenta de Goiás / PB",cinep,Concessão de Incentivo Locacional a Empresas,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+49,Thomas Pacheco,33,"Praia de Cassiano, 67
+Granja De Freitas
+56440-237 da Costa de Minas / MS",cbmpb,Perícia de Incêndio e Explosão,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+50,Caleb Costa,27,"Colônia Ana Laura Sales, 36
+Tirol
+10924-054 Macedo / SE",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,ATUALIZAÇÃO CADASTRAL
+51,Eduarda Fogaça,35,"Campo Castro, 95
+Nova Floresta
+90688624 Fogaça / PR",cagepa,LIGAÇÃO DE ÁGUA,cbmpb,Socorro de Emergências
+52,Dr. Benjamin Freitas,27,"Condomínio Daniel Machado, 7
+Alta Tensão 1ª Seção
+98516936 Câmara / AM",cinep,Concessão de Incentivo Locacional a Empresas,cinep,Concessão de Incentivo Fiscal a Empresas
+53,Luiz Henrique Caldeira,49,"Trecho Moura, 76
+Belvedere
+95403710 da Cruz / RN",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,sudema,Licença de Operação para Pesquisa Mineral
+54,Dra. Luana Gonçalves,18,"Viaduto Natália Castro, 38
+São Cristóvão
+44130-130 Martins do Campo / SC",cagepa,LIGAÇÃO DE ÁGUA,cagepa,ATUALIZAÇÃO CADASTRAL
+55,Sra. Manuella Leão,30,"Trecho Luiz Miguel Cardoso, 98
+Vila Coqueiral
+03369793 Farias / ES",sudema,Licença por Adesão e Compromisso,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+56,Erick Leão,37,"Chácara de Novais, 99
+Minas Brasil
+25683-378 da Rosa / AM",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,sudema,Licença por Adesão e Compromisso
+57,Dra. Heloísa Fernandes,45,"Jardim Letícia da Luz, 50
+Vila Santa Monica 2ª Seção
+41865570 Montenegro / SE",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+58,Maria Luiza da Paz,37,"Praia Guerra, 554
+Ventosa
+72180-939 Farias do Norte / SP",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,detran,PRIMEIRA HABILITAÇÃO
+59,Camila Fonseca,51,"Rodovia Montenegro, 144
+Vila Primeiro De Maio
+32089-152 Teixeira Paulista / RS",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Perícia de Incêndio e Explosão
+60,Dante Vasconcelos,42,"Rua Pereira
+Novo Tupi
+51120818 Pereira / DF",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+61,Aurora Mendonça,37,"Fazenda Souza, 1
+Nossa Senhora Da Conceição
+41784872 Viana da Prata / AP",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,ATUALIZAÇÃO CADASTRAL
+62,Luiz Henrique Oliveira,49,"Conjunto de Machado, 273
+Vila Nova Cachoeirinha 3ª Seção
+22370284 Borges de Minas / SE",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cinep,Concessão de Incentivo Locacional a Empresas
+63,Benjamin Cardoso,36,"Lago Rodrigues, 32
+Planalto
+73897-825 Viana / GO",detran,RENOVAÇÃO DA CNH SIMPLES,funade,Serviço Especializado em Triagem e Diagnóstico
+64,Sarah da Luz,41,"Vale Maria Luiza Pereira, 132
+Vila São Geraldo
+48812401 Viana da Mata / RS",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cbmpb,Perícia de Incêndio e Explosão
+65,Maria Julia Barbosa,44,"Viela Vargas, 91
+Rio Branco
+68649-458 Montenegro do Norte / MS",cbmpb,Perícia de Incêndio e Explosão,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+66,Theo Cunha,44,"Condomínio Luara Pastor, 98
+Cinquentenário
+81697-782 Pires Paulista / BA",funade,Aquisição da Carteira de Passe Livre Intermunicipal,sudema,Licença por Adesão e Compromisso
+67,Bianca Leão,22,"Lagoa Cecília Aparecida, 142
+Vila Cloris
+52952-261 Teixeira / ES",cagepa,LIGAÇÃO DE ÁGUA,cbmpb,Socorro de Emergências
+68,Kamilly Pires,18,"Campo Davi Miguel Correia, 61
+Comiteco
+90781944 Farias / RJ",cbmpb,Socorro de Emergências,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+69,Luiz Henrique Porto,25,"Aeroporto Isabel Almeida, 17
+Dona Clara
+05375867 Mendonça / RN",sudema,Licença por Adesão e Compromisso,cinep,Concessão de Incentivo Fiscal a Empresas
+70,Maria Martins,37,"Lagoa João Felipe Nascimento, 49
+Vila Madre Gertrudes 4ª Seção
+12242356 Farias das Pedras / RN",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+71,Benicio Cavalcante,37,"Favela Lopes, 37
+Vila Betânia
+85827308 Nunes do Galho / PE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Perícia de Incêndio e Explosão
+72,Eduardo das Neves,45,"Quadra Viana, 246
+Vila Inestan
+54530104 Leão Grande / SE",cbmpb,Perícia de Incêndio e Explosão,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+73,Dra. Luana Viana,29,"Avenida Zoe Vasconcelos, 2
+Maria Tereza
+70061-902 Pereira do Oeste / AL",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cinep,Concessão de Incentivo Locacional a Empresas
+74,Laura Porto,35,"Quadra Liz Silva, 46
+Pantanal
+02808-346 Rezende Alegre / GO",funade,Serviço de Informação ao Cidadão,cagepa,LIGAÇÃO DE ÁGUA
+75,Antony Caldeira,22,"Morro Abreu, 5
+Vila Cloris
+02174347 Gonçalves do Norte / AP",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,sudema,Licença de Operação para Pesquisa Mineral
+76,Henry da Cunha,22,"Setor Fernando Moraes
+Coração De Jesus
+91236818 Freitas / AM",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,sudema,Licença por Adesão e Compromisso
+77,Isaac Macedo,47,"Núcleo Barros, 60
+Vila Nova
+27219-020 Souza Verde / RS",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cbmpb,Socorro de Emergências
+78,Liam Mendonça,35,"Jardim Barbosa
+Vila Jardim Montanhes
+57084836 da Paz da Mata / RN",detran,RENOVAÇÃO DA CNH SIMPLES,detran,PRIMEIRA HABILITAÇÃO
+79,Dr. Vitor Carvalho,50,"Núcleo Gabriel Sousa, 293
+São Benedito
+37277887 Rocha de Goiás / SC",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+80,Luísa da Cunha,30,"Viaduto Nunes, 114
+Carmo
+95391534 Borges / AC",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cinep,Concessão de Incentivo Locacional a Empresas
+81,Mariana Rocha,46,"Conjunto Alexia Fernandes, 91
+Novo Glória
+91584370 da Costa / PA",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença por Adesão e Compromisso
+82,Maya Santos,42,"Rodovia de Aparecida, 189
+São João
+08823-521 Siqueira do Sul / MA",sudema,Licença por Adesão e Compromisso,cinep,Concessão de Incentivo Fiscal a Empresas
+83,Luiz Fernando Mendonça,44,"Fazenda de Casa Grande, 54
+Nossa Senhora Do Rosário
+62025925 Sousa / CE",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,ATUALIZAÇÃO CADASTRAL
+84,Maria Helena da Paz,32,"Praça de Farias, 653
+Beija Flor
+36574-953 Caldeira / CE",detran,RENOVAÇÃO DA CNH SIMPLES,cbmpb,Socorro de Emergências
+85,Maitê Casa Grande,32,"Estação da Cunha, 727
+Vila Da Paz
+21266574 Costela / AM",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,PRIMEIRA HABILITAÇÃO
+86,Ana Laura Mendonça,18,"Passarela da Costa, 5
+Lindéia
+24937040 Rocha / PE",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,LIGAÇÃO DE ÁGUA
+87,Dra. Anna Liz Farias,42,"Ladeira Azevedo, 39
+Vila Madre Gertrudes 4ª Seção
+59369-756 da Rocha do Amparo / MS",detran,PRIMEIRA HABILITAÇÃO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+88,Sr. Arthur Miguel Nascimento,39,"Ladeira de Dias, 93
+Floramar
+41450-484 da Mata / DF",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+89,Luiz Henrique da Cunha,31,"Praia Brito, 893
+Flavio De Oliveira
+41202-567 Costela do Galho / AP",sudema,Licença de Operação para Pesquisa Mineral,cbmpb,Perícia de Incêndio e Explosão
+90,Sr. Luiz Otávio Martins,35,"Ladeira de Cirino
+Barro Preto
+84202823 Oliveira do Amparo / DF",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),sudema,Licença de Operação para Pesquisa Mineral
+91,Dr. Arthur Gabriel Dias,30,"Travessa de Cavalcante, 307
+Vila Engenho Nogueira
+86361424 Peixoto / RS",cinep,Concessão de Incentivo Locacional a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+92,Brenda Gomes,35,"Favela de Ribeiro, 33
+Novo Das Industrias
+25845-442 Sales / SC",cinep,Concessão de Incentivo Fiscal a Empresas,detran,PRIMEIRA HABILITAÇÃO
+93,João Pedro Cavalcanti,37,"Estrada Novais, 42
+Diamante
+68110-075 Pires do Campo / SE",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,RENOVAÇÃO DA CNH SIMPLES
+94,Sr. Ryan Jesus,44,"Viela de Garcia, 96
+Vila Boa Vista
+60895753 Aragão / PR",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+95,Pedro Sampaio,35,"Aeroporto Maria Fernanda Sampaio, 465
+Conjunto Califórnia I
+89183670 Rios Grande / ES",cinep,Concessão de Incentivo Locacional a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+96,Ana Lívia Borges,37,"Recanto Cauê Santos, 44
+Vila Nova Cachoeirinha 3ª Seção
+48217184 Barros de Minas / BA",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+97,Kevin Fernandes,53,"Rua de Vieira, 36
+Barão Homem De Melo 1ª Seção
+03590-641 da Luz / MA",cbmpb,Socorro de Emergências,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+98,Isaac Siqueira,18,"Trecho de Moreira
+Vila Boa Vista
+14398-346 Pastor Paulista / MG",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+99,Heitor das Neves,18,"Vila de Mendonça, 243
+Araguaia
+73436-418 Sampaio do Galho / MS",detran,PRIMEIRA HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+100,Ana Clara Moraes,40,"Setor Azevedo, 66
+Baleia
+45431140 Novaes do Oeste / RR",funade,Serviço Especializado em Triagem e Diagnóstico,cagepa,LIGAÇÃO DE ÁGUA
+101,Benjamim Moraes,35,"Recanto de Brito, 1
+Trevo
+99302-913 Souza / SE",cinep,Concessão de Incentivo Locacional a Empresas,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+102,Mariane Souza,25,"Estação Henry Vasconcelos
+Copacabana
+28281-050 das Neves Grande / GO",cbmpb,Socorro de Emergências,cinep,Concessão de Incentivo Locacional a Empresas
+103,Yan Macedo,36,"Loteamento Stephany da Mata, 4
+Vila São João Batista
+64192-236 Leão do Sul / BA",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cbmpb,Socorro de Emergências
+104,Stella Vasconcelos,24,"Viela de Novaes, 40
+Baleia
+03727520 Albuquerque das Pedras / MT",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+105,Sr. Benício da Rocha,24,"Praia João Vitor Teixeira, 67
+Marieta 2ª Seção
+14866-258 Vasconcelos / ES",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença por Adesão e Compromisso
+106,Theodoro Pinto,31,"Colônia de Moreira, 1
+Nova Granada
+47794-383 Andrade / MS",cagepa,LIGAÇÃO DE ÁGUA,cbmpb,Socorro de Emergências
+107,Sr. Léo da Mata,30,"Lagoa da Mota, 97
+Independência
+18443953 Azevedo da Serra / MT",funade,Aquisição da Carteira de Passe Livre Intermunicipal,sudema,Licença por Adesão e Compromisso
+108,Dra. Bianca Nunes,37,"Favela Gael Henrique Fernandes, 62
+Flavio Marques Lisboa
+95343-684 Machado / RR",cinep,Concessão de Incentivo Locacional a Empresas,cagepa,LIGAÇÃO DE ÁGUA
+109,João Pedro da Conceição,22,"Praça de Oliveira, 297
+Monsenhor Messias
+21080-725 Marques de Viana / MG",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+110,Ísis Rocha,24,"Estação Letícia da Conceição, 82
+Acaba Mundo
+95975300 Farias dos Dourados / CE",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,Serviço Especializado em Triagem e Diagnóstico
+111,Juliana Novaes,27,"Trecho da Cunha, 7
+Nova America
+79747-666 Cavalcanti de Pacheco / RN",cbmpb,Perícia de Incêndio e Explosão,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+112,Luna da Cruz,44,"Ladeira Campos, 155
+Satelite
+25408877 Sá / PA",cinep,Concessão de Incentivo Fiscal a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+113,Elisa Guerra,18,"Favela Paulo Castro, 12
+Vila Dos Anjos
+68489091 da Conceição Verde / AM",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+114,Sra. Evelyn Lopes,29,"Vila Lunna Moraes, 66
+Caiçaras
+21422245 Vasconcelos / RJ",cagepa,LIGAÇÃO DE ÁGUA,cinep,Concessão de Incentivo Fiscal a Empresas
+115,Antonella Teixeira,29,"Favela Viana, 89
+Jardim Alvorada
+22949252 Borges / AC",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),sudema,Licença de Operação para Pesquisa Mineral
+116,Benjamin Martins,38,"Passarela de Dias, 40
+Vila São Paulo
+95181794 Dias / SP",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cinep,Concessão de Incentivo Locacional a Empresas
+117,Joaquim Ferreira,39,"Estação Gomes, 4
+Tres Marias
+11773513 Borges de Campos / SE",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+118,Dom Andrade,18,"Chácara Agatha Castro
+Vila Boa Vista
+99261563 da Mata Alegre / SP",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,PRIMEIRA HABILITAÇÃO
+119,Liam da Costa,24,"Praça Vitor Gabriel Alves, 72
+Serrano
+25190754 Novais / SC",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença de Operação para Pesquisa Mineral
+120,Amanda Pereira,44,"Ladeira Bárbara Araújo, 741
+Vila Boa Vista
+95394-465 Novaes de Goiás / AC",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cbmpb,Perícia de Incêndio e Explosão
+121,Luiza Rios,25,"Jardim de Marques, 3
+Vila Suzana Segunda Seção
+79169-051 Moreira do Oeste / DF",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+122,Vitor Gabriel Barros,26,"Quadra Rodrigo Correia, 58
+Vila Coqueiral
+04580683 Pacheco / PA",cinep,Concessão de Incentivo Locacional a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+123,Caleb Fernandes,21,"Setor de Correia
+Baleia
+61916-699 da Cruz / PR",sudema,Licença por Adesão e Compromisso,cinep,Concessão de Incentivo Fiscal a Empresas
+124,Alexandre Nogueira,31,"Travessa Heloisa da Luz, 3
+Lagoa
+28196-279 Sá de Novais / ES",funade,Serviço de Informação ao Cidadão,cinep,Concessão de Incentivo Locacional a Empresas
+125,Heloisa da Cunha,28,"Estação Isaque da Conceição
+Canaa
+26989-627 Moraes / MG",funade,Aquisição da Carteira de Passe Livre Intermunicipal,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+126,Lorenzo Câmara,36,"Via Oliveira, 6
+Novo São Lucas
+79176935 Câmara / ES",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Serviço Especializado em Triagem e Diagnóstico
+127,Eduardo Souza,30,"Favela Vitória Barros
+Céu Azul
+90268872 Cardoso da Mata / SE",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+128,Isabella Casa Grande,48,"Rodovia Macedo, 20
+Capitão Eduardo
+13453-423 Abreu / ES",cinep,Concessão de Incentivo Fiscal a Empresas,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+129,Gabriel Rocha,35,"Condomínio Amanda Guerra, 5
+Rio Branco
+83962-729 Vieira da Praia / SC",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+130,Lucca da Rocha,19,"Trecho Sales
+Venda Nova
+91691350 Nogueira do Oeste / PI",detran,PRIMEIRA HABILITAÇÃO,sudema,Licença por Adesão e Compromisso
+131,Isaque Moura,38,"Vereda Sousa, 459
+Alta Tensão 2ª Seção
+83303-212 Gomes / AL",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+132,Yago Costela,48,"Sítio Brenda Vieira, 4
+Liberdade
+87203-064 Casa Grande / AC",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,detran,PRIMEIRA HABILITAÇÃO
+133,Arthur Gabriel Santos,18,"Avenida Lorena Brito, 155
+Mangueiras
+26226-905 da Cruz de Minas / RO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cbmpb,Perícia de Incêndio e Explosão
+134,Brayan Cunha,38,"Rodovia Pietra Albuquerque, 22
+São Bento
+70000118 Silveira / MT",cbmpb,Perícia de Incêndio e Explosão,detran,PRIMEIRA HABILITAÇÃO
+135,Sophie Pereira,38,"Via Ana Clara Carvalho, 2
+Santa Efigênia
+91756430 da Cruz da Prata / RS",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença de Operação para Pesquisa Mineral
+136,Maysa Brito,55,"Vale Matheus Sampaio, 5
+João Alfredo
+09529402 Carvalho do Amparo / DF",sudema,Licença por Adesão e Compromisso,funade,Serviço de Informação ao Cidadão
+137,Leonardo Marques,48,"Núcleo Marcos Vinicius Sampaio, 11
+Vila São João Batista
+54556204 Oliveira / RR",cagepa,LIGAÇÃO DE ÁGUA,cinep,Concessão de Incentivo Fiscal a Empresas
+138,Sr. Miguel Silva,18,"Trevo de Sousa, 3
+São Jorge 3ª Seção
+52199-139 Fogaça do Sul / AC",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+139,Rafaela Rezende,53,"Parque de Mendes, 56
+Jaraguá
+39573-493 Macedo / ES",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cagepa,ATUALIZAÇÃO CADASTRAL
+140,Diogo Sales,44,"Praça Ferreira, 23
+Conjunto Taquaril
+29273-782 Vasconcelos / RO",funade,Serviço de Informação ao Cidadão,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+141,Maria Liz Costa,44,"Ladeira Costa, 309
+Alpes
+30328961 Cardoso / DF",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,Serviço de Informação ao Cidadão
+142,Kevin da Rosa,27,"Setor Danilo Costela, 75
+Tirol
+76318-036 Silveira / BA",cagepa,LIGAÇÃO DE ÁGUA,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+143,Breno Machado,27,"Parque Leão, 2
+Juliana
+53190974 Costela da Praia / RN",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,ATUALIZAÇÃO CADASTRAL
+144,Alice Campos,50,"Trevo de Aparecida, 31
+Santa Terezinha
+81705-268 Duarte do Amparo / PA",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,sudema,Licença por Adesão e Compromisso
+145,Benício Ribeiro,33,"Estação de Abreu, 4
+Castelo
+81587010 Pinto da Prata / PR",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cbmpb,Perícia de Incêndio e Explosão
+146,Vinicius Ramos,21,"Rua de Azevedo, 78
+Carmo
+66983552 Silva Paulista / AL",detran,RENOVAÇÃO DA CNH SIMPLES,detran,PRIMEIRA HABILITAÇÃO
+147,Otávio Mendonça,18,"Fazenda Siqueira, 6
+Granja Werneck
+71012946 Nunes / AL",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+148,Srta. Emanuelly Farias,29,"Morro de Rios, 51
+Concórdia
+99554-258 Vieira da Prata / AC",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,PRIMEIRA HABILITAÇÃO
+149,Bruno Ramos,22,"Rodovia Vitor Sousa, 195
+Nova Cintra
+77236-523 Monteiro / PE",detran,RENOVAÇÃO DA CNH SIMPLES,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+150,Cauê Freitas,27,"Setor Jade Peixoto, 66
+Vila Aeroporto
+95323-065 Cirino / PE",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Socorro de Emergências
+151,Nathan Cirino,44,"Viela de Santos, 97
+Antonio Ribeiro De Abreu 1ª Seção
+07798542 Farias / SC",cagepa,LIGAÇÃO DE ÁGUA,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+152,Isabela Nascimento,22,"Campo de Cavalcanti, 937
+Nova Vista
+50090-124 Vasconcelos de Nunes / RR",funade,Aquisição da Carteira de Passe Livre Intermunicipal,sudema,Licença de Operação para Pesquisa Mineral
+153,Raul Barros,27,"Estação Pereira, 3
+Nova Floresta
+53486-238 Vargas da Serra / RS",funade,Serviço de Informação ao Cidadão,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+154,Dr. Renan Ferreira,38,"Trecho de da Cruz, 493
+Taquaril
+64978-185 Freitas / MA",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,RENOVAÇÃO DA CNH SIMPLES
+155,Daniela Duarte,39,"Colônia Joaquim Pacheco, 47
+Vila Madre Gertrudes 3ª Seção
+09120431 Brito Verde / AL",funade,Serviço de Informação ao Cidadão,funade,Serviço Especializado em Triagem e Diagnóstico
+156,Sra. Cecilia da Rocha,46,"Vila Marina Sales, 14
+Horto Florestal
+86072817 Alves / ES",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cinep,Concessão de Incentivo Locacional a Empresas
+157,Lívia Alves,42,"Lagoa de Dias, 16
+Marieta 1ª Seção
+90419-631 Viana da Praia / DF",funade,Aquisição da Carteira de Passe Livre Intermunicipal,funade,Serviço Especializado em Triagem e Diagnóstico
+158,Diogo Sousa,22,"Sítio Farias, 325
+Juliana
+09290-139 Pacheco / RR",sudema,Licença por Adesão e Compromisso,detran,PRIMEIRA HABILITAÇÃO
+159,Bianca Farias,27,"Chácara de Albuquerque, 1
+Comiteco
+27529-953 Ribeiro / RO",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Socorro de Emergências
+160,Anthony Azevedo,41,"Fazenda Daniel Ramos
+Jardim Atlântico
+60395229 Sales / AM",funade,Serviço de Informação ao Cidadão,cbmpb,Perícia de Incêndio e Explosão
+161,Pedro Teixeira,31,"Lago Larissa Martins, 314
+Pindura Saia
+37311371 Machado Paulista / RR",funade,Serviço de Informação ao Cidadão,cbmpb,Perícia de Incêndio e Explosão
+162,Benicio Ribeiro,20,"Avenida Dom Jesus, 33
+São João Batista
+05467781 Sousa / CE",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,detran,PRIMEIRA HABILITAÇÃO
+163,Aurora da Cruz,27,"Sítio Jade Fonseca, 74
+Vila Aeroporto
+50120714 Farias das Flores / RO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+164,Gustavo Fernandes,18,"Morro de Nunes, 33
+Maria Helena
+96807932 Pastor / AM",funade,Serviço de Informação ao Cidadão,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+165,Sr. Valentim Aragão,37,"Praça de da Mata, 63
+Marieta 2ª Seção
+09724-098 Rodrigues de Santos / AL",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,ATUALIZAÇÃO CADASTRAL
+166,Isabela Silveira,64,"Recanto Vargas, 3
+Alta Tensão 2ª Seção
+61278120 Martins / AC",sudema,Licença de Operação para Pesquisa Mineral,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+167,Alice Ferreira,58,"Setor Isis Ramos, 97
+Santa Inês
+52812622 Fernandes do Oeste / AC",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+168,Henry da Rosa,42,"Aeroporto da Costa, 298
+João Paulo Ii
+93708466 da Rosa da Serra / TO",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+169,Dr. Matheus Silva,27,"Largo Raquel Câmara, 8
+Vila Nova
+10086918 Nascimento Grande / MS",cinep,Concessão de Incentivo Locacional a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+170,Alice Cirino,37,"Condomínio Miguel Cunha
+Vila De Sá
+72886-191 Aragão de Pimenta / CE",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+171,Maysa da Cunha,43,"Área Monteiro, 81
+Boa Viagem
+21567914 Araújo do Campo / PA",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,LIGAÇÃO DE ÁGUA
+172,José Pedro da Paz,35,"Área Isabela Aragão, 7
+Vila Madre Gertrudes 4ª Seção
+16705111 Rocha / DF",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença por Adesão e Compromisso
+173,Dra. Isadora Brito,32,"Setor de Almeida, 29
+Vila Cemig
+02188590 Vieira / AM",cinep,Concessão de Incentivo Fiscal a Empresas,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+174,Larissa Andrade,48,"Morro Pedro Miguel Silveira, 15
+Dom Bosco
+17310-525 Vargas / PB",cbmpb,Perícia de Incêndio e Explosão,sudema,Licença de Operação para Pesquisa Mineral
+175,Dra. Sofia Ferreira,28,"Pátio de Farias, 62
+Etelvina Carneiro
+20073937 Rocha Alegre / RN",cinep,Concessão de Incentivo Fiscal a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+176,Sr. Nathan da Mata,29,"Quadra de Campos, 58
+Lindéia
+97641762 Moreira do Galho / MA",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+177,Pietro Guerra,18,"Praia Joana Carvalho, 21
+Coqueiros
+85635830 Jesus do Oeste / TO",funade,Aquisição da Carteira de Passe Livre Intermunicipal,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+178,Henrique Mendes,46,"Área Cavalcante, 19
+Milionario
+18351-361 Dias / RS",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,sudema,Licença por Adesão e Compromisso
+179,Dr. Anthony Moura,29,"Feira Julia Fernandes, 681
+Cônego Pinheiro 1ª Seção
+03362-996 Fernandes / PE",detran,PRIMEIRA HABILITAÇÃO,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+180,Srta. Catarina da Mata,41,"Jardim de Aragão, 82
+Vila Jardim São José
+83342830 Fernandes / DF",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cinep,Concessão de Incentivo Fiscal a Empresas
+181,Fernanda Câmara,52,"Passarela Maysa Marques, 41
+Coqueiros
+38898924 Rezende do Sul / AM",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+182,Sara Cirino,26,"Estação de Cassiano, 699
+Solimoes
+37240143 Vieira de Goiás / BA",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+183,Vitória Borges,31,"Sítio Barros, 88
+Calafate
+98556119 da Rosa de Marques / PR",cinep,Concessão de Incentivo Locacional a Empresas,sudema,Licença de Operação para Pesquisa Mineral
+184,Pietra Campos,44,"Área Nogueira, 3
+Lagoinha Leblon
+53083-253 Mendonça / RJ",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,PRIMEIRA HABILITAÇÃO
+185,Srta. Giovanna da Paz,30,"Conjunto Enrico Cavalcanti, 8
+Tupi B
+28271464 Rezende do Sul / ES",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,Serviço Especializado em Triagem e Diagnóstico
+186,Pedro Henrique Peixoto,43,"Ladeira de Carvalho
+Vista Do Sol
+18053976 Pimenta / PR",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Serviço Especializado em Triagem e Diagnóstico
+187,Lucca Moura,37,"Morro Mathias Caldeira
+Cinquentenário
+86654-330 Costela / AL",sudema,Licença por Adesão e Compromisso,sudema,Licença de Operação para Pesquisa Mineral
+188,Dra. Maria Sophia da Rocha,35,"Praça de Lima
+São José
+16566-199 Cavalcante dos Dourados / RN",detran,PRIMEIRA HABILITAÇÃO,sudema,Licença de Operação para Pesquisa Mineral
+189,Léo da Rosa,20,"Fazenda Casa Grande, 817
+Colégio Batista
+17784054 Pimenta / RJ",cagepa,ATUALIZAÇÃO CADASTRAL,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+190,Sara Pacheco,34,"Vereda Levi Nunes, 20
+Eymard
+69741090 Moura de Garcia / RR",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+191,Manuela Pacheco,21,"Feira Enzo Cavalcanti, 42
+Mangabeiras
+23237158 Rocha / SE",cagepa,LIGAÇÃO DE ÁGUA,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+192,Rebeca Pereira,36,"Quadra de Silveira, 6
+Unidas
+99810-795 Pinto das Flores / PI",funade,Serviço de Informação ao Cidadão,funade,Serviço Especializado em Triagem e Diagnóstico
+193,Alice Pereira,32,"Conjunto de Martins, 328
+Camponesa 1ª Seção
+55265-133 da Mota / GO",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,ATUALIZAÇÃO CADASTRAL
+194,Antônio Barros,33,"Ladeira de Rios, 466
+Vila São Gabriel Jacui
+68610954 Rocha da Serra / PI",funade,Serviço Especializado em Triagem e Diagnóstico,cinep,Concessão de Incentivo Fiscal a Empresas
+195,Alexia Sousa,35,"Residencial Mendes, 9
+Suzana
+71994087 Pimenta / GO",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+196,Marcos Vinicius das Neves,24,"Largo Leonardo da Paz
+São José
+40461367 Cirino de Cassiano / MG",cagepa,ATUALIZAÇÃO CADASTRAL,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+197,Paulo Cassiano,33,"Sítio Gabriela Cirino, 55
+São Jorge 3ª Seção
+91634-896 Vasconcelos / PR",detran,RENOVAÇÃO DA CNH SIMPLES,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+198,Nicolas Ferreira,37,"Chácara Yuri Jesus, 415
+Marçola
+35358-033 Silva Verde / SC",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cinep,Concessão de Incentivo Locacional a Empresas
+199,Dr. Théo Pimenta,27,"Lagoa Souza, 24
+Atila De Paiva
+24554-003 da Cunha / RS",cbmpb,Socorro de Emergências,funade,Serviço Especializado em Triagem e Diagnóstico
+200,Ana Cecília Pinto,26,"Estação Borges, 281
+Itaipu
+28718-843 Freitas / TO",sudema,Licença por Adesão e Compromisso,cbmpb,Socorro de Emergências
+201,Milena Novais,22,"Trevo Novaes, 45
+Etelvina Carneiro
+29997-630 Pires / RJ",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+202,Benjamim da Cunha,39,"Lago Silva, 5
+São Francisco Das Chagas
+24086339 Mendonça de Cunha / AC",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Socorro de Emergências
+203,Luiz Otávio Pereira,32,"Distrito Rios, 233
+Conjunto Califórnia I
+00753-891 Sá / PA",cbmpb,Perícia de Incêndio e Explosão,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+204,Luiz Miguel Fonseca,49,"Colônia Vitor Gabriel Sampaio, 28
+Paulo Vi
+53543272 Marques de Monteiro / AL",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+205,Srta. Anna Liz Castro,37,"Via Teixeira, 93
+Saudade
+87989-299 Monteiro / RN",funade,Serviço de Informação ao Cidadão,sudema,Licença por Adesão e Compromisso
+206,Samuel Vargas,35,"Residencial de das Neves, 6
+Vila Batik
+87816-586 da Cruz de Cunha / AC",cinep,Concessão de Incentivo Locacional a Empresas,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+207,Guilherme Araújo,42,"Setor de Moraes, 216
+Palmares
+16250-501 Sales do Campo / RR",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença por Adesão e Compromisso
+208,Gabriela da Paz,41,"Travessa Nunes, 34
+Engenho Nogueira
+25867438 Sales do Norte / SC",cinep,Concessão de Incentivo Locacional a Empresas,sudema,Licença de Operação para Pesquisa Mineral
+209,Kaique Castro,30,"Vale Pinto, 46
+Ápia
+20732095 Marques / MA",detran,PRIMEIRA HABILITAÇÃO,detran,RENOVAÇÃO DA CNH SIMPLES
+210,Murilo Freitas,48,"Núcleo de Macedo, 183
+Vila Dos Anjos
+50867-650 das Neves da Mata / SE",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cbmpb,Socorro de Emergências
+211,Luiz Otávio Leão,35,"Largo Maria Cecília das Neves, 509
+Vila Inestan
+95559-354 Fonseca / PA",cbmpb,Socorro de Emergências,cagepa,ATUALIZAÇÃO CADASTRAL
+212,Marina Sales,61,"Setor Macedo
+Santa Terezinha
+10813618 Sales / RO",cagepa,ATUALIZAÇÃO CADASTRAL,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+213,Isadora Moraes,30,"Setor da Mota, 5
+Teixeira Dias
+44800059 Silva / PA",sudema,Licença de Operação para Pesquisa Mineral,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+214,Luiz Henrique Fernandes,18,"Chácara Farias, 815
+Minas Brasil
+48304659 Azevedo do Oeste / TO",cinep,Concessão de Incentivo Fiscal a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+215,Asafe Aparecida,30,"Pátio Fonseca
+Santa Maria
+80750082 Carvalho da Serra / TO",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cinep,Concessão de Incentivo Locacional a Empresas
+216,Dr. Henry Abreu,39,"Recanto de Fonseca, 405
+Conjunto Califórnia I
+33347756 Gonçalves de Siqueira / RR",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+217,Dante Monteiro,27,"Viela da Rosa, 1
+Confisco
+20446598 Cavalcante Alegre / AP",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+218,Melina Fernandes,37,"Fazenda de Pires, 90
+João Alfredo
+28028476 Borges da Praia / SE",cagepa,ATUALIZAÇÃO CADASTRAL,funade,Serviço de Informação ao Cidadão
+219,Pedro Henrique Farias,41,"Vila Cardoso, 61
+Inconfidência
+45109-572 Cirino / RN",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+220,Maria Fernanda Borges,24,"Rodovia Macedo, 885
+Novo Aarão Reis
+26332-104 Sampaio / RR",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+221,Mirella Siqueira,31,"Viela Eloá Cavalcante, 6
+Satelite
+25537197 da Costa / AC",funade,Serviço Especializado em Triagem e Diagnóstico,cinep,Concessão de Incentivo Locacional a Empresas
+222,Bryan da Mata,28,"Campo de Alves, 7
+Bandeirantes
+51661635 Almeida / AP",cinep,Concessão de Incentivo Fiscal a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+223,Sofia Alves,39,"Estação Guilherme Gonçalves, 8
+Caetano Furquim
+17909-214 Rios dos Dourados / RO",sudema,Licença de Operação para Pesquisa Mineral,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+224,Alexia Garcia,36,"Trecho Teixeira
+Engenho Nogueira
+97709563 Silveira Verde / PA",detran,PRIMEIRA HABILITAÇÃO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+225,Anthony Rodrigues,43,"Sítio de da Rocha, 6
+Vila Ouro Minas
+80458569 Ribeiro / SE",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+226,Ana Clara Vieira,30,"Condomínio de Caldeira, 937
+Vila Suzana Primeira Seção
+62641-244 da Mata / DF",cbmpb,Socorro de Emergências,cagepa,ATUALIZAÇÃO CADASTRAL
+227,Caroline Lopes,22,"Largo de Casa Grande, 470
+Jardim Leblon
+55107-399 Aragão das Flores / PB",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+228,Emanuelly Pacheco,39,"Campo Costela, 19
+São Pedro
+91883-868 Moura de Albuquerque / SC",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+229,Larissa Freitas,43,"Lagoa de Garcia, 95
+Cinquentenário
+68452-264 Viana da Praia / AL",cinep,Concessão de Incentivo Locacional a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+230,Danilo Farias,35,"Chácara Nogueira
+Ademar Maldonado
+46658-739 da Rosa do Amparo / MA",cagepa,LIGAÇÃO DE ÁGUA,sudema,Licença de Operação para Pesquisa Mineral
+231,Maya Oliveira,43,"Via Apollo Almeida, 25
+Vila União
+45482544 Guerra de Garcia / PR",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+232,Dra. Maria Marques,25,"Loteamento de Brito, 6
+Jardim Vitoria
+12729-332 Fernandes Alegre / MA",cagepa,LIGAÇÃO DE ÁGUA,funade,Serviço de Informação ao Cidadão
+233,Gabriel Novaes,21,"Viaduto Maria Pereira, 50
+Confisco
+24276-633 Araújo de Costela / AC",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,RENOVAÇÃO DA CNH SIMPLES
+234,Anthony Cardoso,47,"Aeroporto de Fogaça, 12
+Vista Do Sol
+42317-933 Borges / SE",cbmpb,Socorro de Emergências,cagepa,ATUALIZAÇÃO CADASTRAL
+235,Dom Carvalho,30,"Estrada Anthony Gabriel Pinto, 34
+Santa Sofia
+17631-560 Rocha Alegre / RO",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Perícia de Incêndio e Explosão
+236,Mariah Brito,30,"Rua Santos, 715
+Cachoeirinha
+83864274 das Neves / AM",cagepa,LIGAÇÃO DE ÁGUA,sudema,Licença de Operação para Pesquisa Mineral
+237,Otávio Oliveira,39,"Lago Camargo, 495
+Santo Agostinho
+90471328 Ferreira do Galho / MA",cagepa,ATUALIZAÇÃO CADASTRAL,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+238,Luiz Fernando Cardoso,49,"Praia Heloísa Vargas, 26
+Minas Brasil
+14488-980 Mendonça da Serra / SC",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+239,Dr. Thales da Paz,45,"Residencial da Cunha, 47
+Liberdade
+94496574 Pinto do Sul / RN",cinep,Concessão de Incentivo Locacional a Empresas,cagepa,ATUALIZAÇÃO CADASTRAL
+240,Anna Liz Garcia,23,"Largo de Costa
+Nova America
+62681826 Costa / GO",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+241,Yuri Dias,41,"Lago da Luz, 4
+Monsenhor Messias
+51110-080 Azevedo Grande / AC",sudema,Licença por Adesão e Compromisso,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+242,Sr. Brayan Correia,59,"Rodovia Azevedo, 35
+Flavio Marques Lisboa
+09241-759 da Rosa / RN",detran,RENOVAÇÃO DA CNH SIMPLES,cinep,Concessão de Incentivo Locacional a Empresas
+243,José Miguel da Rocha,25,"Lagoa de Mendes, 99
+Bairro Das Indústrias Ii
+37603284 Castro Grande / RJ",cbmpb,Socorro de Emergências,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+244,José Pedro Barros,39,"Morro Aylla Ramos, 11
+Renascença
+50267454 Duarte / PI",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cbmpb,Perícia de Incêndio e Explosão
+245,Allana Dias,42,"Vila de Gomes, 555
+Vila São Francisco
+25891961 Nascimento das Pedras / PA",cinep,Concessão de Incentivo Locacional a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+246,Camila Freitas,21,"Feira de Viana
+Novo São Lucas
+46326-359 das Neves do Campo / MA",detran,RENOVAÇÃO DA CNH SIMPLES,detran,PRIMEIRA HABILITAÇÃO
+247,Sr. Pedro Miguel Ferreira,31,"Colônia Correia, 82
+Salgado Filho
+68472-083 Fernandes / SP",detran,PRIMEIRA HABILITAÇÃO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+248,Maria Flor Caldeira,19,"Rodovia Nogueira, 700
+Maria Goretti
+81070398 Nascimento Alegre / GO",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,PRIMEIRA HABILITAÇÃO
+249,Ester Casa Grande,46,"Aeroporto Bianca Campos, 62
+Vila São Rafael
+84891540 Teixeira / SE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+250,Vinícius Moura,18,"Passarela Ana Vitória Sousa, 790
+Miramar
+32438-919 Costela do Campo / PA",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+251,Ravy Alves,30,"Estrada Diego Pereira, 20
+Parque São Pedro
+08621-775 Machado / AC",cbmpb,Perícia de Incêndio e Explosão,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+252,Luiz Felipe Cassiano,30,"Setor Davi Miguel Moreira
+Vila Havaí
+45807995 da Conceição / DF",sudema,Licença por Adesão e Compromisso,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+253,Isaac da Paz,31,"Trevo Teixeira, 6
+Vila Mangueiras
+42555-283 Camargo / PI",detran,PRIMEIRA HABILITAÇÃO,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+254,Breno Azevedo,22,"Largo de Campos, 81
+Dom Cabral
+05211-493 Andrade de Costela / PE",cbmpb,Socorro de Emergências,funade,Serviço de Informação ao Cidadão
+255,Dr. Davi Lucas Rocha,43,"Morro de Correia, 207
+Colégio Batista
+39199229 da Luz / SP",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,Serviço de Informação ao Cidadão
+256,Alexia Barbosa,47,"Lago Pires, 1
+Pindura Saia
+52950616 Fogaça de Dias / MG",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,ATUALIZAÇÃO CADASTRAL
+257,Manuella Montenegro,26,"Ladeira de Barbosa, 64
+Alto Vera Cruz
+81868514 Moreira / DF",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+258,Pedro Miguel Rodrigues,38,"Loteamento de Jesus, 5
+Bandeirantes
+12124-134 Mendes / GO",sudema,Licença por Adesão e Compromisso,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+259,Melina Porto,33,"Vereda de Ferreira, 426
+Vila Real 2ª Seção
+38369-567 Leão / GO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cinep,Concessão de Incentivo Fiscal a Empresas
+260,Rael Fogaça,38,"Viela Lima, 3
+Maria Goretti
+32851-351 Vasconcelos / TO",cbmpb,Socorro de Emergências,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+261,Dr. Enrico Lopes,33,"Viaduto de Sá
+Santa Terezinha
+84233150 Machado de Rios / MG",cinep,Concessão de Incentivo Fiscal a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+262,Caleb Carvalho,38,"Área de Freitas
+São Gonçalo
+64460397 Santos de Cardoso / MT",cbmpb,Perícia de Incêndio e Explosão,detran,PRIMEIRA HABILITAÇÃO
+263,Eduarda Pereira,24,"Vale Rios, 86
+Ambrosina
+47893676 Souza / SP",sudema,Licença por Adesão e Compromisso,funade,Serviço Especializado em Triagem e Diagnóstico
+264,Ravi Lucca Viana,48,"Lagoa de Almeida, 4
+Lourdes
+40583-658 Marques / RJ",cagepa,ATUALIZAÇÃO CADASTRAL,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+265,Lucas Gabriel Cavalcante,43,"Setor Yasmin Souza, 74
+Canaa
+75635895 Porto / AC",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Serviço de Informação ao Cidadão
+266,Ester Fernandes,23,"Loteamento Antony Ribeiro, 7
+Vila Nova Gameleira 1ª Seção
+99420-543 da Paz / GO",sudema,Licença de Operação para Pesquisa Mineral,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+267,Bella Costela,44,"Conjunto de Jesus, 88
+Grota
+39593-134 Sampaio das Flores / SE",sudema,Licença de Operação para Pesquisa Mineral,funade,Serviço de Informação ao Cidadão
+268,Larissa Nunes,39,"Rodovia Sampaio
+Ernesto Nascimento
+96851-615 Mendes das Flores / SP",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+269,Marcos Vinicius Gomes,42,"Jardim Lucas Gabriel Cardoso, 5
+Santa Rosa
+52994387 Gomes / MT",detran,RENOVAÇÃO DA CNH SIMPLES,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+270,Allana Montenegro,20,"Passarela Isabela Sousa, 88
+Teixeira Dias
+05385607 Sousa de Castro / AL",funade,Aquisição da Carteira de Passe Livre Intermunicipal,funade,Serviço de Informação ao Cidadão
+271,Theodoro Melo,28,"Morro Abreu
+Coração De Jesus
+60343-478 Vasconcelos de Aragão / PB",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+272,Letícia da Rosa,36,"Trevo da Costa, 629
+Vila Califórnia
+07981806 Garcia de Minas / AM",cbmpb,Socorro de Emergências,detran,PRIMEIRA HABILITAÇÃO
+273,Larissa Gonçalves,23,"Alameda da Luz, 344
+Saudade
+61316-115 Machado / MA",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,RENOVAÇÃO DA CNH SIMPLES
+274,Marina Vieira,19,"Loteamento Abreu, 6
+Padre Eustáquio
+22169925 Costela / RN",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Perícia de Incêndio e Explosão
+275,Sr. Henry Gabriel Gonçalves,35,"Vale de Carvalho, 630
+Savassi
+89695995 Costa do Amparo / MS",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Socorro de Emergências
+276,Eduarda Ribeiro,25,"Chácara Benjamin Melo, 77
+Conjunto Capitão Eduardo
+20567-835 da Mata / ES",cbmpb,Socorro de Emergências,funade,Serviço de Informação ao Cidadão
+277,Dra. Ana Cecília Pires,45,"Setor Breno das Neves, 269
+Cdi Jatoba
+58569-460 Araújo / AP",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cinep,Concessão de Incentivo Locacional a Empresas
+278,Agatha Moreira,40,"Fazenda de Farias, 35
+Cachoeirinha
+43442078 Pacheco Alegre / RN",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,detran,RENOVAÇÃO DA CNH SIMPLES
+279,Theodoro Guerra,37,"Sítio Isis Caldeira, 25
+Brasil Industrial
+39217-464 Pereira do Galho / DF",detran,PRIMEIRA HABILITAÇÃO,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+280,Stella Jesus,38,"Largo Mariana Rocha, 386
+Granja De Freitas
+05821559 Farias de Moraes / RO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cinep,Concessão de Incentivo Fiscal a Empresas
+281,Srta. Maria Isis Silveira,21,"Feira de Viana, 55
+Bonfim
+89839-689 Pinto de Minas / AC",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+282,Oliver Abreu,45,"Via Casa Grande, 5
+Marieta 2ª Seção
+88140743 Camargo / ES",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+283,Vicente Azevedo,38,"Quadra de Garcia, 13
+São Cristóvão
+89691505 Viana de Costela / SE",detran,PRIMEIRA HABILITAÇÃO,cagepa,ATUALIZAÇÃO CADASTRAL
+284,Anthony Cirino,39,"Quadra Bruna Moura, 2
+Heliopolis
+84330-795 Garcia da Praia / ES",cbmpb,Perícia de Incêndio e Explosão,funade,Serviço de Informação ao Cidadão
+285,Renan Barros,27,"Condomínio Ribeiro, 45
+Vila Calafate
+78079-704 Barros da Prata / PI",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cinep,Concessão de Incentivo Locacional a Empresas
+286,Sr. Rafael Rodrigues,33,"Quadra Samuel Moura, 69
+Monsenhor Messias
+44573219 Duarte Grande / PB",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+287,Elisa Sá,18,"Passarela Daniela Vieira, 91
+São Jorge 3ª Seção
+24787419 Rios da Prata / MG",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,RENOVAÇÃO DA CNH SIMPLES
+288,Breno Santos,29,"Campo Rafaela Fogaça, 24
+João Alfredo
+82698-940 da Rocha da Prata / SC",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Serviço Especializado em Triagem e Diagnóstico
+289,Dr. Francisco da Cunha,38,"Sítio Nogueira, 2
+Vila Independencia 2ª Seção
+92875501 Pereira Verde / RO",funade,Serviço Especializado em Triagem e Diagnóstico,sudema,Licença por Adesão e Compromisso
+290,Ester Correia,36,"Favela Dias
+Caetano Furquim
+84817494 Pacheco do Amparo / RR",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+291,Diego Campos,41,"Estação Siqueira, 84
+Campo Alegre
+17062383 Teixeira de Melo / PA",cbmpb,Socorro de Emergências,funade,Serviço de Informação ao Cidadão
+292,Melina Rocha,31,"Viela Casa Grande, 11
+Vila Jardim São José
+24783-185 Borges / MG",detran,PRIMEIRA HABILITAÇÃO,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+293,Luiz Gustavo Novaes,35,"Setor Rodrigo Souza, 48
+Lourdes
+15808098 da Cruz / RO",detran,RENOVAÇÃO DA CNH SIMPLES,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+294,Arthur Gabriel Almeida,40,"Vale Erick Pinto, 63
+Nazare
+60704-809 Pimenta / CE",sudema,Licença de Operação para Pesquisa Mineral,sudema,Licença por Adesão e Compromisso
+295,Bella Gonçalves,32,"Trecho Carvalho, 614
+Buritis
+04356-359 Cirino da Mata / AC",cbmpb,Socorro de Emergências,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+296,Yago Siqueira,35,"Jardim Helena Pereira, 433
+Floramar
+90164255 Moreira de Macedo / MA",cinep,Concessão de Incentivo Locacional a Empresas,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+297,Dom Souza,41,"Vila de Cirino, 599
+São Pedro
+76532457 Costela de Novais / ES",cagepa,LIGAÇÃO DE ÁGUA,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+298,Yan Câmara,47,"Trevo Luiz Felipe Cavalcante, 31
+Vila São Francisco
+00996-962 Sales / AM",sudema,Licença de Operação para Pesquisa Mineral,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+299,Théo Siqueira,37,"Estação Carvalho, 45
+Dom Cabral
+56596-065 Rios / RJ",sudema,Licença de Operação para Pesquisa Mineral,cbmpb,Perícia de Incêndio e Explosão
+300,Dr. Isaac Alves,33,"Área Gustavo Cardoso, 62
+Maravilha
+54237438 Gonçalves de Nascimento / RN",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,sudema,Licença por Adesão e Compromisso
+301,Fernando Pimenta,35,"Morro de Silva, 8
+Álvaro Camargos
+70395345 Nascimento de Silva / RR",funade,Serviço de Informação ao Cidadão,sudema,Licença de Operação para Pesquisa Mineral
+302,Henry Gabriel Jesus,52,"Praça Ana Luiza Lopes, 56
+Grota
+11327104 Nogueira / DF",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cinep,Concessão de Incentivo Fiscal a Empresas
+303,Maya Câmara,27,"Praia de Vieira, 1
+Aparecida 7ª Seção
+07891-725 Fogaça / MS",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Perícia de Incêndio e Explosão
+304,Gael Henrique Pimenta,32,"Jardim de Sousa, 1
+Satelite
+54919597 Mendes / AP",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença por Adesão e Compromisso
+305,Gael Henrique Câmara,18,"Loteamento Joaquim Pereira, 8
+Jonas Veiga
+01869-326 Lopes / AP",sudema,Licença por Adesão e Compromisso,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+306,Amanda Oliveira,37,"Passarela de Siqueira, 2
+Padre Eustáquio
+08168-470 Andrade de Rodrigues / PE",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+307,Nicolas Mendes,29,"Praia Garcia, 18
+Inconfidência
+15318524 Oliveira de Siqueira / MS",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Serviço Especializado em Triagem e Diagnóstico
+308,João Miguel Ferreira,35,"Praça de Teixeira, 4
+Vila Barragem Santa Lúcia
+28423-984 Araújo da Prata / RO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+309,Gabrielly Lopes,29,"Quadra Aragão, 23
+João Pinheiro
+20615097 Ramos da Praia / MA",cagepa,ATUALIZAÇÃO CADASTRAL,detran,PRIMEIRA HABILITAÇÃO
+310,Dra. Heloísa Rezende,24,"Largo Ana Lívia Pastor, 738
+Vila Paraíso
+96649-088 Siqueira / RR",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cagepa,ATUALIZAÇÃO CADASTRAL
+311,Luigi da Costa,39,"Rua Ferreira, 947
+Tiradentes
+45010-402 Machado / RJ",cinep,Concessão de Incentivo Locacional a Empresas,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+312,Laís Souza,31,"Feira de Ribeiro, 71
+Vila Olhos D'água
+91353671 Martins de Moraes / RR",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Perícia de Incêndio e Explosão
+313,Sra. Ana Beatriz Vieira,24,"Feira Monteiro, 54
+Jardinópolis
+54427-973 Vargas / AM",detran,RENOVAÇÃO DA CNH SIMPLES,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+314,João Pedro Silva,33,"Passarela Andrade, 1
+Caiçara - Adelaide
+09524-197 Guerra / RN",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,LIGAÇÃO DE ÁGUA
+315,Anna Liz Cirino,30,"Esplanada Azevedo, 97
+Cidade Jardim
+89986047 Casa Grande / RJ",funade,Serviço Especializado em Triagem e Diagnóstico,cagepa,LIGAÇÃO DE ÁGUA
+316,Pietro Souza,25,"Pátio Carolina da Costa, 929
+Califórnia
+12610-401 Aparecida / RN",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+317,Luana Vasconcelos,37,"Trecho Caldeira, 68
+Cidade Nova
+54088148 da Rosa / MT",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,PRIMEIRA HABILITAÇÃO
+318,João Rocha,40,"Praça Costa, 36
+São Salvador
+74634323 Nogueira de Goiás / AM",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,Aquisição da Carteira de Passe Livre Intermunicipal
+319,Thomas Costela,26,"Rua Souza, 68
+Nazare
+06768662 Cassiano do Galho / SE",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,detran,PRIMEIRA HABILITAÇÃO
+320,Vinícius Araújo,40,"Pátio de Almeida, 77
+João Paulo Ii
+94259111 Almeida / RJ",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,sudema,Licença de Operação para Pesquisa Mineral
+321,Milena das Neves,29,"Rodovia Calebe Dias, 77
+Ventosa
+62487-650 Lopes / AP",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cinep,Concessão de Incentivo Locacional a Empresas
+322,Mariane Andrade,24,"Área Moura, 30
+Camponesa 1ª Seção
+78704923 Rodrigues / PR",cagepa,LIGAÇÃO DE ÁGUA,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+323,Breno da Rosa,26,"Praia da Cunha, 151
+Ermelinda
+07869-555 Cavalcante de Gonçalves / SC",cagepa,ATUALIZAÇÃO CADASTRAL,cagepa,LIGAÇÃO DE ÁGUA
+324,Davi da Mata,35,"Distrito Maysa Moura, 14
+Santa Terezinha
+64940315 da Conceição / GO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Serviço de Informação ao Cidadão
+325,Leandro Freitas,43,"Viela Aylla Cardoso
+Pompéia
+73486-052 Ribeiro / MS",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+326,Dra. Ana Vitória da Luz,36,"Colônia Daniela da Mata, 48
+Vila Piratininga
+49011-421 Albuquerque do Oeste / AC",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+327,Mathias da Mota,34,"Estação de Garcia, 3
+Satelite
+85619-920 Monteiro do Campo / PB",cinep,Concessão de Incentivo Fiscal a Empresas,funade,Serviço de Informação ao Cidadão
+328,Sra. Agatha Oliveira,45,"Fazenda Stephany Fernandes, 21
+Vila Fumec
+35199392 Cavalcante / AP",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Perícia de Incêndio e Explosão
+329,Dra. Gabriela Vasconcelos,29,"Recanto de Pereira, 270
+Vila Santa Rosa
+58592489 Pires de Costa / MS",funade,Serviço Especializado em Triagem e Diagnóstico,cagepa,ATUALIZAÇÃO CADASTRAL
+330,Juan da Cruz,39,"Rodovia Ribeiro, 10
+Betânia
+03238-393 Almeida / PR",detran,INDICAÇÃO DE CONDUTOR INFRATOR,detran,PRIMEIRA HABILITAÇÃO
+331,Clarice Macedo,30,"Quadra Rezende, 1
+Guarani
+54671-413 Cardoso da Prata / MA",cinep,Concessão de Incentivo Fiscal a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+332,Guilherme Nunes,26,"Morro de Cavalcanti
+Conjunto Celso Machado
+11477021 Sampaio / MS",cinep,Concessão de Incentivo Fiscal a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+333,Matteo Albuquerque,43,"Chácara Dom Pacheco
+Vila Copasa
+36201261 Costa da Mata / TO",cagepa,ATUALIZAÇÃO CADASTRAL,sudema,Licença por Adesão e Compromisso
+334,Mateus Casa Grande,34,"Pátio de Carvalho, 49
+Vila Aeroporto
+84224-997 Camargo / SP",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença por Adesão e Compromisso
+335,Letícia da Luz,31,"Vereda Rios, 32
+Marçola
+93572-068 Santos / TO",detran,RENOVAÇÃO DA CNH SIMPLES,cinep,Concessão de Incentivo Fiscal a Empresas
+336,Sra. Ana Sophia Monteiro,27,"Condomínio de Andrade, 303
+Horto Florestal
+45817-711 Monteiro / PR",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+337,Sr. Benicio Barros,18,"Rodovia de Cirino, 11
+São Jorge 1ª Seção
+62500139 Silveira Grande / GO",cinep,Concessão de Incentivo Fiscal a Empresas,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+338,Dr. José Garcia,47,"Pátio Heitor Brito, 6
+Flamengo
+49288379 da Luz / RN",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+339,Maysa Camargo,46,"Estrada de Fogaça, 72
+Conjunto Providencia
+55944085 Melo / PB",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Serviço Especializado em Triagem e Diagnóstico
+340,Maria Flor Vieira,35,"Rua Cavalcanti, 195
+Garças
+29841235 Cavalcante / RR",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,RENOVAÇÃO DA CNH SIMPLES
+341,Maria Sophia Duarte,42,"Parque de da Conceição
+Vila Antena
+10014607 Vasconcelos / PE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+342,Sr. Luiz Henrique Fonseca,25,"Praia Albuquerque, 32
+Serra Verde
+19974429 Jesus da Serra / MS",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+343,Sr. Leonardo Cavalcanti,31,"Viela Dom Guerra, 437
+Jardim Atlântico
+87657695 Machado / RJ",cinep,Concessão de Incentivo Fiscal a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+344,Ravi Casa Grande,56,"Residencial de da Costa, 42
+Santa Cruz
+94275-416 Rios de Araújo / TO",detran,PRIMEIRA HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+345,Davi Lucas Aparecida,50,"Travessa Nascimento, 78
+Lagoinha
+83508466 Cunha / RJ",cbmpb,Perícia de Incêndio e Explosão,cinep,Concessão de Incentivo Fiscal a Empresas
+346,Heloisa Porto,38,"Rodovia Porto, 71
+Universo
+50221-498 Porto Alegre / MA",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+347,Hellena da Costa,37,"Setor de Moreira, 9
+Vila Piratininga Venda Nova
+92588-151 Nogueira / SE",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cbmpb,Socorro de Emergências
+348,Maria Helena Santos,36,"Praia Ísis Cunha, 76
+Eymard
+79087605 Martins de Goiás / PA",sudema,Licença de Operação para Pesquisa Mineral,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+349,Maria Vitória Cunha,56,"Núcleo Marcela Costa, 20
+Nossa Senhora Da Aparecida
+82566370 Melo do Galho / BA",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Perícia de Incêndio e Explosão
+350,Isabelly Farias,40,"Campo Sophia Machado, 76
+Vila Nova Gameleira 2ª Seção
+27171002 Souza / AP",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,RENOVAÇÃO DA CNH SIMPLES
+351,Sr. Cauã Novaes,33,"Pátio Alícia Fonseca, 93
+São Gonçalo
+86206-546 Pereira de Pacheco / PE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+352,Srta. Daniela Freitas,33,"Vila de Pires, 12
+Vila Cloris
+27535804 Carvalho / MG",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Socorro de Emergências
+353,Ana Julia Sá,28,"Lagoa Raquel Dias, 687
+Túnel De Ibirité
+22058-808 da Mata do Campo / ES",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+354,Sr. André Martins,46,"Largo Andrade, 29
+Marilandia
+66547009 Freitas do Amparo / GO",cinep,Concessão de Incentivo Fiscal a Empresas,cagepa,LIGAÇÃO DE ÁGUA
+355,Alícia Lopes,21,"Largo Ana Sophia Viana, 768
+Nova Pampulha
+29907463 Mendonça de Borges / RN",cinep,Concessão de Incentivo Locacional a Empresas,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+356,Nathan Barbosa,28,"Conjunto Ribeiro, 9
+Brasil Industrial
+43371-618 Fonseca / DF",cbmpb,Perícia de Incêndio e Explosão,sudema,Licença de Operação para Pesquisa Mineral
+357,Allana Castro,39,"Viaduto Luiz Henrique Cardoso
+Conjunto Jardim Filadélfia
+84088-511 Lima de Novaes / RO",funade,Serviço de Informação ao Cidadão,cbmpb,Perícia de Incêndio e Explosão
+358,Giovanna Costela,44,"Via Otto Almeida, 40
+Vila São Gabriel
+63375-031 Cavalcanti / SP",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,PRIMEIRA HABILITAÇÃO
+359,Rafaela das Neves,55,"Largo Bianca Camargo, 28
+São Jorge 3ª Seção
+64729012 da Luz do Amparo / AC",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+360,Ana Júlia Sales,43,"Viela Mathias Pereira
+São Francisco Das Chagas
+90430089 Câmara / RO",cagepa,LIGAÇÃO DE ÁGUA,cinep,Concessão de Incentivo Fiscal a Empresas
+361,Maria Liz Casa Grande,21,"Área Aragão, 98
+Jardim Alvorada
+70017229 Santos / MA",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Perícia de Incêndio e Explosão
+362,Dra. Nina Pastor,41,"Área Bárbara Teixeira, 76
+Santa Helena
+52681117 Aragão / BA",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+363,Raquel Melo,24,"Esplanada de Novaes, 34
+Guarani
+23882-622 Cardoso do Sul / RN",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+364,Henry Gabriel Barros,23,"Vale Marques, 96
+São Benedito
+42211-848 Câmara / PR",cagepa,LIGAÇÃO DE ÁGUA,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+365,Cecilia Alves,32,"Feira de Moreira, 6
+Chácara Leonina
+81892-384 Castro / AC",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+366,Cecilia Moura,28,"Chácara Ana Beatriz Costela, 1
+Alta Tensão 2ª Seção
+44321066 Nogueira das Pedras / PB",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+367,Sara Lima,43,"Vereda de Lopes, 5
+Guaratã
+15318263 Pereira / RJ",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+368,Aylla Porto,48,"Distrito Laura Moraes
+Alta Tensão 2ª Seção
+52876401 Araújo da Mata / ES",funade,Serviço Especializado em Triagem e Diagnóstico,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+369,Diego Porto,18,"Feira Souza, 2
+Mangueiras
+60813-087 Gonçalves / ES",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+370,Antônio Monteiro,40,"Residencial de Pereira, 8
+Vila Pilar
+90782-955 Alves / CE",cagepa,ATUALIZAÇÃO CADASTRAL,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+371,Lucas Gabriel Almeida,22,"Distrito Davi Lucas Camargo
+Custodinha
+01174807 Almeida de Goiás / TO",cagepa,ATUALIZAÇÃO CADASTRAL,funade,Serviço de Informação ao Cidadão
+372,Diego Cirino,40,"Favela Isabelly da Cunha, 97
+Ouro Minas
+36440524 Souza da Mata / PA",cagepa,LIGAÇÃO DE ÁGUA,funade,Serviço Especializado em Triagem e Diagnóstico
+373,João Felipe Carvalho,38,"Parque Gustavo Henrique Nunes, 8
+Barreiro
+91102-852 Mendonça de Nogueira / RO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cinep,Concessão de Incentivo Fiscal a Empresas
+374,Dra. Ágatha Cunha,34,"Colônia Cecilia Moreira, 84
+Universo
+83666-432 da Costa / RJ",funade,Serviço de Informação ao Cidadão,cinep,Concessão de Incentivo Locacional a Empresas
+375,Sr. Diego Câmara,22,"Praça Aparecida, 802
+São Benedito
+35070-208 Barros / SE",sudema,Licença por Adesão e Compromisso,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+376,Cecília Casa Grande,32,"Jardim de Porto, 885
+Mineirão
+88916-322 Nunes do Campo / RS",sudema,Licença de Operação para Pesquisa Mineral,sudema,Licença por Adesão e Compromisso
+377,Maria Júlia Ribeiro,28,"Jardim de Cunha, 16
+Vila Nova Gameleira 2ª Seção
+96209337 Carvalho / SP",cbmpb,Perícia de Incêndio e Explosão,cagepa,ATUALIZAÇÃO CADASTRAL
+378,Emanuelly Duarte,37,"Praia Machado, 23
+Santo Agostinho
+28159249 Vieira / MG",cbmpb,Perícia de Incêndio e Explosão,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+379,Otávio Andrade,23,"Condomínio Abreu, 74
+Prado
+87659344 Aparecida da Praia / RR",cinep,Concessão de Incentivo Fiscal a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+380,Sr. Kevin Martins,24,"Setor Asafe da Luz, 44
+Novo Das Industrias
+37811-809 Fernandes do Sul / AP",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+381,Dr. Otávio Cassiano,54,"Trevo de Araújo, 41
+Unidas
+27322-616 Barros de Minas / MG",sudema,Licença de Operação para Pesquisa Mineral,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+382,Nicole Novais,26,"Morro de Machado, 84
+Bairro Das Indústrias Ii
+43783572 Barbosa do Campo / PA",cagepa,ATUALIZAÇÃO CADASTRAL,cagepa,LIGAÇÃO DE ÁGUA
+383,Maria Clara Marques,40,"Condomínio de Pastor, 7
+Maria Helena
+80807-368 Teixeira / AL",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,RENOVAÇÃO DA CNH SIMPLES
+384,Ryan Farias,25,"Rua Melo, 4
+Beira Linha
+81881-185 Costela da Prata / MS",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,LIGAÇÃO DE ÁGUA
+385,Yan Costela,35,"Jardim Isadora da Rocha, 57
+Lorena
+19502239 Campos / RS",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,ATUALIZAÇÃO CADASTRAL
+386,Dr. Luigi Aparecida,45,"Colônia de Monteiro, 33
+Mangueiras
+57031503 Moura / MS",sudema,Licença de Operação para Pesquisa Mineral,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+387,Srta. Luana da Paz,43,"Passarela Montenegro, 22
+São Pedro
+25174-797 Almeida de Minas / AM",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+388,Marcela Aragão,27,"Sítio de Correia, 903
+Granja De Freitas
+59954-716 Monteiro / MT",funade,Serviço Especializado em Triagem e Diagnóstico,detran,PRIMEIRA HABILITAÇÃO
+389,Liam Porto,35,"Chácara Alves, 62
+Vila Rica
+56931-098 Vargas / AL",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+390,Pedro Cavalcanti,28,"Via Jesus, 95
+Jardim Montanhês
+05022960 Marques / MT",detran,RENOVAÇÃO DA CNH SIMPLES,cinep,Concessão de Incentivo Locacional a Empresas
+391,Marcela Cassiano,18,"Aeroporto Mariah Pires, 39
+Jonas Veiga
+55061-969 Araújo / PE",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+392,Sr. Arthur Novais,44,"Setor de Sales, 22
+Marçola
+52818214 das Neves / DF",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cbmpb,Socorro de Emergências
+393,Sophie Camargo,37,"Distrito Vinicius Silva, 40
+Coração Eucarístico
+89121110 Garcia Paulista / RJ",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+394,Lucas Silva,44,"Chácara da Costa, 88
+Caetano Furquim
+42871533 da Mata / PR",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+395,Stephany Borges,49,"Feira Araújo, 951
+Vila Atila De Paiva
+80110503 da Cunha de Jesus / PB",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cbmpb,Perícia de Incêndio e Explosão
+396,Luara Nascimento,22,"Praia de Silveira, 65
+Vila Paris
+13545369 Moraes / AL",funade,Serviço Especializado em Triagem e Diagnóstico,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+397,Heloísa da Luz,18,"Sítio de Duarte, 97
+Conjunto Jardim Filadélfia
+22915659 Pastor / RJ",cinep,Concessão de Incentivo Locacional a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+398,Luiz Otávio Andrade,22,"Residencial de Silva, 61
+Nazare
+13475-379 da Costa / RO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+399,Ágatha Barros,24,"Chácara de Teixeira, 6
+Lagoa
+01823164 Martins da Prata / DF",sudema,Licença de Operação para Pesquisa Mineral,cbmpb,Socorro de Emergências
+400,Gael da Conceição,31,"Quadra Câmara, 98
+Vila Petropolis
+65181-067 Campos de Aragão / PR",cbmpb,Socorro de Emergências,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+401,Lara Gonçalves,45,"Quadra Amanda Casa Grande, 8
+Santa Lúcia
+11204-653 Casa Grande do Amparo / SE",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+402,Fernanda Novais,41,"Ladeira Aparecida, 22
+Mirante
+53064545 Souza / PI",funade,Serviço de Informação ao Cidadão,cinep,Concessão de Incentivo Fiscal a Empresas
+403,Rafael Cardoso,20,"Área Vitória Lima, 98
+Nossa Senhora Aparecida
+02632-128 da Luz / AL",sudema,Licença de Operação para Pesquisa Mineral,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+404,Liam Jesus,36,"Condomínio Enrico Pacheco, 86
+Jardim América
+41132585 Ferreira de Minas / MS",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,LIGAÇÃO DE ÁGUA
+405,Dr. Asafe Aragão,40,"Morro João Felipe Novais, 63
+Ouro Preto
+53306-501 Ramos de Mendes / DF",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+406,Augusto Correia,45,"Lago Ana Júlia Lima, 40
+Antonio Ribeiro De Abreu 1ª Seção
+33809-011 Nogueira do Oeste / AP",cinep,Concessão de Incentivo Locacional a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+407,Anthony Gabriel Ribeiro,32,"Via Manuella da Conceição, 27
+Vila São Dimas
+73353905 Costa / ES",detran,PRIMEIRA HABILITAÇÃO,cagepa,ATUALIZAÇÃO CADASTRAL
+408,Kamilly Dias,47,"Vale Macedo, 33
+Dona Clara
+74423650 Costa dos Dourados / RR",sudema,Licença por Adesão e Compromisso,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+409,Maria Helena Cassiano,18,"Lago de Souza, 79
+Vila São João Batista
+48703111 Mendonça de Cunha / PA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+410,Gustavo Campos,46,"Setor Correia, 2
+Minas Brasil
+65172-034 Jesus / SE",sudema,Licença de Operação para Pesquisa Mineral,cbmpb,Socorro de Emergências
+411,Nicolas Silva,38,"Largo Teixeira, 129
+Vila Atila De Paiva
+76917-137 da Luz de Vasconcelos / BA",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+412,Eloá Porto,49,"Trevo Pimenta
+Granja Werneck
+75918-038 Araújo / RN",cbmpb,Perícia de Incêndio e Explosão,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+413,Gabriel da Mata,39,"Viela Oliveira, 17
+Varzea Da Palma
+54543-286 Cavalcanti / TO",cinep,Concessão de Incentivo Locacional a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+414,Dr. Benício Duarte,29,"Vale de Gomes, 56
+Vila Mantiqueira
+34853307 Freitas / MS",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,detran,PRIMEIRA HABILITAÇÃO
+415,Ana Sophia da Cunha,43,"Loteamento Lunna Moraes
+Maravilha
+18571-786 Sampaio / MG",funade,Aquisição da Carteira de Passe Livre Intermunicipal,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+416,Alexandre Mendes,34,"Chácara Montenegro, 83
+Santa Lúcia
+15533540 Vieira / RO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Serviço Especializado em Triagem e Diagnóstico
+417,Ana Beatriz Guerra,41,"Chácara Isabela Porto, 125
+Cidade Nova
+11571-512 Viana de Borges / ES",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,ATUALIZAÇÃO CADASTRAL
+418,Ísis Costela,39,"Praia de Barbosa, 15
+Varzea Da Palma
+63225090 da Mata do Campo / PI",detran,PRIMEIRA HABILITAÇÃO,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+419,Maria Melo,18,"Condomínio Diogo Vargas, 671
+Outro
+37958807 Martins / RS",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+420,André Mendonça,66,"Área Heloisa Pacheco, 8
+Vila Paquetá
+75596-959 Sales / BA",funade,Serviço de Informação ao Cidadão,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+421,Sr. Igor Mendes,35,"Núcleo Mirella Farias, 4
+Vila Califórnia
+09327132 Novais do Amparo / MT",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença de Operação para Pesquisa Mineral
+422,Dr. Fernando Camargo,30,"Vila Mariah Pires, 697
+Boa Esperança
+61632159 Rodrigues do Galho / DF",cbmpb,Perícia de Incêndio e Explosão,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+423,Maria Flor Caldeira,53,"Travessa Mathias Leão, 861
+Camponesa 2ª Seção
+66185844 Almeida / PR",funade,Serviço de Informação ao Cidadão,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+424,Ravi Silveira,50,"Distrito de Porto, 24
+Alto Vera Cruz
+10867-321 Rodrigues / SC",cbmpb,Perícia de Incêndio e Explosão,cinep,Concessão de Incentivo Fiscal a Empresas
+425,Alexia Silva,25,"Rua Novais, 61
+Jardim Guanabara
+52702664 Rezende / MT",cbmpb,Socorro de Emergências,cagepa,ATUALIZAÇÃO CADASTRAL
+426,Camila Silveira,18,"Núcleo de Barbosa, 25
+Lagoinha
+86761329 Sales / SE",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+427,Dr. Luiz Fernando Nascimento,45,"Trevo Fogaça, 5
+Maravilha
+97094-630 Siqueira de Fogaça / BA",sudema,Licença de Operação para Pesquisa Mineral,funade,Serviço Especializado em Triagem e Diagnóstico
+428,Thomas Azevedo,36,"Praia Ana Caldeira, 504
+Vista Alegre
+32365430 Leão de Sampaio / PI",sudema,Licença por Adesão e Compromisso,funade,Serviço de Informação ao Cidadão
+429,Pietra Pinto,36,"Parque de Machado, 97
+Piraja
+72970982 Porto / SP",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Socorro de Emergências
+430,Maria Flor Carvalho,33,"Lagoa Carlos Eduardo Mendes, 14
+Primeiro De Maio
+54660-951 Nunes / AL",cinep,Concessão de Incentivo Fiscal a Empresas,cagepa,LIGAÇÃO DE ÁGUA
+431,Vinicius Jesus,50,"Travessa de Aparecida
+Marieta 1ª Seção
+07185928 da Cruz de Dias / TO",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+432,Catarina Oliveira,47,"Área Vitor Hugo Santos, 6
+Vila São Paulo
+55847-207 Garcia / BA",funade,Aquisição da Carteira de Passe Livre Intermunicipal,funade,Serviço de Informação ao Cidadão
+433,Stephany Guerra,26,"Loteamento Bruno Moraes, 50
+Pindorama
+26768177 Macedo de Lima / SP",detran,RENOVAÇÃO DA CNH SIMPLES,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+434,Sra. Clara Cardoso,45,"Loteamento Arthur Fonseca
+Tres Marias
+29509118 Ferreira de Pires / AM",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+435,Daniela Ribeiro,31,"Vereda Lívia Rodrigues, 11
+Vila Paris
+94604-787 Pimenta / MG",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cbmpb,Socorro de Emergências
+436,Gabriel Silveira,31,"Lago Sales, 34
+Vila Boa Vista
+61087-061 Novaes de Vasconcelos / SC",detran,PRIMEIRA HABILITAÇÃO,sudema,Licença de Operação para Pesquisa Mineral
+437,Dra. Melina Macedo,49,"Vereda da Rosa, 53
+Aeroporto
+08643683 Azevedo / PR",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+438,Sr. Guilherme Martins,34,"Colônia de Carvalho, 2
+Vila Tirol
+69260-578 Macedo / ES",cinep,Concessão de Incentivo Locacional a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+439,Sra. Ana Lívia Mendonça,31,"Lagoa Breno Santos, 29
+Vila Independencia 2ª Seção
+36381696 Melo de Ribeiro / MG",cagepa,LIGAÇÃO DE ÁGUA,funade,Serviço de Informação ao Cidadão
+440,Sr. Rafael Pacheco,42,"Trevo Pastor, 76
+Vila Piratininga
+41970-930 Leão / PB",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,sudema,Licença de Operação para Pesquisa Mineral
+441,Dr. José Pedro Duarte,40,"Lago Henry Gabriel Alves, 56
+Conjunto São Francisco De Assis
+36973-590 Albuquerque do Campo / TO",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+442,Emanuella da Conceição,36,"Rua de Viana, 29
+Parque São José
+59887-205 Silva / AM",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cagepa,ATUALIZAÇÃO CADASTRAL
+443,Antony Siqueira,34,"Morro Guilherme Cavalcante, 34
+Marajó
+84274012 Montenegro / GO",cagepa,LIGAÇÃO DE ÁGUA,cbmpb,Socorro de Emergências
+444,Guilherme Silva,28,"Chácara Aurora da Rosa, 1
+Cardoso
+24094-686 Souza / PE",detran,PRIMEIRA HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+445,Gustavo Vieira,25,"Morro Apollo Cardoso, 95
+Morro Dos Macacos
+77905275 Martins de Alves / RO",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,Serviço Especializado em Triagem e Diagnóstico
+446,Eduardo Cardoso,26,"Lago Emilly Guerra, 7
+Madri
+81617-898 Moura / RR",sudema,Licença de Operação para Pesquisa Mineral,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+447,Maria Laura Porto,47,"Via de das Neves, 498
+Minas Brasil
+81610546 Cavalcanti / SP",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+448,Dr. Bernardo Caldeira,35,"Pátio de Cirino, 65
+Belvedere
+73386-343 Novais / CE",cinep,Concessão de Incentivo Locacional a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+449,Rebeca Aparecida,36,"Área de Barros, 6
+Alpes
+23798987 Andrade do Oeste / ES",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+450,Cauã Cirino,23,"Colônia Cavalcanti, 558
+Maria Helena
+88414-927 Vargas / SC",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Serviço de Informação ao Cidadão
+451,Dr. Levi Novais,53,"Estação Aurora Pereira, 76
+Santana Do Cafezal
+99816-527 Freitas Alegre / RN",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+452,Levi Peixoto,44,"Sítio Pedro Lucas Oliveira, 27
+Pirineus
+87653184 Garcia / RS",cbmpb,Perícia de Incêndio e Explosão,cinep,Concessão de Incentivo Fiscal a Empresas
+453,Sr. Miguel Alves,34,"Campo Maria Vitória Costa, 17
+Sagrada Família
+84013-962 Jesus / RJ",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cbmpb,Perícia de Incêndio e Explosão
+454,Henry Ribeiro,48,"Trecho Peixoto, 9
+São Jorge 1ª Seção
+32220-254 Oliveira do Oeste / TO",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+455,Olívia Vargas,18,"Residencial de Aragão, 86
+João Paulo Ii
+41655-062 das Neves / SC",detran,PRIMEIRA HABILITAÇÃO,funade,Serviço de Informação ao Cidadão
+456,Antonella Barbosa,34,"Aeroporto Pacheco
+Vila Mantiqueira
+37420-767 Andrade do Sul / MT",cinep,Concessão de Incentivo Fiscal a Empresas,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+457,Igor Siqueira,36,"Campo de Costa, 6
+Vila Paquetá
+53565725 Barbosa Grande / SP",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,Serviço Especializado em Triagem e Diagnóstico
+458,Gael Viana,44,"Lago Rodrigues, 2
+Colégio Batista
+29400-045 Martins / DF",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+459,Allana Andrade,25,"Alameda Correia, 16
+Salgado Filho
+32644112 Souza de Goiás / RJ",funade,Serviço Especializado em Triagem e Diagnóstico,detran,PRIMEIRA HABILITAÇÃO
+460,Mathias Lima,18,"Vereda Pacheco, 8
+Gutierrez
+08578201 Sá do Oeste / RS",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,sudema,Licença por Adesão e Compromisso
+461,Bento Siqueira,49,"Quadra Luiz Fernando Porto
+São Pedro
+26267613 Melo / RO",cbmpb,Perícia de Incêndio e Explosão,cinep,Concessão de Incentivo Fiscal a Empresas
+462,Sr. Ravy Costa,37,"Viaduto Nogueira, 57
+Etelvina Carneiro
+33505-423 Pereira de Goiás / TO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+463,Benjamim Mendes,60,"Esplanada de Pinto, 85
+Vila Suzana Primeira Seção
+13421-255 da Rosa Grande / RR",cinep,Concessão de Incentivo Fiscal a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+464,Lívia Cunha,33,"Distrito de Dias, 39
+Minaslandia
+65135-864 da Rosa / SC",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Locacional a Empresas
+465,Lívia Souza,36,"Rua Fernandes, 4
+Salgado Filho
+56365-407 Vasconcelos / GO",cbmpb,Socorro de Emergências,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+466,André Guerra,35,"Aeroporto Vargas, 556
+Ápia
+31354-434 Vargas de Minas / PB",cinep,Concessão de Incentivo Locacional a Empresas,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+467,Luna Rocha,35,"Sítio Freitas, 78
+Fernão Dias
+56032113 Lopes das Flores / PA",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+468,Sr. Otto Nascimento,21,"Distrito de Correia, 660
+Vila Betânia
+86418-062 Teixeira / RN",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Serviço Especializado em Triagem e Diagnóstico
+469,Daniela Marques,26,"Vereda de Correia, 83
+Grotinha
+59617916 Nogueira / PA",funade,Serviço Especializado em Triagem e Diagnóstico,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+470,Ana Lívia Castro,27,"Residencial Almeida, 6
+Vila São João Batista
+96057113 Pastor das Pedras / RS",cinep,Concessão de Incentivo Fiscal a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+471,Leonardo Costela,28,"Condomínio Cunha
+Vila Ecológica
+50320898 Sampaio de Minas / AC",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,sudema,Licença de Operação para Pesquisa Mineral
+472,Vinícius Moraes,38,"Praia Emanuella da Conceição, 1
+Jaraguá
+66442-854 Cunha / RO",cinep,Concessão de Incentivo Locacional a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+473,Ravi Ribeiro,45,"Rodovia de Ramos, 58
+Pindorama
+81619-340 Teixeira das Pedras / RS",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cinep,Concessão de Incentivo Locacional a Empresas
+474,Liz Moreira,29,"Rodovia de Ramos, 46
+Goiania
+39908937 Dias / CE",detran,PRIMEIRA HABILITAÇÃO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+475,Sra. Emilly Alves,26,"Estrada de Nogueira, 32
+Vila Santa Rosa
+27801294 Rodrigues / PE",cinep,Concessão de Incentivo Locacional a Empresas,funade,Serviço de Informação ao Cidadão
+476,Sra. Nina Pimenta,32,"Passarela Ana Carolina Cavalcanti
+Alto Dos Pinheiros
+09852-479 Borges / CE",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,LIGAÇÃO DE ÁGUA
+477,Maria Alice Mendes,29,"Lago Macedo, 65
+Maria Tereza
+64434065 Ribeiro / PE",sudema,Licença de Operação para Pesquisa Mineral,detran,RENOVAÇÃO DA CNH SIMPLES
+478,Eloá Marques,39,"Conjunto Diego Souza, 18
+Vista Alegre
+63147801 Aparecida dos Dourados / ES",funade,Serviço de Informação ao Cidadão,cbmpb,Perícia de Incêndio e Explosão
+479,Henrique da Rosa,19,"Ladeira Danilo Pacheco, 13
+João Pinheiro
+97359-946 Novais / PB",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+480,Sr. Leonardo Cirino,43,"Lago Cauã Fernandes, 882
+Concórdia
+64515-891 Aparecida de Minas / RJ",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cinep,Concessão de Incentivo Fiscal a Empresas
+481,Enrico Pacheco,38,"Condomínio Carolina Cassiano, 80
+São Francisco
+93226-291 da Cruz do Campo / RS",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,LIGAÇÃO DE ÁGUA
+482,Eduarda Dias,47,"Viela Henry Ribeiro, 951
+Vila Madre Gertrudes 3ª Seção
+28026331 Fogaça / SE",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+483,Isabella Barros,20,"Praia Souza
+Olaria
+46373857 Mendes dos Dourados / AC",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Socorro de Emergências
+484,Lívia Nunes,24,"Feira Dias, 68
+Barão Homem De Melo 1ª Seção
+41590-859 da Paz do Galho / AL",cinep,Concessão de Incentivo Locacional a Empresas,cinep,Concessão de Incentivo Fiscal a Empresas
+485,Rodrigo Garcia,18,"Largo Ana Julia Mendonça
+Santa Cecilia
+46310-283 Mendonça / AP",funade,Aquisição da Carteira de Passe Livre Intermunicipal,detran,PRIMEIRA HABILITAÇÃO
+486,Camila Caldeira,40,"Rodovia de Rios, 54
+Vila Santo Antônio Barroquinha
+99343273 Porto / PR",cagepa,LIGAÇÃO DE ÁGUA,cinep,Concessão de Incentivo Fiscal a Empresas
+487,Maysa Leão,41,"Feira Costela, 777
+Marieta 3ª Seção
+85507-260 Camargo da Serra / RN",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,LIGAÇÃO DE ÁGUA
+488,Dr. Ravi Lucca Costela,27,"Feira Maria Sophia da Cunha, 45
+Unidas
+86227-998 Peixoto / AC",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,RENOVAÇÃO DA CNH SIMPLES
+489,Yan Marques,43,"Quadra Pinto, 3
+Vila Aeroporto
+29578-188 Alves / PA",funade,Serviço de Informação ao Cidadão,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+490,Maria Ramos,46,"Pátio Lucca Gonçalves, 6
+Baleia
+34430150 Leão de Brito / AM",sudema,Licença por Adesão e Compromisso,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+491,Pedro Lucas Rocha,38,"Estação de Cirino, 4
+Novo Das Industrias
+88854-914 Almeida / AL",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Serviço de Informação ao Cidadão
+492,Alana Aparecida,24,"Trecho de Campos, 30
+Vila Sesc
+03800987 Costa de Minas / SP",funade,Serviço Especializado em Triagem e Diagnóstico,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+493,Thales Novais,36,"Travessa de Porto, 98
+Colégio Batista
+64082-689 Porto de Goiás / MG",sudema,Licença de Operação para Pesquisa Mineral,detran,PRIMEIRA HABILITAÇÃO
+494,Kamilly Gonçalves,18,"Setor da Mata, 93
+Vila Piratininga Venda Nova
+30924925 da Cunha de Jesus / PR",funade,Serviço de Informação ao Cidadão,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+495,Sara Sales,59,"Trevo Leandro Andrade, 9
+Conjunto Celso Machado
+10290629 Ferreira / TO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+496,Emilly Mendonça,35,"Jardim João Miguel Pacheco, 13
+Esplanada
+78513-604 Mendonça Paulista / RR",sudema,Licença por Adesão e Compromisso,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+497,Maria Vitória Pastor,24,"Viaduto José Pedro Fernandes
+Atila De Paiva
+82845-460 Pires Paulista / SE",cbmpb,Perícia de Incêndio e Explosão,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+498,Laura Rodrigues,30,"Condomínio Abreu, 11
+Alpes
+53128-108 Sá de Rodrigues / PI",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,PRIMEIRA HABILITAÇÃO
+499,Amanda Andrade,35,"Feira de Viana, 57
+Etelvina Carneiro
+74836-077 Pimenta / AM",sudema,Licença por Adesão e Compromisso,detran,RENOVAÇÃO DA CNH SIMPLES
+500,Leonardo Vargas,39,"Rua Aurora Almeida, 22
+Glória
+14413-756 Camargo / PA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+501,Maria Luísa Gomes,40,"Praia de Ramos, 813
+Leonina
+59637023 Costa do Oeste / PA",cinep,Concessão de Incentivo Locacional a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+502,Dr. Enzo Gabriel Moura,46,"Vereda Dias, 690
+Mirtes
+72630342 das Neves / PR",sudema,Licença por Adesão e Compromisso,detran,RENOVAÇÃO DA CNH SIMPLES
+503,Ana Julia Pacheco,29,"Trevo de Martins, 42
+Vila Betânia
+64485-101 Nogueira / ES",detran,PRIMEIRA HABILITAÇÃO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+504,Alice Lima,48,"Colônia Bárbara Guerra, 16
+Fernão Dias
+44426347 Farias de Sá / RO",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+505,Antonella Ferreira,56,"Núcleo Albuquerque, 513
+Lagoa
+24627277 Campos de Dias / RJ",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cbmpb,Perícia de Incêndio e Explosão
+506,Dr. Ravi Almeida,38,"Lago de Moura, 44
+Vale Do Jatoba
+38198-168 Lima de Goiás / AM",funade,Aquisição da Carteira de Passe Livre Intermunicipal,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+507,Maria Luísa Rocha,18,"Aeroporto Lucas Gabriel da Paz, 50
+Biquinhas
+98438-613 Pimenta Alegre / BA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+508,Vitor Pacheco,40,"Rodovia de Vargas, 84
+Vila Antena
+12275-882 Cardoso / PE",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+509,Gabrielly Pinto,37,"Jardim Murilo da Luz, 59
+Sagrada Família
+25225-082 Rios / PA",sudema,Licença por Adesão e Compromisso,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+510,Dom Cassiano,58,"Fazenda de Gomes
+Grajaú
+83834-457 Novais Paulista / RS",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+511,Vinicius Moura,40,"Fazenda Pacheco
+Zilah Sposito
+98378765 Sousa de Goiás / MG",sudema,Licença por Adesão e Compromisso,cagepa,ATUALIZAÇÃO CADASTRAL
+512,Maria Cecília Campos,32,"Área de da Costa, 748
+Vila Antena Montanhês
+66003-403 Rodrigues da Praia / RS",cagepa,ATUALIZAÇÃO CADASTRAL,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+513,Maria Flor das Neves,39,"Largo de da Cruz, 81
+Marieta 2ª Seção
+17320-652 Guerra / RR",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+514,Ian Santos,34,"Viela da Cunha
+Vale Do Jatoba
+10932949 Guerra de Souza / RS",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+515,Helena Brito,36,"Loteamento Sampaio, 2
+Céu Azul
+26691508 Sá / RR",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença por Adesão e Compromisso
+516,Josué Gomes,37,"Campo de Silva, 95
+Santo Agostinho
+27918115 Novais / RJ",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,LIGAÇÃO DE ÁGUA
+517,Sophia Martins,30,"Vereda Oliveira, 66
+Nova Gameleira
+24329-712 Moraes / PI",cinep,Concessão de Incentivo Locacional a Empresas,funade,Serviço de Informação ao Cidadão
+518,Ravi Lucca Rodrigues,37,"Distrito Matheus Abreu, 50
+Vila Mangueiras
+19887-860 Mendonça / PR",detran,PRIMEIRA HABILITAÇÃO,detran,RENOVAÇÃO DA CNH SIMPLES
+519,Gabriela Pereira,44,"Distrito de Freitas
+Unidas
+12616391 Ferreira da Serra / RO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+520,Sra. Alexia Costela,36,"Chácara Léo Peixoto
+Tiradentes
+22166439 Barros da Mata / RO",sudema,Licença de Operação para Pesquisa Mineral,cbmpb,Socorro de Emergências
+521,Lucas Gabriel Cirino,31,"Condomínio Ana Júlia Câmara, 85
+Santa Inês
+06423738 da Paz do Oeste / RS",cbmpb,Perícia de Incêndio e Explosão,cinep,Concessão de Incentivo Fiscal a Empresas
+522,Luan Sampaio,43,"Núcleo de Castro, 5
+Vila Inestan
+78243-667 Pereira das Flores / PB",cinep,Concessão de Incentivo Locacional a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+523,Nina Alves,34,"Vereda Luiz Henrique Costela, 38
+Anchieta
+09906-994 Pacheco Grande / RN",cinep,Concessão de Incentivo Locacional a Empresas,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+524,Juliana Gonçalves,29,"Condomínio de da Costa, 2
+Conjunto Novo Dom Bosco
+53082-118 Lopes / RJ",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+525,Maysa Freitas,50,"Recanto Nunes, 247
+Havaí
+38726539 Garcia / BA",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+526,Manuella Moura,37,"Condomínio Casa Grande, 1
+Sagrada Família
+54748823 Sousa / RJ",detran,PRIMEIRA HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+527,Lívia Caldeira,20,"Esplanada Correia, 92
+Grota
+12578920 Rezende / SC",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cagepa,ATUALIZAÇÃO CADASTRAL
+528,Cauã Casa Grande,50,"Estação Cavalcante, 82
+Cabana Do Pai Tomás
+14368-493 Rodrigues Verde / PR",cbmpb,Perícia de Incêndio e Explosão,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+529,Bryan Pereira,35,"Via Macedo, 97
+Vila São Francisco
+01009834 Borges / PI",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,PRIMEIRA HABILITAÇÃO
+530,Breno da Cunha,20,"Quadra Martins, 33
+Primeiro De Maio
+62772249 Barbosa / MG",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+531,Vinícius Araújo,36,"Viela de Cavalcanti, 94
+Vila Do Pombal
+59198-298 Pires do Campo / TO",cagepa,ATUALIZAÇÃO CADASTRAL,detran,PRIMEIRA HABILITAÇÃO
+532,Luiz Miguel Lopes,37,"Lagoa da Conceição
+Vila União
+90895-074 Silva / RS",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+533,Marcos Vinicius Vargas,55,"Favela Luiza Vasconcelos, 92
+Vila Da Luz
+89700-857 Ferreira / AP",funade,Aquisição da Carteira de Passe Livre Intermunicipal,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+534,Maria Sophia Barros,34,"Parque Bento Cavalcanti
+Dom Bosco
+37292159 Rios das Flores / PR",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+535,Ana Beatriz Vargas,34,"Núcleo de Ribeiro, 148
+Vila Paquetá
+10256583 Garcia / AM",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,RENOVAÇÃO DA CNH SIMPLES
+536,Igor Pimenta,31,"Jardim de Fogaça, 446
+Barão Homem De Melo 2ª Seção
+64736044 Almeida do Oeste / PR",cagepa,ATUALIZAÇÃO CADASTRAL,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+537,Aylla Fonseca,18,"Alameda Dom Camargo, 232
+Camargos
+12991-651 Câmara / CE",cagepa,ATUALIZAÇÃO CADASTRAL,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+538,Sr. Murilo Nascimento,32,"Parque Pedro Miguel Cirino
+Maria Virgínia
+25916-189 Casa Grande / MS",sudema,Licença por Adesão e Compromisso,funade,Serviço Especializado em Triagem e Diagnóstico
+539,Rafaela Carvalho,23,"Núcleo de Barros, 9
+Cidade Jardim Taquaril
+05436853 Vasconcelos / RR",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Serviço de Informação ao Cidadão
+540,Augusto Azevedo,50,"Área de Sampaio, 48
+São Salvador
+99138-712 Ferreira de Pereira / PR",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,Aquisição da Carteira de Passe Livre Intermunicipal
+541,Rafaela Vieira,25,"Campo Aylla Pastor, 4
+Nova Pampulha
+32938-442 Pimenta / PA",cbmpb,Socorro de Emergências,cinep,Concessão de Incentivo Locacional a Empresas
+542,Gabriela Brito,26,"Conjunto Yan Cavalcanti, 13
+Castanheira
+96603598 Rios / MS",cagepa,ATUALIZAÇÃO CADASTRAL,funade,Serviço Especializado em Triagem e Diagnóstico
+543,Mathias Silva,29,"Alameda Henrique Araújo, 320
+União
+71677288 Silveira do Campo / GO",cbmpb,Perícia de Incêndio e Explosão,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+544,Vitor Gabriel Moura,18,"Largo Dias, 24
+Pindorama
+79328-577 Garcia de Garcia / AL",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+545,Clara da Mota,51,"Lago Daniel Novais, 56
+Santo Agostinho
+59829-284 Camargo de Goiás / MG",cinep,Concessão de Incentivo Locacional a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+546,Melissa Pinto,41,"Área Luan Cassiano, 53
+Lagoa
+50800-731 Duarte / RJ",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,ATUALIZAÇÃO CADASTRAL
+547,Maria Luísa Ribeiro,30,"Quadra Murilo Guerra, 183
+Vila São Gabriel
+25692213 Cirino do Galho / SP",detran,RENOVAÇÃO DA CNH SIMPLES,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+548,Maria Laura Novaes,32,"Fazenda de Montenegro, 43
+Corumbiara
+59462-773 Freitas / PA",cinep,Concessão de Incentivo Fiscal a Empresas,funade,Serviço de Informação ao Cidadão
+549,Maria Flor da Paz,29,"Distrito Carvalho, 6
+Lorena
+24816005 Pimenta / SE",sudema,Licença de Operação para Pesquisa Mineral,cbmpb,Perícia de Incêndio e Explosão
+550,Dra. Maria Luiza Nunes,18,"Vale de Garcia, 25
+Esplanada
+53037-565 Cirino Alegre / GO",funade,Serviço de Informação ao Cidadão,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+551,Vitor Hugo Jesus,42,"Alameda Rafael Siqueira, 70
+Diamante
+55293-138 Rocha / PB",sudema,Licença por Adesão e Compromisso,cbmpb,Socorro de Emergências
+552,Sr. Benjamim Cavalcante,18,"Sítio de Cassiano, 54
+Pousada Santo Antonio
+74452-307 Novaes / PR",cbmpb,Perícia de Incêndio e Explosão,cagepa,LIGAÇÃO DE ÁGUA
+553,Camila Aragão,51,"Rua Melo, 92
+São Lucas
+65237953 das Neves / MT",funade,Serviço de Informação ao Cidadão,cagepa,LIGAÇÃO DE ÁGUA
+554,Otávio Vargas,29,"Jardim de Castro, 73
+Boa Viagem
+90945584 Ramos do Norte / DF",detran,PRIMEIRA HABILITAÇÃO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+555,Kamilly Nascimento,25,"Estação de Lima, 92
+Esplanada
+13071691 Correia / SE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,Serviço Especializado em Triagem e Diagnóstico
+556,Gustavo Cirino,41,"Jardim de Martins, 646
+Vila Antena
+52242721 Pinto da Praia / AM",cagepa,LIGAÇÃO DE ÁGUA,cbmpb,Perícia de Incêndio e Explosão
+557,Raul Pires,31,"Pátio de Santos
+Bonsucesso
+33334853 da Costa do Norte / PA",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+558,Bruna Aparecida,51,"Esplanada de Pires, 8
+Vila São Francisco
+38705790 da Mota / MS",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+559,Maria Fernanda Campos,40,"Recanto de Fonseca, 912
+Rio Branco
+75707363 da Costa da Praia / RN",cagepa,ATUALIZAÇÃO CADASTRAL,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+560,Bernardo Campos,38,"Avenida Larissa da Cunha, 3
+Vila Trinta E Um De Março
+85415-867 Sousa de Mendonça / AM",sudema,Licença por Adesão e Compromisso,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+561,Maria Alice Pires,30,"Feira de Sales, 579
+Dona Clara
+22036381 da Cunha / PI",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,funade,Serviço Especializado em Triagem e Diagnóstico
+562,Caleb Andrade,26,"Distrito Ian Farias, 93
+São Gabriel
+27154-409 da Conceição de Camargo / PR",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+563,Gabriel Novaes,42,"Trevo da Paz, 52
+Tupi B
+75156123 Ferreira / RO",cbmpb,Socorro de Emergências,cinep,Concessão de Incentivo Fiscal a Empresas
+564,Dr. Mathias Barbosa,43,"Viela Pacheco, 89
+Vila Aeroporto
+50822292 Lima da Mata / AC",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,RENOVAÇÃO DA CNH SIMPLES
+565,Clara Santos,35,"Vila Sophia Oliveira, 9
+Frei Leopoldo
+26198009 Alves / SC",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+566,Vitor Hugo Farias,36,"Feira de Vasconcelos
+Inconfidência
+16469-795 Vieira de Câmara / RJ",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+567,Cecilia Pimenta,24,"Praia Bruno da Mota, 454
+Jardim Vitoria
+25339695 Teixeira da Praia / RS",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cbmpb,Perícia de Incêndio e Explosão
+568,Aylla Costa,45,"Via Erick Cunha, 79
+Ventosa
+68446808 Peixoto / CE",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+569,Gabrielly Rocha,32,"Trecho Jesus, 2
+Vila Ecológica
+27800533 Rodrigues de Campos / RO",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Perícia de Incêndio e Explosão
+570,Bento Peixoto,24,"Alameda de Camargo, 94
+Vila Petropolis
+66403457 Rodrigues / PA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+571,Lucas Duarte,42,"Vila Montenegro, 40
+São Francisco
+74719683 Silveira de Fogaça / CE",cagepa,LIGAÇÃO DE ÁGUA,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+572,Ravi Lucca Duarte,38,"Ladeira Gael Henrique Sampaio
+Vila Calafate
+09324228 Ramos do Galho / PA",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,LIGAÇÃO DE ÁGUA
+573,Luiz Henrique Freitas,31,"Avenida de Fernandes, 587
+Xodo-Marize
+25205191 Moraes / MG",funade,Aquisição da Carteira de Passe Livre Intermunicipal,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+574,João Miguel Nogueira,27,"Vale Garcia, 23
+Dona Clara
+97669-960 Fogaça dos Dourados / PR",detran,PRIMEIRA HABILITAÇÃO,sudema,Licença de Operação para Pesquisa Mineral
+575,José Jesus,40,"Feira Milena Cassiano, 17
+Vila Da Paz
+21553-851 Pacheco / PB",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,sudema,Licença de Operação para Pesquisa Mineral
+576,Asafe Gomes,31,"Jardim Araújo, 84
+Novo Santa Cecilia
+83467426 Novaes / RS",funade,Serviço de Informação ao Cidadão,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+577,Dr. Yan Nogueira,25,"Parque de Rezende, 677
+Alto Dos Pinheiros
+75119300 Silveira / PE",cagepa,ATUALIZAÇÃO CADASTRAL,sudema,Licença por Adesão e Compromisso
+578,Kamilly Costa,19,"Rua Cunha, 79
+Bacurau
+47733202 Ferreira / AM",cagepa,LIGAÇÃO DE ÁGUA,funade,Serviço de Informação ao Cidadão
+579,Theo Moraes,41,"Estação Igor Pereira
+Álvaro Camargos
+58351648 da Paz / AC",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Socorro de Emergências
+580,Paulo Câmara,37,"Recanto Sampaio, 7
+São Lucas
+10434-640 Lima / GO",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença de Operação para Pesquisa Mineral
+581,Ágatha Silva,23,"Chácara de Casa Grande
+Lagoinha
+32671-346 Camargo / RR",cbmpb,Socorro de Emergências,cagepa,ATUALIZAÇÃO CADASTRAL
+582,Rafaela da Rocha,40,"Chácara André Machado, 81
+Estrela Do Oriente
+65841-914 Abreu / RR",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+583,Davi Miguel da Paz,32,"Chácara de Barbosa
+Anchieta
+63985290 Lopes / RJ",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,ATUALIZAÇÃO CADASTRAL
+584,Marcelo Marques,48,"Viela Costela, 73
+Concórdia
+88943176 Oliveira / RR",detran,RENOVAÇÃO DA CNH SIMPLES,funade,Serviço Especializado em Triagem e Diagnóstico
+585,Marcos Vinicius Rodrigues,27,"Aeroporto Souza, 79
+Jardim Vitoria
+96138-266 Aparecida de Nunes / PB",cagepa,ATUALIZAÇÃO CADASTRAL,funade,Serviço Especializado em Triagem e Diagnóstico
+586,Dra. Stella Rios,27,"Lago Elisa Costela, 38
+Parque São José
+25095034 Freitas / AC",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,sudema,Licença de Operação para Pesquisa Mineral
+587,Maria Laura Carvalho,30,"Loteamento de Campos, 82
+Alto Das Antenas
+59781945 Fonseca de Montenegro / RN",funade,Serviço Especializado em Triagem e Diagnóstico,sudema,Licença por Adesão e Compromisso
+588,Mariana Moura,40,"Parque de Marques, 57
+Vila Dos Anjos
+95010-367 Vieira / SP",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cinep,Concessão de Incentivo Locacional a Empresas
+589,Leandro da Rosa,22,"Viaduto Ferreira, 32
+Jaqueline
+17159-247 Alves do Oeste / MS",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,LIGAÇÃO DE ÁGUA
+590,Cecília Moura,32,"Aeroporto Pinto, 54
+Xodo-Marize
+66854790 Abreu do Galho / RR",cinep,Concessão de Incentivo Fiscal a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+591,Laís Vasconcelos,58,"Recanto de Campos, 9
+Vila Calafate
+36028050 Ribeiro / RO",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,detran,RENOVAÇÃO DA CNH SIMPLES
+592,Anthony Gabriel Fogaça,33,"Praia da Cunha, 9
+Aarão Reis
+97808-312 Sá do Norte / RO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+593,Dr. Mathias Costa,27,"Alameda Rezende, 10
+Custodinha
+55499-174 Vieira Paulista / RO",funade,Serviço Especializado em Triagem e Diagnóstico,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+594,Dante das Neves,58,"Viela Davi Lucca Martins, 52
+Dom Bosco
+76752214 Rios / GO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+595,Srta. Valentina da Mata,40,"Área de Lima, 400
+Jatobá
+87380506 Novaes / MA",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cbmpb,Perícia de Incêndio e Explosão
+596,Ian da Mota,33,"Fazenda Melo
+Vila Nova Gameleira 3ª Seção
+73199964 Rezende Paulista / GO",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,ATUALIZAÇÃO CADASTRAL
+597,Milena Ribeiro,30,"Lagoa Marcelo Sousa
+Palmares
+16150886 Nascimento / RO",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Perícia de Incêndio e Explosão
+598,Rebeca Costela,32,"Recanto Beatriz Mendes, 19
+Santana Do Cafezal
+55314765 Marques da Praia / AL",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+599,Maria Helena Nunes,32,"Passarela Juliana Costa, 47
+São Vicente
+62992-809 Sampaio de da Rocha / RR",cinep,Concessão de Incentivo Locacional a Empresas,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+600,Enzo Câmara,45,"Vale de Macedo, 32
+Vila Santa Monica 1ª Seção
+04377-741 Martins / DF",sudema,Licença de Operação para Pesquisa Mineral,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+601,Paulo Melo,34,"Vila Helena Fogaça
+Ermelinda
+12867835 da Mata / AM",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,LIGAÇÃO DE ÁGUA
+602,Enzo da Rosa,28,"Condomínio Moreira, 56
+Alta Tensão 1ª Seção
+60304052 Costa Paulista / GO",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,INDICAÇÃO DE CONDUTOR INFRATOR
+603,Luna Garcia,35,"Loteamento Cardoso, 968
+Aguas Claras
+98842973 Marques Grande / PA",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+604,Miguel Novais,18,"Via Elisa Borges, 878
+Barreiro
+86644731 Lima / RR",funade,Aquisição da Carteira de Passe Livre Intermunicipal,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+605,Hellena Santos,34,"Rodovia Leão
+Flamengo
+27102-878 Pacheco Grande / MG",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+606,Luiz Fernando Melo,39,"Favela de Cavalcante, 74
+Tupi B
+26729-175 Brito da Praia / AC",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Perícia de Incêndio e Explosão
+607,Srta. Ana Liz Fogaça,34,"Estação Souza
+Cdi Jatoba
+74082-782 Farias da Praia / AC",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+608,Sr. Calebe da Conceição,34,"Parque de Freitas, 47
+Maria Virgínia
+33821686 Jesus da Mata / ES",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+609,Vitor Teixeira,25,"Recanto Maria Helena Vargas, 65
+Vitoria Da Conquista
+53075-395 das Neves Verde / AC",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,LIGAÇÃO DE ÁGUA
+610,Danilo Rios,41,"Praça Emanuelly Jesus, 22
+São Bernardo
+57944-655 Mendonça / SP",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+611,Sr. Ian Costela,18,"Campo de Porto, 62
+Pongelupe
+41777-820 Castro / MT",cinep,Concessão de Incentivo Fiscal a Empresas,cinep,Concessão de Incentivo Locacional a Empresas
+612,Manuella Santos,30,"Condomínio de Sousa
+São Salvador
+08550884 Câmara Paulista / PR",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,ATUALIZAÇÃO CADASTRAL
+613,Lívia Nogueira,28,"Travessa Mendonça, 2
+Bairro Das Indústrias Ii
+22379-575 Nascimento / MG",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+614,Henry Gabriel da Conceição,28,"Estrada de Cardoso, 4
+Minaslandia
+25472816 da Conceição / PR",funade,Serviço Especializado em Triagem e Diagnóstico,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+615,Dra. Anna Liz Moura,45,"Ladeira Duarte, 69
+Inconfidência
+36460-149 Rocha da Praia / ES",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,sudema,Licença por Adesão e Compromisso
+616,Alice Andrade,42,"Lagoa de Guerra
+Miramar
+10019979 Nogueira de Minas / RJ",cagepa,LIGAÇÃO DE ÁGUA,sudema,Licença de Operação para Pesquisa Mineral
+617,Larissa Novais,18,"Rodovia de Sá, 95
+Petropolis
+20697174 Sousa / ES",cinep,Concessão de Incentivo Locacional a Empresas,cbmpb,Socorro de Emergências
+618,Arthur Casa Grande,28,"Pátio Melo, 54
+Grajaú
+03415-193 Gomes da Praia / RN",sudema,Licença de Operação para Pesquisa Mineral,cinep,Concessão de Incentivo Fiscal a Empresas
+619,Sabrina Lopes,25,"Feira de da Cruz, 488
+Sion
+20285561 Abreu / RO",detran,PRIMEIRA HABILITAÇÃO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+620,Arthur Rocha,22,"Colônia Fernandes, 5
+São Damião
+04964-275 Ferreira / PI",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,sudema,Licença de Operação para Pesquisa Mineral
+621,Sr. Thales Campos,39,"Estrada Lara Silveira, 526
+Lagoinha
+46615225 Abreu / SP",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+622,Ryan da Conceição,31,"Sítio de Teixeira, 55
+Nova Vista
+72566764 Cavalcanti / TO",sudema,Licença de Operação para Pesquisa Mineral,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+623,Bryan Duarte,45,"Parque Renan Moura, 35
+Vila Da Amizade
+34073-943 da Luz do Sul / GO",cinep,Concessão de Incentivo Fiscal a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+624,Léo Gonçalves,49,"Passarela de Sousa, 973
+Caiçaras
+43033-455 Oliveira do Norte / MS",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,LIGAÇÃO DE ÁGUA
+625,Dra. Olivia Santos,38,"Núcleo Elisa Dias, 36
+Novo Santa Cecilia
+87763-001 Pastor / TO",funade,Aquisição da Carteira de Passe Livre Intermunicipal,detran,PRIMEIRA HABILITAÇÃO
+626,Marcela Novais,35,"Estação Benjamin da Mata, 945
+Frei Leopoldo
+52727-811 da Cruz / CE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Socorro de Emergências
+627,Maria Laura da Paz,36,"Quadra Renan da Cruz, 77
+Serra
+41441-794 Lopes / MA",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cinep,Concessão de Incentivo Fiscal a Empresas
+628,Srta. Marina da Rosa,40,"Viaduto Laís Porto
+Pompéia
+30182783 Sales / RR",cagepa,ATUALIZAÇÃO CADASTRAL,sudema,Licença de Operação para Pesquisa Mineral
+629,Pedro Lucas Rodrigues,34,"Residencial Monteiro, 77
+Novo Das Industrias
+76504711 Cunha de Freitas / SP",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,PRIMEIRA HABILITAÇÃO
+630,Ayla Teixeira,32,"Colônia de Duarte, 88
+Novo Ouro Preto
+54880399 Nogueira do Sul / PB",cinep,Concessão de Incentivo Fiscal a Empresas,funade,Serviço de Informação ao Cidadão
+631,João Lucas Leão,41,"Fazenda da Conceição, 321
+Minas Brasil
+66506-162 Nascimento do Oeste / BA",detran,PRIMEIRA HABILITAÇÃO,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+632,Stephany Almeida,40,"Recanto Santos, 66
+Maravilha
+28775-886 Souza Alegre / BA",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+633,Sr. Lucas Moreira,22,"Rodovia de Siqueira, 905
+Bandeirantes
+83242675 Almeida / SE",funade,Serviço de Informação ao Cidadão,detran,PRIMEIRA HABILITAÇÃO
+634,Francisco Sampaio,32,"Vila Moreira, 276
+Cinquentenário
+41929-759 Siqueira / GO",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+635,Marina Sales,25,"Aeroporto Murilo Carvalho, 71
+Jardim São José
+94256-938 Casa Grande / RN",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Perícia de Incêndio e Explosão
+636,Sra. Luísa Almeida,45,"Setor de da Cunha, 89
+Juliana
+46815-769 Moraes do Amparo / RR",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,LIGAÇÃO DE ÁGUA
+637,Ana da Paz,26,"Praça de da Cruz, 86
+Boa União 1ª Seção
+04343336 da Luz / SE",cinep,Concessão de Incentivo Locacional a Empresas,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+638,Maysa Cardoso,31,"Recanto de Novaes, 96
+Boa Esperança
+91384581 Rocha de Teixeira / PI",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+639,Ana Lívia Ribeiro,29,"Passarela Luana Pires, 543
+Barão Homem De Melo 3ª Seção
+91627091 Sampaio / DF",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+640,Alice Abreu,32,"Passarela Josué Melo, 50
+Vila Da Luz
+68055-226 Teixeira do Campo / PR",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+641,Samuel Gomes,50,"Recanto Pacheco, 20
+Paquetá
+63882641 Santos da Prata / RJ",detran,RENOVAÇÃO DA CNH SIMPLES,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+642,Larissa Campos,29,"Viela Mathias Santos, 59
+Vila Bandeirantes
+22517-714 Rocha de Fonseca / RJ",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,sudema,Licença por Adesão e Compromisso
+643,Camila das Neves,47,"Feira Cavalcanti, 61
+Ademar Maldonado
+79274590 Souza do Amparo / PB",cagepa,LIGAÇÃO DE ÁGUA,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+644,Melina Aragão,35,"Lagoa Monteiro, 7
+Nova America
+47421-690 Novais / DF",funade,Aquisição da Carteira de Passe Livre Intermunicipal,funade,Serviço de Informação ao Cidadão
+645,Sr. Bento Novaes,29,"Travessa de Fonseca, 9
+Vila Santo Antônio
+72149-475 Nascimento / RO",cbmpb,Perícia de Incêndio e Explosão,sudema,Licença de Operação para Pesquisa Mineral
+646,Theodoro Cavalcanti,43,"Lagoa Maria Alice Porto, 30
+Solar Do Barreiro
+30116-136 Vargas de Novaes / BA",sudema,Licença por Adesão e Compromisso,cinep,Concessão de Incentivo Fiscal a Empresas
+647,Sr. Gabriel Borges,29,"Setor Nina Vargas, 76
+Braúnas
+43713-274 Correia da Praia / PB",cinep,Concessão de Incentivo Locacional a Empresas,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+648,Daniela da Mata,48,"Trecho de Pastor, 284
+Grajaú
+71852-807 Nogueira / MA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,LIGAÇÃO DE ÁGUA
+649,Eloah Cunha,22,"Rua Lucas Gabriel Dias, 35
+São Sebastião
+53049-790 Leão / ES",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Serviço Especializado em Triagem e Diagnóstico
+650,Clarice Casa Grande,21,"Rua Bento Monteiro, 499
+Marajó
+58714-622 Silva do Norte / RN",cbmpb,Socorro de Emergências,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+651,Bento Silva,29,"Recanto Noah Sampaio, 78
+Xodo-Marize
+59261-181 da Rosa / DF",cbmpb,Perícia de Incêndio e Explosão,sudema,Licença de Operação para Pesquisa Mineral
+652,Anthony Gabriel Barros,29,"Rua da Rocha, 344
+Trevo
+22000-073 Caldeira / AP",sudema,Licença por Adesão e Compromisso,sudema,Licença de Operação para Pesquisa Mineral
+653,Enzo Silva,21,"Distrito Bruna Campos, 917
+Santa Inês
+59732-658 Lopes de Moraes / PA",detran,RENOVAÇÃO DA CNH SIMPLES,cinep,Concessão de Incentivo Fiscal a Empresas
+654,Catarina Rezende,47,"Núcleo de Ramos, 397
+Braúnas
+60876093 Nogueira de da Costa / RR",cinep,Concessão de Incentivo Fiscal a Empresas,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+655,Maria Luiza Alves,18,"Trecho Novais, 85
+Tiradentes
+77030054 Peixoto / AC",cbmpb,Perícia de Incêndio e Explosão,cagepa,ATUALIZAÇÃO CADASTRAL
+656,Levi Costela,33,"Distrito Luna Pereira, 643
+Juliana
+65603248 Cassiano / ES",cagepa,ATUALIZAÇÃO CADASTRAL,funade,Serviço de Informação ao Cidadão
+657,Levi das Neves,29,"Rua de Alves, 47
+Vila Maria
+91095-594 da Mata da Praia / MA",cbmpb,Socorro de Emergências,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+658,Gustavo Fonseca,21,"Aeroporto Vargas, 63
+Custodinha
+73182194 Pinto / RR",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+659,Juan Castro,19,"Quadra Lavínia Leão
+Das Industrias I
+74437-644 Camargo / PE",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença por Adesão e Compromisso
+660,Davi Miguel Novais,36,"Núcleo de Moura, 877
+Vila Suzana Segunda Seção
+89152-718 Brito de Cavalcante / PB",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,Serviço Especializado em Triagem e Diagnóstico
+661,Cauã Cirino,41,"Residencial Yasmin Pereira, 10
+Urca
+99949417 Caldeira Alegre / AC",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+662,Mateus das Neves,29,"Rua de Mendonça, 44
+Suzana
+52600947 Ramos / MG",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cinep,Concessão de Incentivo Locacional a Empresas
+663,Oliver Albuquerque,38,"Avenida Liz Nogueira, 198
+Santa Cecilia
+83759349 Cardoso / RO",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+664,Ravi Fonseca,36,"Sítio Vieira, 18
+Alípio De Melo
+42985376 da Cruz de Goiás / AP",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+665,Luigi da Cunha,27,"Setor de Melo, 18
+Vila Nova Cachoeirinha 1ª Seção
+06906241 Machado / PI",sudema,Licença por Adesão e Compromisso,detran,RENOVAÇÃO DA CNH SIMPLES
+666,Ana Julia Freitas,25,"Trecho da Rosa, 51
+Marajó
+04906-864 Machado / RO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+667,Aurora Lima,37,"Estrada Sales, 804
+Barroca
+96393-106 Oliveira / PB",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,INDICAÇÃO DE CONDUTOR INFRATOR
+668,Giovanna Pereira,18,"Lago Enrico Casa Grande, 9
+Vila Boa Vista
+93311-557 Cavalcanti de Lima / MA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença de Operação para Pesquisa Mineral
+669,Ana Sophia Brito,28,"Largo Lunna Siqueira, 6
+Inconfidência
+63725334 Moreira de Rezende / CE",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+670,Igor Melo,38,"Campo de Caldeira, 5
+Santa Monica
+97777-636 Rezende de Teixeira / RO",cinep,Concessão de Incentivo Locacional a Empresas,cbmpb,Socorro de Emergências
+671,Apollo Cunha,47,"Setor Sampaio
+Vale Do Jatoba
+73771-648 Abreu / RN",cinep,Concessão de Incentivo Locacional a Empresas,cbmpb,Socorro de Emergências
+672,Sophia da Luz,24,"Recanto Antonella Sampaio, 52
+Vila Nova Cachoeirinha 2ª Seção
+75746-176 da Rocha Paulista / PR",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,detran,RENOVAÇÃO DA CNH SIMPLES
+673,Kamilly Ribeiro,37,"Viela Rios, 33
+Cruzeiro
+95004011 Cunha / TO",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+674,Renan Marques,32,"Chácara Pietro Jesus, 8
+Tirol
+15512056 Oliveira Verde / PA",detran,RENOVAÇÃO DA CNH SIMPLES,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+675,Dr. Bento Moraes,40,"Rua Luiza Casa Grande
+Primeiro De Maio
+54289778 da Mota da Praia / MT",funade,Serviço Especializado em Triagem e Diagnóstico,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+676,Calebe Garcia,35,"Viela Silveira, 301
+Serra
+98205-366 Lima do Sul / ES",sudema,Licença por Adesão e Compromisso,funade,Serviço Especializado em Triagem e Diagnóstico
+677,Luana da Mota,50,"Residencial Rafael Mendonça, 427
+Funcionários
+74026631 Ribeiro / CE",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),sudema,Licença por Adesão e Compromisso
+678,Nathan Andrade,33,"Colônia Aurora Garcia, 1
+Silveira
+39597904 da Rosa / RR",funade,Serviço Especializado em Triagem e Diagnóstico,sudema,Licença de Operação para Pesquisa Mineral
+679,Henry da Luz,46,"Vereda Kevin Novaes, 1
+Santo Agostinho
+17855327 Oliveira / MT",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Socorro de Emergências
+680,Enrico Rezende,24,"Travessa de Garcia, 53
+São Bento
+03642379 Farias de Leão / GO",cinep,Concessão de Incentivo Locacional a Empresas,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+681,Olívia da Luz,41,"Largo de Vieira, 31
+Inconfidência
+43256-538 Cardoso / RN",sudema,Licença por Adesão e Compromisso,cbmpb,Socorro de Emergências
+682,Amanda Andrade,34,"Núcleo Emanuel Moura
+Vila Minaslandia
+20352984 Viana / RS",sudema,Licença por Adesão e Compromisso,cbmpb,Perícia de Incêndio e Explosão
+683,Apollo Cunha,32,"Condomínio da Cruz, 60
+Nova Vista
+32815215 Silveira / BA",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+684,José da Mota,40,"Setor da Mota, 8
+São Luiz
+49154501 Lopes do Campo / RS",cbmpb,Socorro de Emergências,cbmpb,Perícia de Incêndio e Explosão
+685,Nathan Rios,20,"Passarela de da Mata
+Pedreira Padro Lopes
+67633367 das Neves / TO",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Locacional a Empresas
+686,Dr. Nicolas Leão,34,"Lagoa Bento Borges, 413
+São João Batista
+71999-431 Mendonça / RN",cagepa,ATUALIZAÇÃO CADASTRAL,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+687,Allana Aparecida,34,"Distrito Marcela Nogueira
+Vila De Sá
+51470073 Vargas / MS",cbmpb,Socorro de Emergências,cbmpb,Perícia de Incêndio e Explosão
+688,Sr. Davi Miguel Aparecida,38,"Lago de Pacheco, 508
+Castelo
+59672487 Ramos / RJ",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Serviço Especializado em Triagem e Diagnóstico
+689,Bella Macedo,25,"Colônia Ester Sá, 61
+São Marcos
+72429-201 da Cunha / MS",cbmpb,Socorro de Emergências,funade,Serviço Especializado em Triagem e Diagnóstico
+690,Bella Costa,40,"Setor de Viana, 919
+Lagoinha
+62258-412 da Luz / RO",cinep,Concessão de Incentivo Fiscal a Empresas,cagepa,LIGAÇÃO DE ÁGUA
+691,Nina Freitas,34,"Pátio Correia, 598
+Santa Rita De Cássia
+21114-160 Casa Grande de Carvalho / BA",cbmpb,Perícia de Incêndio e Explosão,detran,RENOVAÇÃO DA CNH SIMPLES
+692,Lunna Leão,27,"Vereda de Gomes, 83
+Ipe
+01811-833 Andrade / SC",cagepa,ATUALIZAÇÃO CADASTRAL,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+693,Vitor Casa Grande,24,"Recanto de Duarte, 24
+Candelaria
+23843314 Costela / AC",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cbmpb,Perícia de Incêndio e Explosão
+694,Davi Lucas Fogaça,26,"Vila Ana Laura Pimenta, 23
+Inconfidência
+43809542 Melo / DF",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+695,Cecilia Pires,48,"Parque Luiz Otávio Abreu, 502
+São Gabriel
+19155-180 Silveira / RJ",sudema,Licença por Adesão e Compromisso,cagepa,LIGAÇÃO DE ÁGUA
+696,Marina Correia,39,"Chácara de Moura, 7
+Santa Isabel
+55164-870 Sampaio / MS",funade,Aquisição da Carteira de Passe Livre Intermunicipal,detran,RENOVAÇÃO DA CNH SIMPLES
+697,Maria Sophia Souza,39,"Quadra Novais, 59
+Buraco Quente
+78435-692 Câmara / PI",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,ATUALIZAÇÃO CADASTRAL
+698,Dr. Davi Luiz Moreira,38,"Distrito de Cirino, 15
+Guarani
+55681-143 Nogueira / AP",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+699,Júlia Carvalho,25,"Trecho Juliana Cunha, 4
+Conjunto Minas Caixa
+10279-375 Barros de da Mota / PA",cbmpb,Perícia de Incêndio e Explosão,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+700,Giovanna das Neves,35,"Recanto Evelyn Sá, 26
+Jardinópolis
+26746719 Ferreira Grande / AM",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+701,Dr. João Gomes,25,"Conjunto Oliver Marques, 69
+Floresta
+91285-726 Cavalcanti / RS",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,PRIMEIRA HABILITAÇÃO
+702,João Gabriel Brito,21,"Viela de da Luz, 436
+Vila Olhos D'água
+91974-291 da Mata / AM",detran,INDICAÇÃO DE CONDUTOR INFRATOR,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+703,Sr. Ravi Lopes,60,"Via Ravi Novaes, 54
+Vila Engenho Nogueira
+85893704 da Mata de Cirino / AP",cbmpb,Socorro de Emergências,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+704,João Pedro Vargas,38,"Chácara de Campos, 37
+Vila Nova Cachoeirinha 1ª Seção
+53594868 Ramos / BA",cbmpb,Perícia de Incêndio e Explosão,cagepa,ATUALIZAÇÃO CADASTRAL
+705,Pedro Miguel Moreira,45,"Rodovia Ágatha da Costa, 6
+Alto Barroca
+99062110 Mendonça da Praia / PB",funade,Aquisição da Carteira de Passe Livre Intermunicipal,detran,RENOVAÇÃO DA CNH SIMPLES
+706,Dra. Isabella Cunha,34,"Sítio Oliver Vargas, 71
+Alta Tensão 1ª Seção
+50447-679 Alves / MG",cbmpb,Perícia de Incêndio e Explosão,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+707,Melissa Gomes,44,"Passarela Gabriela Almeida, 97
+Conjunto Providencia
+25166865 Fogaça Grande / TO",cinep,Concessão de Incentivo Fiscal a Empresas,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+708,Esther Duarte,31,"Alameda de Câmara, 92
+Paulo Vi
+91119217 Peixoto / RO",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+709,Emanuella Albuquerque,19,"Viela Almeida, 67
+Conjunto Floramar
+33614-153 Viana / MS",cinep,Concessão de Incentivo Fiscal a Empresas,cagepa,ATUALIZAÇÃO CADASTRAL
+710,Stella Campos,19,"Colônia Cavalcante, 2
+Penha
+37033736 da Rosa de Pinto / RS",cbmpb,Socorro de Emergências,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+711,Maria Sophia Almeida,44,"Praia de Lopes
+Santo André
+00078767 Pastor do Oeste / BA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+712,Ana Lívia Cassiano,37,"Estrada João Miguel Lima, 77
+Vila Jardim Montanhes
+82119-924 Souza / RS",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,PRIMEIRA HABILITAÇÃO
+713,Stella da Cunha,38,"Área Davi Miguel Casa Grande, 7
+Pedreira Padro Lopes
+87069688 Siqueira / SP",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+714,Bianca Melo,27,"Sítio de Marques, 53
+Vila Santa Monica 2ª Seção
+98216074 Fernandes Paulista / MT",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,Serviço Especializado em Triagem e Diagnóstico
+715,Liam Peixoto,29,"Núcleo de Souza, 328
+Paquetá
+35925-472 Peixoto de Santos / AP",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+716,Breno Novais,46,"Esplanada de Silveira
+Bom Jesus
+65329-122 Sousa / RR",funade,Serviço de Informação ao Cidadão,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+717,Jade Souza,42,"Estação de das Neves
+São Benedito
+22797653 Fogaça / RO",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+718,Davi Luiz Rocha,21,"Alameda de Fernandes
+Barão Homem De Melo 3ª Seção
+07275565 Carvalho / PA",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,LIGAÇÃO DE ÁGUA
+719,Raquel Aragão,29,"Ladeira Isabela Novais
+Álvaro Camargos
+98492-431 Barbosa / PR",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+720,Levi Peixoto,41,"Estação Joana Moreira, 74
+Vila Da Luz
+78536-609 Vieira / RR",detran,RENOVAÇÃO DA CNH SIMPLES,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+721,Raul das Neves,44,"Via de Abreu, 11
+Barreiro
+63236-023 Leão da Praia / AP",sudema,Licença por Adesão e Compromisso,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+722,Letícia Farias,33,"Recanto Peixoto, 480
+Vila Minaslandia
+78040-911 Campos da Mata / RN",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+723,Julia da Costa,31,"Quadra Sara Mendonça, 81
+Vila Paris
+68315-640 Moura / MA",cagepa,ATUALIZAÇÃO CADASTRAL,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+724,Hellena Albuquerque,38,"Distrito de Siqueira, 5
+Vila Petropolis
+22451352 Marques da Prata / PR",cagepa,LIGAÇÃO DE ÁGUA,cagepa,ATUALIZAÇÃO CADASTRAL
+725,Juliana Casa Grande,53,"Fazenda Brayan Oliveira
+Vila Calafate
+84426-001 Novais / RN",cinep,Concessão de Incentivo Locacional a Empresas,sudema,Licença por Adesão e Compromisso
+726,Sra. Manuella Barbosa,36,"Condomínio Diogo Fernandes, 771
+Maravilha
+25622599 Cardoso de Melo / ES",cinep,Concessão de Incentivo Locacional a Empresas,sudema,Licença por Adesão e Compromisso
+727,Miguel Monteiro,28,"Lago Albuquerque, 78
+Camponesa 1ª Seção
+90074-598 Nogueira / SP",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+728,Maria Eduarda Freitas,46,"Condomínio Benicio Aparecida
+Nossa Senhora Do Rosário
+56266564 Aragão / RO",detran,PRIMEIRA HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+729,Thales Cavalcanti,31,"Estação de Ramos, 58
+Vila Primeiro De Maio
+50648-985 Câmara das Flores / TO",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+730,Bento da Rosa,18,"Vila André Sampaio
+São Damião
+28915-850 Costela / CE",cinep,Concessão de Incentivo Fiscal a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+731,Brenda Pastor,54,"Via Macedo
+Vila Independencia 1ª Seção
+60494-376 Novaes / RO",cbmpb,Socorro de Emergências,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+732,Josué Macedo,36,"Via Ribeiro, 63
+Novo Aarão Reis
+10279-202 Carvalho Grande / RJ",detran,PRIMEIRA HABILITAÇÃO,detran,RENOVAÇÃO DA CNH SIMPLES
+733,Mateus Nogueira,23,"Jardim Porto, 96
+Mariano De Abreu
+37398263 Cirino das Pedras / MG",cinep,Concessão de Incentivo Fiscal a Empresas,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+734,Mariana Albuquerque,33,"Praia de Costa, 34
+Santa Maria
+57533-907 Porto da Serra / MS",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cinep,Concessão de Incentivo Locacional a Empresas
+735,Ana Laura das Neves,48,"Parque Jesus, 856
+Urca
+65733069 Guerra / SP",sudema,Licença por Adesão e Compromisso,cbmpb,Socorro de Emergências
+736,Antonella da Luz,40,"Morro de Martins, 27
+Piratininga
+28957365 Alves / BA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+737,Antonella Rocha,34,"Estrada da Cruz, 176
+Boa Esperança
+17601-751 Nogueira da Prata / PR",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+738,Sra. Heloísa Viana,37,"Via Luiz Felipe Camargo, 199
+Custodinha
+41922-569 da Mata / PA",detran,PRIMEIRA HABILITAÇÃO,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+739,Aurora Barbosa,24,"Vereda Siqueira
+Mangueiras
+28140-673 Albuquerque / DF",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+740,Diogo Pires,33,"Setor Martins, 64
+Vila Nova Cachoeirinha 3ª Seção
+09484-789 Rocha / BA",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+741,Sr. Daniel Campos,28,"Jardim Porto, 8
+Vila Betânia
+57894066 Moura do Amparo / DF",cagepa,LIGAÇÃO DE ÁGUA,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+742,Evelyn Moreira,22,"Campo João Lucas Novais, 33
+Vila Suzana Primeira Seção
+61015-364 da Conceição / DF",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,RENOVAÇÃO DA CNH SIMPLES
+743,Ana Carolina Sá,26,"Rodovia de Vieira, 88
+Vila Madre Gertrudes 2ª Seção
+62443230 Caldeira Verde / GO",cinep,Concessão de Incentivo Locacional a Empresas,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+744,Brayan Fernandes,21,"Setor Sampaio, 22
+Vila Da Amizade
+27975-558 das Neves da Praia / PR",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cinep,Concessão de Incentivo Fiscal a Empresas
+745,Emanuel Andrade,49,"Feira Andrade, 72
+Vista Alegre
+35788176 Moreira das Pedras / CE",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+746,Gabriela Alves,38,"Lagoa Mendonça, 2
+Coração Eucarístico
+62692760 Duarte / PA",funade,Serviço Especializado em Triagem e Diagnóstico,cinep,Concessão de Incentivo Locacional a Empresas
+747,Sr. João Guilherme Cirino,40,"Rua Cecília Aparecida, 160
+Vila Cemig
+86340071 da Conceição da Mata / BA",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cbmpb,Socorro de Emergências
+748,Maria Luísa Souza,37,"Vale Sales, 4
+Taquaril
+88946205 da Mota de Carvalho / AC",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cinep,Concessão de Incentivo Fiscal a Empresas
+749,Davi Lucas Rios,33,"Viaduto Ravi Lucca da Mata, 2
+Inconfidência
+53818273 Novaes / ES",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,sudema,Licença de Operação para Pesquisa Mineral
+750,Davi Lucca Pastor,39,"Parque Porto
+Coqueiros
+30201-018 Viana das Pedras / BA",cagepa,ATUALIZAÇÃO CADASTRAL,cbmpb,Perícia de Incêndio e Explosão
+751,João Gabriel Lima,31,"Vila de Rocha, 266
+Vila Nova Gameleira 1ª Seção
+33023-379 Fernandes de Santos / RS",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),detran,PRIMEIRA HABILITAÇÃO
+752,João Felipe Vasconcelos,24,"Via de Leão
+Vila São Gabriel Jacui
+71326967 Silveira / MS",cinep,Concessão de Incentivo Fiscal a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+753,Otto da Mota,40,"Avenida Júlia Sousa, 7
+Vila Nova Gameleira 2ª Seção
+50068067 Garcia / MA",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,ATUALIZAÇÃO CADASTRAL
+754,Hadassa Camargo,36,"Lagoa Camila Ferreira, 9
+Vila São João Batista
+57643455 Santos da Mata / AL",sudema,Licença por Adesão e Compromisso,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+755,Otávio Moreira,28,"Praia Vieira, 10
+Fernão Dias
+20499-493 Siqueira / SE",sudema,Licença por Adesão e Compromisso,cbmpb,Perícia de Incêndio e Explosão
+756,Bernardo Carvalho,44,"Parque Gomes, 13
+Vila Paquetá
+74216520 Almeida / DF",detran,RENOVAÇÃO DA CNH SIMPLES,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+757,Gael Nogueira,34,"Favela Maria Luísa Pinto, 947
+Bonfim
+27539057 Fogaça de Silveira / MT",cinep,Concessão de Incentivo Locacional a Empresas,funade,Serviço de Informação ao Cidadão
+758,Agatha da Costa,45,"Fazenda Oliveira
+Vila Jardim Leblon
+79251831 Almeida da Praia / TO",detran,PRIMEIRA HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+759,Laís da Mota,48,"Avenida Araújo, 64
+Vila Nova
+49541-697 da Cruz / SC",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+760,Bruna Ferreira,37,"Fazenda Hadassa Viana, 852
+Vila Independencia 3ª Seção
+21241-211 Souza da Serra / RR",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Perícia de Incêndio e Explosão
+761,Ana Vitória Macedo,46,"Núcleo Pedro Miguel Câmara, 5
+Marajó
+32302-542 Costa / PI",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,funade,Serviço Especializado em Triagem e Diagnóstico
+762,Natália Pastor,39,"Passarela de Moreira, 75
+Santa Sofia
+31383-151 Fogaça / RR",cagepa,ATUALIZAÇÃO CADASTRAL,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+763,Sra. Mariana Barros,38,"Feira de Freitas
+Guaratã
+64357406 Fogaça da Serra / TO",cinep,Concessão de Incentivo Locacional a Empresas,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+764,Maya Almeida,35,"Jardim de Pacheco, 50
+São José
+20517043 Sampaio de Camargo / MT",funade,Serviço de Informação ao Cidadão,detran,PRIMEIRA HABILITAÇÃO
+765,Caleb Barros,40,"Recanto Juan Montenegro, 71
+Satelite
+49216-878 Barros / RO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cinep,Concessão de Incentivo Fiscal a Empresas
+766,Otto Pimenta,48,"Aeroporto Freitas, 27
+Cônego Pinheiro 2ª Seção
+22554-115 Nogueira / CE",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cinep,Concessão de Incentivo Fiscal a Empresas
+767,Benjamin Abreu,43,"Viaduto de Cavalcanti, 127
+Bonfim
+32282923 Correia do Amparo / BA",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,ATUALIZAÇÃO CADASTRAL
+768,Sra. Bruna Vasconcelos,41,"Ladeira Costela, 28
+Varzea Da Palma
+62575135 Câmara do Galho / CE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+769,Caleb da Cunha,42,"Colônia Costa, 54
+Anchieta
+93056552 da Paz de Macedo / ES",cagepa,LIGAÇÃO DE ÁGUA,funade,Serviço de Informação ao Cidadão
+770,Dr. Yuri Moura,29,"Residencial de Teixeira, 30
+Conjunto Califórnia Ii
+90326277 Nascimento de Minas / MA",funade,Serviço de Informação ao Cidadão,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+771,José da Mota,38,"Residencial Rafaela Ferreira
+Mirante
+27502780 Fernandes Paulista / RO",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,ATUALIZAÇÃO CADASTRAL
+772,Camila Caldeira,36,"Núcleo de Castro, 85
+Vila Atila De Paiva
+74074486 Carvalho / PB",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Perícia de Incêndio e Explosão
+773,Leonardo Silva,37,"Estrada Maria Eduarda Borges, 888
+Minas Caixa
+08616926 da Cunha de Sampaio / DF",funade,Serviço de Informação ao Cidadão,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+774,Maria Isis da Rocha,39,"Aeroporto de da Cunha, 1
+Marieta 3ª Seção
+67323-271 Aragão de Rezende / SE",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,funade,Serviço de Informação ao Cidadão
+775,Benicio Abreu,24,"Sítio Maria Luiza Viana, 309
+Vila Paraíso
+07466466 Teixeira de Cardoso / CE",detran,PRIMEIRA HABILITAÇÃO,sudema,Licença de Operação para Pesquisa Mineral
+776,Eduarda Mendes,40,"Condomínio de Macedo
+Vila São Dimas
+56331-710 Pimenta da Mata / AM",detran,RENOVAÇÃO DA CNH SIMPLES,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+777,Emanuelly Almeida,37,"Colônia João Vitor Cirino, 8
+Europa
+35868-654 Marques de Pires / RJ",sudema,Licença de Operação para Pesquisa Mineral,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+778,Sr. Diogo Viana,35,"Quadra Farias, 4
+Mala E Cuia
+17178726 da Paz / RO",detran,PRIMEIRA HABILITAÇÃO,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+779,Emilly Viana,21,"Sítio Pedro Lucas Araújo, 39
+São Gonçalo
+25405221 Fernandes Paulista / RN",detran,RENOVAÇÃO DA CNH SIMPLES,sudema,Licença por Adesão e Compromisso
+780,Dra. Maysa Machado,48,"Sítio de Lima
+Nova Pampulha
+37696-181 Duarte / RR",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Socorro de Emergências
+781,Leonardo Câmara,30,"Ladeira Vasconcelos, 35
+Serra Verde
+23620-275 Rodrigues das Flores / RS",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,LIGAÇÃO DE ÁGUA
+782,Thales Dias,37,"Estação de Pires, 98
+Vila Pilar
+84850-509 Lima de Cardoso / PE",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+783,Calebe Camargo,40,"Rodovia Mendes, 11
+Alpes
+33049250 Moreira do Campo / AC",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+784,Dr. Isaque Moreira,31,"Campo de Pastor, 80
+Beira Linha
+68341-476 Silveira / AC",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Socorro de Emergências
+785,Stella Pastor,38,"Feira Davi Luiz Ferreira, 7
+Copacabana
+13885-913 Rocha / PB",funade,Serviço Especializado em Triagem e Diagnóstico,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+786,Eduardo Cassiano,33,"Praça Marina da Conceição, 576
+Vila Ecológica
+06062098 Farias Alegre / RO",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+787,Rodrigo Barbosa,37,"Loteamento Arthur Rios, 278
+Taquaril
+64954-437 Gomes / AL",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença de Operação para Pesquisa Mineral
+788,João Lucas Caldeira,33,"Recanto de Carvalho, 5
+Pilar
+45312112 da Luz da Serra / AC",cbmpb,Perícia de Incêndio e Explosão,cinep,Concessão de Incentivo Locacional a Empresas
+789,Apollo Almeida,43,"Conjunto de Castro, 556
+Saudade
+40791-867 Andrade do Amparo / ES",funade,Serviço Especializado em Triagem e Diagnóstico,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+790,Julia Ramos,35,"Estrada de Marques, 10
+Barão Homem De Melo 1ª Seção
+20334731 Lopes do Galho / GO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cinep,Concessão de Incentivo Locacional a Empresas
+791,Luana Brito,41,"Chácara de Santos, 36
+Parque São José
+20584588 Silva da Serra / TO",cbmpb,Perícia de Incêndio e Explosão,cinep,Concessão de Incentivo Locacional a Empresas
+792,Ana Carolina Vasconcelos,26,"Chácara de Azevedo
+Bom Jesus
+74113-845 Mendonça da Prata / MG",funade,Serviço Especializado em Triagem e Diagnóstico,detran,RENOVAÇÃO DA CNH SIMPLES
+793,Ana Julia Santos,33,"Alameda de Sousa, 50
+Xangri-Lá
+35191539 Mendes do Galho / AL",cagepa,LIGAÇÃO DE ÁGUA,funade,Serviço Especializado em Triagem e Diagnóstico
+794,Sr. Arthur Miguel Barbosa,35,"Largo Valentina Ribeiro
+Palmares
+80697617 Nascimento do Sul / CE",detran,RENOVAÇÃO DA CNH SIMPLES,cinep,Concessão de Incentivo Fiscal a Empresas
+795,Lorenzo da Rosa,43,"Campo Brenda da Rocha, 6
+Centro
+01440-714 Cunha / MT",cbmpb,Perícia de Incêndio e Explosão,cinep,Concessão de Incentivo Locacional a Empresas
+796,Sra. Yasmin Cavalcanti,38,"Parque de Farias, 11
+Vila Ouro Minas
+64901-358 Sampaio / CE",sudema,Licença por Adesão e Compromisso,funade,Serviço de Informação ao Cidadão
+797,Julia Nogueira,33,"Chácara Leonardo Freitas, 10
+Barreiro
+40630693 Carvalho de Barbosa / AM",cagepa,ATUALIZAÇÃO CADASTRAL,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+798,Guilherme da Mota,42,"Sítio de Rezende, 903
+Vila Independencia 3ª Seção
+98606872 Lopes / PE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,detran,PRIMEIRA HABILITAÇÃO
+799,João Pedro Albuquerque,26,"Quadra Cavalcante, 345
+Piratininga
+73496-308 Gomes de Vargas / PR",cinep,Concessão de Incentivo Locacional a Empresas,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+800,Theo Novaes,18,"Conjunto Silveira, 85
+Alto Vera Cruz
+38251-726 Moreira / PI",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,Serviço Especializado em Triagem e Diagnóstico
+801,Raquel Fogaça,41,"Estrada Lima, 1
+Ventosa
+75200-848 Leão dos Dourados / AL",cbmpb,Socorro de Emergências,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+802,Luara Borges,42,"Rodovia de Costa, 9
+Belmonte
+57584016 Nogueira / AM",cagepa,LIGAÇÃO DE ÁGUA,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+803,Calebe Siqueira,38,"Praia de Viana
+Vila Maria
+36470103 Porto dos Dourados / RS",funade,Aquisição da Carteira de Passe Livre Intermunicipal,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+804,Ravi Gonçalves,44,"Travessa Nascimento, 759
+Universitário
+63393998 Pimenta / RR",detran,RENOVAÇÃO DA CNH SIMPLES,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+805,Maria Julia da Costa,19,"Trevo Emanuel Novais
+Vila Mantiqueira
+65215-858 Nascimento Grande / SE",cagepa,LIGAÇÃO DE ÁGUA,detran,PRIMEIRA HABILITAÇÃO
+806,Maria Sophia Costa,47,"Vereda de Porto, 3
+Teixeira Dias
+84863-267 Cardoso / MT",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,Serviço Especializado em Triagem e Diagnóstico
+807,Breno Sales,46,"Viela de Rezende, 46
+Jardim Guanabara
+80297260 Vasconcelos / RS",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+808,Alana Brito,37,"Quadra Pedro Lucas Nunes, 2
+Nova Vista
+77026799 Fonseca das Pedras / PB",detran,INDICAÇÃO DE CONDUTOR INFRATOR,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+809,Dr. Luiz Henrique da Costa,36,"Rodovia de Novaes, 5
+Dom Bosco
+72393-829 Barbosa / BA",cagepa,ATUALIZAÇÃO CADASTRAL,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+810,Ana Clara Cassiano,48,"Passarela Moreira, 73
+Coqueiros
+62110520 da Mata da Mata / MA",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,ATUALIZAÇÃO CADASTRAL
+811,Sr. João Lucas Novais,18,"Rua de Nascimento
+Vila Califórnia
+85911-886 Rodrigues do Amparo / BA",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,LIGAÇÃO DE ÁGUA
+812,Enrico Martins,18,"Esplanada de Carvalho, 42
+Satelite
+11766931 Barbosa / GO",cagepa,LIGAÇÃO DE ÁGUA,sudema,Licença de Operação para Pesquisa Mineral
+813,Giovanna Pacheco,47,"Jardim Andrade, 2
+Anchieta
+18223653 Cavalcante de Goiás / ES",detran,RENOVAÇÃO DA CNH SIMPLES,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+814,Maria Liz Farias,49,"Esplanada de da Paz, 354
+São Lucas
+83777860 Rezende / MG",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+815,Lorena Garcia,26,"Esplanada da Luz, 77
+Jaraguá
+41548-074 Rios / AP",funade,Serviço de Informação ao Cidadão,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+816,Vitor Hugo Cavalcanti,42,"Rodovia Rebeca Montenegro, 5
+Santa Cruz
+66619-887 Vasconcelos / AL",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+817,Luana Nogueira,55,"Lago de Montenegro, 53
+Vila Califórnia
+78026-383 Almeida Verde / TO",cagepa,LIGAÇÃO DE ÁGUA,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+818,João Vitor Cavalcanti,25,"Passarela de Siqueira
+Vila Pinho
+14997304 Azevedo / AM",cagepa,ATUALIZAÇÃO CADASTRAL,funade,Serviço de Informação ao Cidadão
+819,Antonella Fonseca,28,"Alameda de Nogueira, 38
+Distrito Industrial Do Jatoba
+17349412 da Cunha / MS",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+820,Dr. Matheus Cavalcante,24,"Alameda de Novaes, 90
+Camponesa 1ª Seção
+80784246 Novaes / MA",sudema,Licença por Adesão e Compromisso,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+821,Isaac Cavalcante,25,"Estação de Mendes, 42
+Nossa Senhora Da Conceição
+29730-546 Carvalho Alegre / MA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,detran,RENOVAÇÃO DA CNH SIMPLES
+822,Larissa Silva,30,"Praça Vieira, 45
+Mariquinhas
+63631245 Nogueira da Praia / AM",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,Serviço de Informação ao Cidadão
+823,Theodoro Monteiro,20,"Parque de Pacheco, 121
+Mineirão
+57089-707 Fernandes da Praia / BA",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Serviço Especializado em Triagem e Diagnóstico
+824,Lorenzo Sampaio,37,"Núcleo Alícia Guerra, 121
+São Lucas
+67507-699 Pimenta de Fernandes / RS",funade,Aquisição da Carteira de Passe Livre Intermunicipal,funade,Serviço de Informação ao Cidadão
+825,Marcelo Nascimento,60,"Quadra Oliver Albuquerque, 63
+Nossa Senhora Aparecida
+91165-992 Rezende do Sul / AM",cinep,Concessão de Incentivo Fiscal a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+826,Jade Moura,32,"Fazenda Enrico da Conceição, 34
+Dom Cabral
+47336757 Montenegro do Oeste / BA",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,ATUALIZAÇÃO CADASTRAL
+827,Giovanna Pimenta,23,"Recanto da Costa, 89
+Vila Antena Montanhês
+18387-848 Jesus do Galho / RN",sudema,Licença por Adesão e Compromisso,cinep,Concessão de Incentivo Locacional a Empresas
+828,Thales Fonseca,41,"Trecho Vargas, 18
+Santa Efigênia
+56747740 Cardoso de Jesus / ES",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Socorro de Emergências
+829,Dr. Caio Caldeira,39,"Pátio de Cardoso, 65
+Vila Nossa Senhora Do Rosário
+71380010 Novaes das Flores / PA",funade,Serviço Especializado em Triagem e Diagnóstico,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+830,Luiz Henrique Pinto,25,"Vale Moraes, 3
+União
+48534-932 Farias / RN",cbmpb,Perícia de Incêndio e Explosão,sudema,Licença por Adesão e Compromisso
+831,Larissa Rocha,33,"Colônia de Moura, 46
+Madre Gertrudes
+43241127 Barbosa de Cavalcante / MA",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,PRIMEIRA HABILITAÇÃO
+832,Caroline Campos,32,"Largo Davi Miguel Freitas, 278
+São Benedito
+01648951 Moreira / TO",cbmpb,Socorro de Emergências,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+833,Pietro Araújo,43,"Largo Luna Lima, 1
+São Lucas
+67934-374 da Costa do Sul / RN",cinep,Concessão de Incentivo Locacional a Empresas,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+834,Lavínia Fogaça,42,"Residencial José Nogueira
+Candelaria
+81362-263 da Cruz dos Dourados / AP",funade,Serviço de Informação ao Cidadão,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+835,Ísis Farias,40,"Colônia Campos, 66
+Vila Bandeirantes
+88877469 Cardoso / TO",funade,Serviço Especializado em Triagem e Diagnóstico,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+836,Maria Fernanda Costela,33,"Trecho de Rodrigues, 651
+Parque São José
+25546-503 Castro / SC",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cbmpb,Socorro de Emergências
+837,Evelyn Porto,43,"Trecho Fonseca, 10
+Santa Lúcia
+57859887 Nogueira das Pedras / DF",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,detran,PRIMEIRA HABILITAÇÃO
+838,Bruno Novaes,45,"Travessa Casa Grande, 53
+Vila Olhos D'água
+53534500 Cunha / PB",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+839,Josué Novais,26,"Colônia de Costela, 87
+Alpes
+23485-141 da Cunha / RR",cinep,Concessão de Incentivo Fiscal a Empresas,detran,RENOVAÇÃO DA CNH SIMPLES
+840,José Pedro Pires,55,"Praça das Neves, 14
+Vila Da Paz
+06533-474 da Mata de Campos / AM",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Serviço de Informação ao Cidadão
+841,Théo da Rosa,41,"Pátio de Correia, 64
+Coração Eucarístico
+52325-628 Azevedo / MT",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cinep,Concessão de Incentivo Locacional a Empresas
+842,Jade Castro,29,"Pátio Leão
+Vila Esplanada
+40018-986 Vieira / AC",detran,PRIMEIRA HABILITAÇÃO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+843,Isaac Cassiano,27,"Setor de Moraes, 51
+João Alfredo
+19951137 Nascimento / SC",cagepa,ATUALIZAÇÃO CADASTRAL,detran,PRIMEIRA HABILITAÇÃO
+844,Maria Laura Camargo,39,"Avenida Elisa Montenegro
+Andiroba
+53960823 Fonseca do Oeste / MA",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+845,Ravy Cavalcante,29,"Largo Pires, 22
+Alípio De Melo
+41308178 Duarte das Pedras / AM",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença de Operação para Pesquisa Mineral
+846,Ágatha Casa Grande,34,"Parque Erick Melo, 10
+Nova Esperança
+01975-133 Cunha / RJ",sudema,Licença de Operação para Pesquisa Mineral,detran,PRIMEIRA HABILITAÇÃO
+847,Kevin Macedo,21,"Passarela Cardoso, 5
+Vila Nova
+19052-778 Cassiano / RO",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cinep,Concessão de Incentivo Fiscal a Empresas
+848,Dra. Manuela Marques,41,"Área Agatha Fogaça, 12
+Vila Real 1ª Seção
+79559-002 Borges das Flores / RR",detran,PRIMEIRA HABILITAÇÃO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+849,Isabella Fogaça,40,"Conjunto de Cirino, 11
+Camponesa 1ª Seção
+07465862 Cavalcanti de Rios / SP",cbmpb,Socorro de Emergências,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+850,Luísa Gonçalves,32,"Rodovia Vitor Hugo Nascimento, 551
+Confisco
+98624-987 Barbosa das Pedras / RS",detran,RENOVAÇÃO DA CNH SIMPLES,funade,Serviço de Informação ao Cidadão
+851,Dr. Vinicius Sampaio,42,"Rodovia Luna Vieira, 64
+Cônego Pinheiro 2ª Seção
+74921915 da Paz / AP",cbmpb,Perícia de Incêndio e Explosão,detran,PRIMEIRA HABILITAÇÃO
+852,Bryan Brito,26,"Conjunto Freitas, 7
+São Vicente
+36667474 Barbosa / RJ",cbmpb,Perícia de Incêndio e Explosão,funade,Serviço Especializado em Triagem e Diagnóstico
+853,Lunna da Luz,33,"Chácara de Nascimento, 53
+Vale Do Jatoba
+79436-479 da Mata Verde / AP",cbmpb,Perícia de Incêndio e Explosão,cinep,Concessão de Incentivo Fiscal a Empresas
+854,Ana Julia Araújo,25,"Largo de Guerra, 92
+Vila Fumec
+52260767 Moraes de Oliveira / ES",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,Serviço Especializado em Triagem e Diagnóstico
+855,Gabriela Rocha,25,"Lago de Caldeira
+Aguas Claras
+46038-708 Fonseca / MA",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,ATUALIZAÇÃO CADASTRAL
+856,José Pedro Machado,31,"Distrito Larissa Campos, 15
+Alpes
+07914-608 Pastor / MS",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,RENOVAÇÃO DA CNH SIMPLES
+857,Murilo Brito,26,"Condomínio Henry Gabriel Cunha, 47
+Nossa Senhora Do Rosário
+90510-710 Lima Alegre / AC",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,Aquisição da Carteira de Passe Livre Intermunicipal
+858,Murilo Pacheco,36,"Chácara Heloisa Gomes, 70
+Olhos D'água
+14601326 Ferreira de Martins / GO",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+859,Dr. André Fernandes,45,"Estação Letícia Sousa, 34
+São João Batista
+75671167 Rezende / RN",cagepa,LIGAÇÃO DE ÁGUA,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+860,Isis Araújo,38,"Residencial Valentina Almeida, 61
+Lorena
+13598761 Peixoto do Galho / SP",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Serviço Especializado em Triagem e Diagnóstico
+861,Melina Sampaio,38,"Estrada Ferreira, 145
+Vila Trinta E Um De Março
+75341848 da Paz / RJ",cagepa,ATUALIZAÇÃO CADASTRAL,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+862,Dra. Mariah Farias,33,"Área Rocha, 63
+São Pedro
+28314-161 Freitas / PR",sudema,Licença de Operação para Pesquisa Mineral,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+863,Nicole Cardoso,32,"Quadra de Albuquerque, 30
+Mantiqueira
+55674539 da Cruz / AM",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Serviço de Informação ao Cidadão
+864,Luana da Cruz,22,"Colônia Costela, 15
+Calafate
+73705-795 Moraes Alegre / AL",cagepa,ATUALIZAÇÃO CADASTRAL,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+865,Maria Helena Vargas,18,"Alameda Souza, 329
+Vera Cruz
+98114933 Andrade / SE",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cagepa,LIGAÇÃO DE ÁGUA
+866,Alana Fonseca,28,"Chácara Arthur Miguel Gonçalves, 32
+Serra Verde
+76112164 Abreu / RO",cinep,Concessão de Incentivo Locacional a Empresas,detran,PRIMEIRA HABILITAÇÃO
+867,Sra. Maria Liz Novais,44,"Campo de Pimenta
+Novo São Lucas
+00054-042 Vargas Grande / MT",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cbmpb,Perícia de Incêndio e Explosão
+868,Sr. Raul Moraes,37,"Residencial de Pires
+União
+84064863 Duarte / TO",cinep,Concessão de Incentivo Locacional a Empresas,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+869,Dra. Allana Nunes,32,"Fazenda da Cunha, 29
+Pantanal
+69825-303 Pereira do Oeste / RN",cbmpb,Socorro de Emergências,sudema,Licença por Adesão e Compromisso
+870,Emanuella Lopes,35,"Avenida Cecília Sá, 219
+Conjunto Novo Dom Bosco
+14134-279 da Conceição / GO",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cinep,Concessão de Incentivo Fiscal a Empresas
+871,Eduarda Pires,34,"Colônia Gael Dias, 40
+Vila Atila De Paiva
+81632477 Fernandes do Amparo / RR",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,funade,Serviço de Informação ao Cidadão
+872,Marcela Ribeiro,26,"Estrada de da Rosa, 84
+Vila Maria
+18337729 Fogaça da Mata / RR",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+873,Gabriel Pinto,43,"Viaduto Samuel Montenegro
+Nova America
+30564539 Costa / DF",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,ATUALIZAÇÃO CADASTRAL
+874,Esther da Costa,38,"Largo Paulo Farias, 96
+Solimoes
+89159517 Duarte / RR",cinep,Concessão de Incentivo Locacional a Empresas,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+875,Emilly Almeida,50,"Estrada Davi Miguel Macedo, 61
+Santa Isabel
+25077758 Albuquerque do Norte / PE",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,LIGAÇÃO DE ÁGUA
+876,João Lucas Vargas,21,"Morro Marques, 88
+Europa
+92044962 Porto / PR",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+877,Francisco Abreu,24,"Viaduto de Peixoto, 46
+Laranjeiras
+35071491 Farias do Sul / RO",detran,PRIMEIRA HABILITAÇÃO,cinep,Concessão de Incentivo Fiscal a Empresas
+878,Milena da Luz,18,"Praia Macedo, 16
+Baleia
+56685519 Farias de Goiás / GO",cinep,Concessão de Incentivo Locacional a Empresas,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+879,Dr. Antônio Guerra,30,"Estrada de Mendonça, 634
+Vila Piratininga Venda Nova
+58104581 Macedo / AM",cbmpb,Socorro de Emergências,funade,Serviço Especializado em Triagem e Diagnóstico
+880,Breno da Rosa,46,"Ladeira Juliana Melo, 73
+São Salvador
+99978-951 Araújo Verde / MG",sudema,Licença de Operação para Pesquisa Mineral,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+881,André Macedo,26,"Vale Costa, 26
+Dom Cabral
+15402-008 Pastor / ES",detran,INDICAÇÃO DE CONDUTOR INFRATOR,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+882,Lara Pacheco,30,"Morro Souza, 57
+Unidas
+91964-129 da Luz Paulista / AP",sudema,Licença por Adesão e Compromisso,detran,PRIMEIRA HABILITAÇÃO
+883,Carolina Fernandes,29,"Esplanada Luana Jesus, 4
+Nova Vista
+80259733 da Costa da Praia / CE",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+884,Ana Laura da Mata,53,"Esplanada José Pedro Rodrigues, 8
+Vila Mantiqueira
+84689425 Oliveira Verde / PR",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+885,Asafe Barros,45,"Rua Gabriel Camargo
+Vila Da Amizade
+94973576 Abreu do Norte / AM",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+886,Enzo Gabriel Novais,30,"Esplanada Kamilly Rodrigues
+Tupi A
+38627621 Cardoso / PA",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+887,Pietra Andrade,50,"Via de Câmara, 7
+Senhor Dos Passos
+40833772 Fogaça / MG",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,detran,RENOVAÇÃO DA CNH SIMPLES
+888,Luiz Fernando Cassiano,32,"Lago de Duarte, 55
+Camponesa 2ª Seção
+27311703 da Rocha dos Dourados / RR",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cbmpb,Socorro de Emergências
+889,Vinicius Ramos,37,"Lago Moura, 577
+Dona Clara
+65745-206 Barros do Campo / PA",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+890,Joaquim Gonçalves,36,"Chácara de Pinto, 98
+Buritis
+82510-116 Nascimento da Mata / SC",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+891,Gabriela Correia,18,"Viaduto Davi Martins, 67
+Vila Canto Do Sabiá
+11130-195 Aragão / AL",cbmpb,Socorro de Emergências,funade,Serviço de Informação ao Cidadão
+892,Luna da Mota,49,"Travessa Ramos, 231
+São Cristóvão
+23616-008 da Rosa / PA",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+893,Milena Moreira,44,"Quadra de Melo
+Vila São Gabriel Jacui
+32777832 Sampaio / RN",funade,Serviço Especializado em Triagem e Diagnóstico,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+894,Isabelly Cassiano,18,"Trevo Brayan Carvalho
+Serra Verde
+10119-669 Rios / PB",funade,Serviço Especializado em Triagem e Diagnóstico,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+895,Srta. Maria Cecília Ramos,30,"Fazenda Cardoso, 517
+Vila Tirol
+35074798 Marques Verde / GO",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cbmpb,Perícia de Incêndio e Explosão
+896,Milena Costa,39,"Ladeira Lima, 403
+Coração Eucarístico
+78298870 da Cunha / ES",funade,Aquisição da Carteira de Passe Livre Intermunicipal,funade,Serviço de Informação ao Cidadão
+897,Ana Julia Andrade,24,"Esplanada de da Rocha, 9
+Miramar
+96813-823 Guerra / BA",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,cagepa,LIGAÇÃO DE ÁGUA
+898,Asafe Freitas,27,"Via de Porto, 191
+São Marcos
+27455-737 Ramos da Prata / PR",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,ATUALIZAÇÃO CADASTRAL
+899,Alice Campos,30,"Quadra Melo, 78
+Belmonte
+95975-746 Pacheco / RR",funade,Serviço de Informação ao Cidadão,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+900,Clara Borges,27,"Fazenda Ian Camargo, 963
+Barão Homem De Melo 1ª Seção
+19334178 Ribeiro / ES",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,funade,Serviço Especializado em Triagem e Diagnóstico
+901,Sr. Paulo Alves,26,"Travessa de Cavalcanti, 972
+Santa Terezinha
+22173969 Pastor da Mata / PI",detran,PRIMEIRA HABILITAÇÃO,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+902,Dr. Liam Campos,40,"Recanto de Abreu, 724
+Alta Tensão 1ª Seção
+66504125 Macedo / PR",cinep,Concessão de Incentivo Fiscal a Empresas,detran,PRIMEIRA HABILITAÇÃO
+903,Joaquim Cavalcante,20,"Aeroporto Luiz Miguel da Rocha, 12
+Boa Esperança
+56255855 Guerra / AM",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Perícia de Incêndio e Explosão
+904,Dr. Theodoro Aragão,34,"Largo de Novaes, 13
+Dom Bosco
+85987-366 Cardoso das Pedras / PI",funade,Serviço Especializado em Triagem e Diagnóstico,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+905,Joaquim Lopes,45,"Recanto Pacheco, 31
+Conjunto Taquaril
+36312240 Rocha de Sousa / AL",cbmpb,Socorro de Emergências,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+906,Luiz Miguel Novais,49,"Largo de Aparecida, 48
+Nova Gameleira
+47520453 da Luz / RN",cbmpb,Socorro de Emergências,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+907,Jade Borges,32,"Recanto Novais, 2
+Nova Cintra
+60914242 Costa de Gomes / PE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,detran,PRIMEIRA HABILITAÇÃO
+908,Dra. Maria Vitória Novaes,32,"Morro Clara Carvalho, 138
+Tres Marias
+70852805 Araújo Grande / PB",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+909,Sra. Yasmin Aparecida,40,"Viela de Vargas
+Unidas
+06058-638 Pinto / PI",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+910,Mathias Gomes,43,"Viela de Campos
+Sport Club
+40333-487 Souza / CE",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+911,Lavínia Fonseca,18,"Setor Castro, 93
+Vila Independencia 3ª Seção
+67272-415 da Cunha / AL",cagepa,ATUALIZAÇÃO CADASTRAL,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+912,Cauã Cavalcanti,40,"Recanto de Moura, 1
+Engenho Nogueira
+96948-785 Cassiano do Oeste / PR",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+913,Yasmin Camargo,38,"Morro de Pinto, 3
+Nova Esperança
+75191115 Ferreira / PI",funade,Serviço Especializado em Triagem e Diagnóstico,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+914,Dr. Josué Pacheco,31,"Praia Maria Gomes, 39
+Alto Dos Pinheiros
+61455-022 Freitas / MT",cagepa,ATUALIZAÇÃO CADASTRAL,detran,RENOVAÇÃO DA CNH SIMPLES
+915,Ágatha Ferreira,29,"Esplanada de Pires, 94
+São Francisco Das Chagas
+56144-705 Silveira / PA",sudema,Licença por Adesão e Compromisso,cagepa,ATUALIZAÇÃO CADASTRAL
+916,Léo Novaes,35,"Quadra Daniel Aragão, 550
+Ernesto Nascimento
+68561-401 Moura do Amparo / MT",cinep,Concessão de Incentivo Locacional a Empresas,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+917,Luigi Barros,40,"Colônia de Costa, 413
+Pantanal
+34202-109 Vargas / PR",funade,Aquisição da Carteira de Passe Livre Intermunicipal,sudema,Licença de Operação para Pesquisa Mineral
+918,Isaque das Neves,21,"Alameda de Rios, 8
+Santa Isabel
+34252554 da Cunha do Norte / SP",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,funade,Serviço de Informação ao Cidadão
+919,Maria Clara da Cruz,46,"Quadra de Guerra, 26
+Vila Tirol
+78472132 Rios / RJ",cagepa,LIGAÇÃO DE ÁGUA,cagepa,ATUALIZAÇÃO CADASTRAL
+920,Caroline Machado,48,"Estação de Freitas, 6
+Túnel De Ibirité
+48414740 Dias / AL",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,sudema,Licença de Operação para Pesquisa Mineral
+921,Juliana Duarte,18,"Passarela Correia, 64
+Vila Real 1ª Seção
+83002-523 Correia / GO",detran,RENOVAÇÃO DA CNH SIMPLES,detran,PRIMEIRA HABILITAÇÃO
+922,Hellena Oliveira,39,"Aeroporto Alícia Ramos
+Concórdia
+51736-776 Cardoso / SE",sudema,Licença por Adesão e Compromisso,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+923,Alícia Costa,24,"Quadra da Conceição
+Vila Inestan
+73410-124 Martins / GO",cbmpb,Socorro de Emergências,funade,Serviço de Informação ao Cidadão
+924,Eduardo Cavalcante,28,"Condomínio Sá
+Brasil Industrial
+81456383 Farias de Rezende / SC",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO
+925,Otto Aparecida,34,"Alameda Lopes, 87
+Nossa Senhora Do Rosário
+85727-549 Ramos / PI",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+926,Sabrina Câmara,48,"Lagoa Bento Casa Grande, 17
+Camponesa 2ª Seção
+28178-274 Campos do Amparo / RJ",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,detran,PRIMEIRA HABILITAÇÃO
+927,Srta. Maria Eduarda Sousa,46,"Campo Cardoso, 27
+Pindorama
+38058-618 Rezende de Montenegro / PE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+928,Mariah Teixeira,31,"Vale José Miguel Correia, 502
+Vila Paraíso
+72946-959 Borges da Praia / MS",cagepa,ATUALIZAÇÃO CADASTRAL,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+929,Juliana Porto,40,"Núcleo Luana Abreu, 38
+Fazendinha
+07132-294 Dias Verde / MG",funade,Serviço Especializado em Triagem e Diagnóstico,cagepa,LIGAÇÃO DE ÁGUA
+930,Ravi Cunha,35,"Residencial de Carvalho, 4
+Vila Suzana Segunda Seção
+48094-573 Almeida / SE",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Serviço de Informação ao Cidadão
+931,Bruno das Neves,21,"Condomínio Valentina Porto, 854
+Vila Batik
+10525-616 da Mata Paulista / GO",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+932,Sr. Kevin Almeida,37,"Viaduto de Nogueira, 963
+Sion
+36721-258 Gonçalves da Prata / MG",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Perícia de Incêndio e Explosão
+933,Lara Lopes,37,"Parque Pinto, 9
+Leticia
+97848609 Silva / AM",cagepa,ATUALIZAÇÃO CADASTRAL,cinep,Concessão de Incentivo Fiscal a Empresas
+934,Gael Henrique Cunha,43,"Lago Ana Julia Duarte, 563
+São Salvador
+90227-974 Correia / PI",sudema,Licença por Adesão e Compromisso,cinep,Concessão de Incentivo Fiscal a Empresas
+935,Kaique Rezende,28,"Sítio Gustavo Cavalcanti
+Vila Calafate
+08942-648 Santos / AM",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cbmpb,Socorro de Emergências
+936,Raquel Abreu,45,"Viela Abreu, 83
+Vila Mangueiras
+93218212 da Luz do Sul / RO",funade,Serviço de Informação ao Cidadão,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+937,Raquel Moreira,43,"Passarela de Rezende, 767
+Leticia
+27612-810 Jesus do Sul / SE",funade,Serviço Especializado em Triagem e Diagnóstico,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+938,Maria Isis Camargo,24,"Recanto de Pires, 49
+Serra
+38164470 Farias do Norte / MT",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Perícia de Incêndio e Explosão
+939,Davi Lucas da Paz,46,"Fazenda Monteiro, 497
+Conjunto Taquaril
+62827696 Cavalcanti / MG",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença por Adesão e Compromisso
+940,Caroline Cavalcanti,27,"Residencial de Rodrigues, 7
+Vila Do Pombal
+29162006 Pacheco / TO",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),sudema,Licença por Adesão e Compromisso
+941,Isis Ferreira,36,"Distrito Yasmin Aparecida, 86
+Vila Calafate
+11472639 Montenegro / SE",detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+942,Henry Gabriel Vasconcelos,31,"Passarela de Ribeiro, 15
+Palmeiras
+41501-955 Silveira dos Dourados / BA",cinep,Concessão de Incentivo Locacional a Empresas,cinep,Concessão de Incentivo Fiscal a Empresas
+943,Erick Viana,34,"Praia Yago Moraes, 48
+São Gabriel
+38698-578 Abreu de Pacheco / TO",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cinep,Concessão de Incentivo Fiscal a Empresas
+944,Arthur Miguel Silva,43,"Lago Anna Liz Gomes
+João Pinheiro
+15197-415 Gonçalves / RO",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,RENOVAÇÃO DA CNH SIMPLES
+945,Carolina Monteiro,38,"Vale de Rezende, 14
+Flamengo
+20736320 da Paz / BA",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+946,Rebeca Ferreira,42,"Recanto José Pedro Araújo, 11
+Vila Primeiro De Maio
+84334620 Cavalcante / MS",funade,Aquisição da Carteira de Passe Livre Intermunicipal,sudema,Licença por Adesão e Compromisso
+947,Igor Monteiro,39,"Viaduto Cassiano, 1
+Chácara Leonina
+84757-825 Mendes do Galho / ES",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cinep,Concessão de Incentivo Fiscal a Empresas
+948,Arthur Gabriel da Cunha,35,"Quadra Rafael Aragão, 84
+Vila Nova
+66350342 Vieira / RR",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+949,Sra. Maitê Siqueira,18,"Quadra Breno Peixoto, 15
+Fazendinha
+39645-753 Rezende / SP",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,detran,RENOVAÇÃO DA CNH SIMPLES
+950,Mathias Sales,42,"Campo Ana Luiza Freitas, 629
+Marilandia
+89868-505 Dias / ES",detran,INDICAÇÃO DE CONDUTOR INFRATOR,sudema,Licença por Adesão e Compromisso
+951,Clarice Barros,26,"Praia de Campos, 6
+Jardim Dos Comerciarios
+02664-719 Aragão de Macedo / PA",detran,PRIMEIRA HABILITAÇÃO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+952,Mateus Andrade,40,"Núcleo Silveira, 108
+Bonfim
+64293-272 Vieira de Ribeiro / RR",funade,Serviço Especializado em Triagem e Diagnóstico,funade,Serviço de Informação ao Cidadão
+953,Isabella Melo,58,"Distrito de Barros, 6
+Dona Clara
+21870388 Campos / AM",cinep,Concessão de Incentivo Fiscal a Empresas,cbmpb,Socorro de Emergências
+954,Isaque Gomes,39,"Praça de Macedo
+Marmiteiros
+89590082 Souza Paulista / PE",sudema,Licença de Operação para Pesquisa Mineral,funade,Serviço de Informação ao Cidadão
+955,Luiz Felipe Nogueira,34,"Chácara Alves, 59
+Universo
+36136-533 Peixoto / RJ",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+956,Sofia Moraes,35,"Trevo Cassiano, 97
+Vila Antena Montanhês
+60955-561 Aparecida das Pedras / PR",funade,Serviço de Informação ao Cidadão,cinep,Concessão de Incentivo Fiscal a Empresas
+957,Sra. Maya Costela,37,"Lago de da Mata
+Vila Copasa
+52416-024 Barros Alegre / RS",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cbmpb,Socorro de Emergências
+958,Bento da Paz,27,"Núcleo de Camargo, 21
+Olhos D'água
+32208-967 Montenegro da Prata / CE",detran,PRIMEIRA HABILITAÇÃO,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+959,Alice Moreira,22,"Via Cauã Vargas, 1
+Cidade Nova
+41200-160 da Cunha de Aparecida / DF",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+960,Juliana Marques,45,"Conjunto de Sá, 92
+Ipe
+39034-146 Garcia das Flores / PA",sudema,Licença por Adesão e Compromisso,funade,Aquisição da Carteira de Passe Livre Intermunicipal
+961,Bruno Freitas,42,"Loteamento Otávio da Paz
+Graça
+26182972 Peixoto / RO",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+962,Ana Luiza Rodrigues,29,"Jardim de Guerra, 8
+Flamengo
+41008-232 Moura do Galho / MT",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,funade,Serviço Especializado em Triagem e Diagnóstico
+963,Dra. Manuela da Luz,33,"Setor de da Costa
+Milionario
+77073-231 Monteiro de Oliveira / RS",funade,Serviço de Informação ao Cidadão,funade,Serviço Especializado em Triagem e Diagnóstico
+964,Aylla Ramos,35,"Avenida de Rios, 87
+Santa Lúcia
+17698-907 Ferreira / TO",cbmpb,Socorro de Emergências,detran,RENOVAÇÃO DA CNH SIMPLES
+965,Amanda das Neves,39,"Ladeira Fonseca
+Das Industrias I
+53524-900 da Rocha de Barros / TO",cagepa,LIGAÇÃO DE ÁGUA,detran,PRIMEIRA HABILITAÇÃO
+966,Dr. Vinicius Camargo,33,"Ladeira Mariane Fogaça, 70
+Marilandia
+59059-893 Carvalho da Mata / MG",detran,RENOVAÇÃO DA CNH SIMPLES,cagepa,LIGAÇÃO DE ÁGUA
+967,Ana Sophia Macedo,44,"Feira de Brito, 80
+Vitoria Da Conquista
+07736-554 Silveira / CE",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,LIGAÇÃO DE ÁGUA
+968,Maitê Sá,47,"Colônia Lorenzo Camargo
+Fernão Dias
+93290873 Siqueira / PB",cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,cagepa,LIGAÇÃO DE ÁGUA
+969,Natália Araújo,27,"Setor Jade Gonçalves, 33
+Betânia
+40032-710 Moreira da Mata / RJ",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,sudema,Licença por Adesão e Compromisso
+970,Bryan Barros,31,"Chácara Sales, 8
+Marieta 1ª Seção
+52611970 Leão da Prata / PI",cbmpb,Socorro de Emergências,cinep,Concessão de Incentivo Locacional a Empresas
+971,Benicio Caldeira,18,"Condomínio Correia, 61
+Capitão Eduardo
+25390-991 Silva / PR",funade,Serviço de Informação ao Cidadão,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+972,Théo Cirino,35,"Lago Abreu, 65
+Vila Califórnia
+61283-354 Monteiro / PI",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança
+973,Sra. Evelyn Andrade,51,"Lagoa Mendes, 157
+Xodo-Marize
+82182-012 Câmara / PR",cbmpb,Perícia de Incêndio e Explosão,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+974,Raquel da Mata,35,"Jardim Marcelo Barros, 93
+Tiradentes
+39311-946 Novaes / PI",funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,cbmpb,Perícia de Incêndio e Explosão
+975,Bianca Leão,46,"Alameda Câmara, 26
+Tres Marias
+44946917 da Conceição do Amparo / ES",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+976,Dr. Thiago Dias,24,"Estação Nathan Pacheco, 37
+Vila Jardim Montanhes
+91657-718 Novaes das Flores / MS",cinep,Concessão de Incentivo Locacional a Empresas,cagepa,LIGAÇÃO DE ÁGUA
+977,Fernanda Castro,36,"Fazenda Gonçalves
+Vila Boa Vista
+63743478 Rios / ES",cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+978,Dr. João Pedro Borges,42,"Sítio Sá, 2
+Itaipu
+95797353 Brito da Praia / TO",detran,PRIMEIRA HABILITAÇÃO,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+979,João Felipe Pimenta,43,"Ladeira Aparecida, 6
+Fernão Dias
+24077995 Porto da Serra / SC",cinep,Concessão de Incentivo Fiscal a Empresas,cinep,Concessão de Incentivo Locacional a Empresas
+980,Apollo Souza,28,"Passarela Silveira, 2
+Cachoeirinha
+52742477 da Rocha do Campo / RR",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,PRIMEIRA HABILITAÇÃO
+981,Lucca Freitas,40,"Favela Yasmin Pacheco, 48
+Bom Jesus
+58871409 Rodrigues Grande / AC",cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,cagepa,ATUALIZAÇÃO CADASTRAL
+982,Carlos Eduardo Nascimento,44,"Morro Azevedo, 944
+Santa Maria
+49289-495 Rios de Macedo / RR",cagepa,ATUALIZAÇÃO CADASTRAL,cagepa,LIGAÇÃO DE ÁGUA
+983,Benicio Pacheco,31,"Condomínio Nunes
+Vila Da Luz
+94490-060 Silveira do Oeste / CE",funade,Serviço de Informação ao Cidadão,detran,INDICAÇÃO DE CONDUTOR INFRATOR
+984,João Vitor Ribeiro,34,"Conjunto Campos, 58
+Jardim São José
+00356555 Pimenta / CE",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cinep,Concessão de Incentivo Fiscal a Empresas
+985,Dr. Alexandre Carvalho,33,"Condomínio Costa
+Túnel De Ibirité
+86711013 Rios de Cirino / AM",cinep,Concessão de Incentivo Fiscal a Empresas,sudema,Licença por Adesão e Compromisso
+986,Josué Mendonça,28,"Loteamento Fernandes, 558
+Minaslandia
+87789943 Barros do Oeste / RO",sudema,Licença de Operação para Pesquisa Mineral,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+987,Dr. João Felipe Ramos,41,"Área de Ferreira, 18
+Comiteco
+83479647 Aragão da Mata / GO",funade,Aquisição da Carteira de Passe Livre Intermunicipal,cagepa,ATUALIZAÇÃO CADASTRAL
+988,Davi das Neves,43,"Núcleo Novaes, 835
+Xangri-Lá
+00427-431 Castro / PI",detran,INDICAÇÃO DE CONDUTOR INFRATOR,cbmpb,Socorro de Emergências
+989,Sophie Silveira,47,"Loteamento da Mata, 8
+São Geraldo
+50419-584 Correia / MT",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
+990,Dr. Vinícius Sales,47,"Morro Ana Julia Martins
+Pirineus
+44165934 das Neves do Galho / RR",detran,RENOVAÇÃO DA CNH SIMPLES,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA)
+991,Fernando Almeida,24,"Avenida Noah Jesus
+Vila Satélite
+29583498 Almeida da Praia / DF",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,cinep,Concessão de Incentivo Locacional a Empresas
+992,Asafe Vieira,23,"Rodovia Mendes
+Salgado Filho
+18103334 Ribeiro Verde / MA",cagepa,LIGAÇÃO DE ÁGUA,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO
+993,Theodoro Dias,39,"Rodovia Letícia Teixeira, 48
+São Pedro
+76685-005 Cassiano de Ferreira / AC",cinep,Concessão de Incentivo Locacional a Empresas,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado
+994,Heloisa Moura,35,"Núcleo Antonella da Conceição, 579
+Pindura Saia
+26785818 Siqueira de Cavalcante / MS",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+995,Sra. Maria Isis Silveira,45,"Feira Ana Julia Moura, 889
+Alto Caiçaras
+38520286 Carvalho / SE",detran,PRIMEIRA HABILITAÇÃO,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA
+996,José Leão,34,"Feira de Cassiano, 41
+Copacabana
+42485317 Fernandes Grande / RO",detran,PRIMEIRA HABILITAÇÃO,cbmpb,Socorro de Emergências
+997,Sra. Ayla Vargas,42,"Aeroporto Isaac Ribeiro, 86
+Vila Ouro Minas
+32732608 Porto / RO",funade,Aquisição da Carteira de Passe Livre Intermunicipal,detran,RENOVAÇÃO DA CNH SIMPLES
+998,Gael Henrique Fernandes,42,"Estrada Oliver Sales, 22
+Conjunto Paulo Vi
+09368-967 Barbosa / AM",funade,Aquisição da Carteira de Passe Livre Intermunicipal,sudema,Licença de Operação para Pesquisa Mineral
+999,Vitória Camargo,35,"Estação Maria Cecília Cavalcante, 95
+Jardim Dos Comerciarios
+98425612 Borges / ES",sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),funade,Aquisição da Carteira de Passe Livre Intermunicipal
+1000,Eloah da Conceição,42,"Núcleo de Gomes, 93
+Tirol
+41238-972 Câmara dos Dourados / MT",cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO
