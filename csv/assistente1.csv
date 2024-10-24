@@ -1,0 +1,22 @@
+,orgão,serviço,efetivo,max interacoes
+1,detran,PRIMEIRA HABILITAÇÃO,True,19
+2,detran,INDICAÇÃO DE CONDUTOR INFRATOR,True,18
+3,detran,MUDANÇA DE CATEGORIA - HABILITAÇÃO,True,6
+4,detran,RENOVAÇÃO DA CNH SIMPLES,True,8
+5,cagepa,LIGAÇÃO DE ÁGUA,True,10
+6,cagepa,SEGUNDA VIA DE CONTA DE ÁGUA E ESGOTO,True,12
+7,cagepa,DESOBSTRUÇÃO DE RAMAL DE ESGOTO,True,15
+8,cagepa,ATUALIZAÇÃO CADASTRAL,True,7
+9,funade,AQUISIÇÃO DE CARTEIRA DE IDENTIFICAÇÃO DO AUTISTA - CIPTEA,True,14
+10,funade,Serviço de Informação ao Cidadão,True,8
+11,funade,Serviço Especializado em Triagem e Diagnóstico,True,18
+12,funade,Aquisição da Carteira de Passe Livre Intermunicipal,False,16
+13,cbmpb,Socorro de Emergências,False,7
+14,cbmpb,Análise de Projeto de Segurança contra Incêndio Simplificado,False,14
+15,cbmpb,Perícia de Incêndio e Explosão,True,19
+16,cbmpb,Consulta Técnica: Esclarecimento de Dúvidas para Sua Segurança,True,15
+17,cinep,Concessão de Incentivo Fiscal a Empresas,True,6
+18,cinep,Concessão de Incentivo Locacional a Empresas,True,18
+19,sudema,Licença de Alteração - Divisão de Infraestrutura (DINFRA),True,7
+20,sudema,Licença por Adesão e Compromisso,True,8
+21,sudema,Licença de Operação para Pesquisa Mineral,True,13
